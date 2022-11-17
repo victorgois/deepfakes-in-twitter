@@ -1,0 +1,6641 @@
+[
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 51,
+          "end": 64,
+          "probability": 0.9798,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "AfpChecamos",
+          "id": "1010174656190574592"
+        },
+        {
+          "start": 72,
+          "end": 84,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 87,
+          "end": 102,
+          "username": "geraldoalckmin",
+          "id": "74215006"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555587245326868480",
+    "id": "1555587245326868480",
+    "created_at": "2022-08-05T16:11:15.000Z",
+    "source": "Twitter for Android",
+    "author_id": "76132773",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AfpChecamos: Circula nas redes um vídeo em que William Bonner chama @LulaOficial e @geraldoalckmin de ladrões. \n\n🔎 Mas o áudio foi inse…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 51,
+          "end": 64,
+          "probability": 0.9798,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "AfpChecamos",
+          "id": "1010174656190574592"
+        },
+        {
+          "start": 72,
+          "end": 84,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 87,
+          "end": 102,
+          "username": "geraldoalckmin",
+          "id": "74215006"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555587037163622401",
+    "id": "1555587037163622401",
+    "created_at": "2022-08-05T16:10:25.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1079550132549570560",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AfpChecamos: Circula nas redes um vídeo em que William Bonner chama @LulaOficial e @geraldoalckmin de ladrões. \n\n🔎 Mas o áudio foi inse…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 51,
+          "end": 64,
+          "probability": 0.9798,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "AfpChecamos",
+          "id": "1010174656190574592"
+        },
+        {
+          "start": 72,
+          "end": 84,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 87,
+          "end": 102,
+          "username": "geraldoalckmin",
+          "id": "74215006"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555586842422116353",
+    "id": "1555586842422116353",
+    "created_at": "2022-08-05T16:09:39.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1400465940387549187",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AfpChecamos: Circula nas redes um vídeo em que William Bonner chama @LulaOficial e @geraldoalckmin de ladrões. \n\n🔎 Mas o áudio foi inse…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 51,
+          "end": 64,
+          "probability": 0.9798,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "AfpChecamos",
+          "id": "1010174656190574592"
+        },
+        {
+          "start": 72,
+          "end": 84,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 87,
+          "end": 102,
+          "username": "geraldoalckmin",
+          "id": "74215006"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555586510778408962",
+    "id": "1555586510778408962",
+    "created_at": "2022-08-05T16:08:20.000Z",
+    "source": "Twitter for Android",
+    "author_id": "131245060",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AfpChecamos: Circula nas redes um vídeo em que William Bonner chama @LulaOficial e @geraldoalckmin de ladrões. \n\n🔎 Mas o áudio foi inse…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 51,
+          "end": 64,
+          "probability": 0.9798,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "AfpChecamos",
+          "id": "1010174656190574592"
+        },
+        {
+          "start": 72,
+          "end": 84,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 87,
+          "end": 102,
+          "username": "geraldoalckmin",
+          "id": "74215006"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555586392746594304",
+    "id": "1555586392746594304",
+    "created_at": "2022-08-05T16:07:52.000Z",
+    "source": "Twitter for Android",
+    "author_id": "4903811074",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AfpChecamos: Circula nas redes um vídeo em que William Bonner chama @LulaOficial e @geraldoalckmin de ladrões. \n\n🔎 Mas o áudio foi inse…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 150,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 42,
+          "tag": "deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/OfVlw1kbOg",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 77,
+          "end": 100,
+          "url": "https://t.co/vnYYorGaz0",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537125284000018435/video/1",
+          "display_url": "pic.twitter.com/vnYYorGaz0",
+          "media_key": "7_1537096029669052418"
+        }
+      ]
+    },
+    "conversation_id": "1555586392427732993",
+    "id": "1555586392427732993",
+    "created_at": "2022-08-05T16:07:52.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1120893439393128449",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1537096029669052418"
+      ]
+    },
+    "text": "RT @FakeHubPorn: Marisa Tomei 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw1kbOg https://t.co/vnYYorGaz0"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 51,
+          "end": 64,
+          "probability": 0.9798,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "AfpChecamos",
+          "id": "1010174656190574592"
+        },
+        {
+          "start": 72,
+          "end": 84,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 87,
+          "end": 102,
+          "username": "geraldoalckmin",
+          "id": "74215006"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555586090853072897",
+    "id": "1555586090853072897",
+    "created_at": "2022-08-05T16:06:40.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "1413312600981610496",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AfpChecamos: Circula nas redes um vídeo em que William Bonner chama @LulaOficial e @geraldoalckmin de ladrões. \n\n🔎 Mas o áudio foi inse…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 34,
+          "end": 47,
+          "probability": 0.9814,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 55,
+          "end": 67,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 70,
+          "end": 85,
+          "username": "geraldoalckmin",
+          "id": "74215006"
+        },
+        {
+          "start": 193,
+          "end": 202,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ],
+      "urls": [
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/D9CV8FZzsc",
+          "expanded_url": "http://u.afp.com/BonnerDeepfake",
+          "display_url": "u.afp.com/BonnerDeepfake",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1555272653161783299/jT-iWPgc?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1555272653161783299/jT-iWPgc?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "William Bonner não chamou Lula e Alckmin de ladrões; áudio de vídeo",
+          "description": "O apresentador do Jornal Nacional William Bonner não chamou o candidato à Presidência pelo PT, Luiz Inácio Lula da Silva, e seu vice, Geraldo Alckmin, de “ladrões”, ao contrário do que mostra um vídeo compartilhado nas redes. A sequência, que acumula mais de 3 milhões de visualizações desde 22 de julho de 2022, foi alvo de um deepfake, ou seja, uma manipulação com ferramentas de inteligência artificial que faz com que pessoas pareçam dizer ou fazer coisas que nunca fizeram.",
+          "unwound_url": "https://checamos.afp.com/doc.afp.com.32FZ6TV"
+        },
+        {
+          "start": 263,
+          "end": 286,
+          "url": "https://t.co/r3S2CcBjtN",
+          "expanded_url": "https://twitter.com/AfpChecamos/status/1555585924070666240/photo/1",
+          "display_url": "pic.twitter.com/r3S2CcBjtN",
+          "media_key": "3_1555272843348295680"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 1,
+      "like_count": 11,
+      "quote_count": 0
+    },
+    "conversation_id": "1555585924070666240",
+    "id": "1555585924070666240",
+    "created_at": "2022-08-05T16:06:00.000Z",
+    "source": "TweetDeck",
+    "author_id": "1010174656190574592",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1555272843348295680"
+      ]
+    },
+    "text": "Circula nas redes um vídeo em que William Bonner chama @LulaOficial e @geraldoalckmin de ladrões. \n\n🔎 Mas o áudio foi inserido no vídeo, que se trata de uma deepfake.  \n\nEssa é uma checagem do @Comprova, do qual a AFP faz parte.\n\nConfira: https://t.co/D9CV8FZzsc https://t.co/r3S2CcBjtN"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555584243845271552",
+    "id": "1555584243845271552",
+    "created_at": "2022-08-05T15:59:19.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1292616634478231553",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 107,
+          "end": 110,
+          "probability": 0.9472,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 3103,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555582141974601730",
+    "id": "1555582141974601730",
+    "created_at": "2022-08-05T15:50:58.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1359192149439508481",
+    "text": "RT @brunnosarttori: Esse vídeo pode passar como real pra muita gente. Usei deepfake pra inserir o rosto de Lula e transferir o timbre de vo…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555571245596479488",
+    "id": "1555571245596479488",
+    "created_at": "2022-08-05T15:07:40.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1106203776585744384",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555566103128055808",
+    "id": "1555566103128055808",
+    "created_at": "2022-08-05T14:47:14.000Z",
+    "source": "Twitter for Android",
+    "author_id": "178147770",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 9,
+          "end": 14,
+          "probability": 0.9794,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        },
+        {
+          "start": 25,
+          "end": 28,
+          "probability": 0.9941,
+          "type": "Person",
+          "normalized_text": "Lula"
+        },
+        {
+          "start": 77,
+          "end": 80,
+          "probability": 0.9466,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "urls": [
+        {
+          "start": 82,
+          "end": 105,
+          "url": "https://t.co/BvJPggh8zK",
+          "expanded_url": "https://lula.com.br/video-de-bonner-xingando-lula-e-falso-entenda-como-funcionam-as-deepfakes/",
+          "display_url": "lula.com.br/video-de-bonne…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1555558121766010880/lavhUBN8?format=jpg&name=orig",
+              "width": 1280,
+              "height": 816
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1555558121766010880/lavhUBN8?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Vídeo de Bonner xingando Lula é falso! Entenda como funcionam as deepfakes - Lula",
+          "description": "A tecnologia de inserir rosto e voz de outra pessoa num vídeo já existe há algum tempo. Já tem deepfake contra Lula, estamos atentos!",
+          "unwound_url": "https://lula.com.br/video-de-bonner-xingando-lula-e-falso-entenda-como-funcionam-as-deepfakes/"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555558121371828224",
+    "id": "1555558121371828224",
+    "created_at": "2022-08-05T14:15:31.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1555365700956479488",
+    "text": "Vídeo de Bonner xingando Lula é falso! Entenda como funcionam as deepfakes - Lula https://t.co/BvJPggh8zK"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554945570741129217",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "EstevanFerrei16",
+          "id": "1491956856260022272"
+        },
+        {
+          "start": 17,
+          "end": 28,
+          "username": "tonytattoo",
+          "id": "61487684"
+        },
+        {
+          "start": 29,
+          "end": 42,
+          "username": "amair_casado",
+          "id": "1022237625904758785"
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "username": "obolsoeneas",
+          "id": "93476742"
+        }
+      ]
+    },
+    "id": "1555557891494625280",
+    "created_at": "2022-08-05T14:14:36.000Z",
+    "source": "Twitter for Android",
+    "author_id": "2379537424",
+    "text": "@EstevanFerrei16 @tonytattoo @amair_casado @obolsoeneas Em tempos de deepfake e milícia digital nunca foi tão fácil mentir e produzir fakenews, cuidado com o conteúdo q vc está se expondo pra não cair na pegadinha da FAKENEWS!"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555548275931062273",
+    "id": "1555548275931062273",
+    "created_at": "2022-08-05T13:36:24.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1352066152634191872",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555547196120072193",
+    "id": "1555547196120072193",
+    "created_at": "2022-08-05T13:32:06.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1498023516234518538",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555547038040850433",
+    "id": "1555547038040850433",
+    "created_at": "2022-08-05T13:31:29.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "88448104",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555546650256490500",
+    "id": "1555546650256490500",
+    "created_at": "2022-08-05T13:29:56.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1467228039352365061",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555540361761677312",
+    "id": "1555540361761677312",
+    "created_at": "2022-08-05T13:04:57.000Z",
+    "source": "Twitter for Android",
+    "author_id": "41292330",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555539472913162241",
+    "id": "1555539472913162241",
+    "created_at": "2022-08-05T13:01:25.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1542638606363369472",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.6963,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "verdadenarede",
+          "id": "1266738504328982531"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555539390927085568",
+    "id": "1555539390927085568",
+    "created_at": "2022-08-05T13:01:05.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1513913300861530113",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @verdadenarede: Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xing…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 109,
+          "end": 114,
+          "probability": 0.9474,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        },
+        {
+          "start": 125,
+          "end": 128,
+          "probability": 0.9436,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "urls": [
+        {
+          "start": 183,
+          "end": 206,
+          "url": "https://t.co/k4EIDdOif0",
+          "expanded_url": "https://twitter.com/verdadenarede/status/1555539118653771777/photo/1",
+          "display_url": "pic.twitter.com/k4EIDdOif0",
+          "media_key": "3_1555308229374234624"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 1,
+      "like_count": 23,
+      "quote_count": 0
+    },
+    "conversation_id": "1555539118653771777",
+    "id": "1555539118653771777",
+    "created_at": "2022-08-05T13:00:01.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1266738504328982531",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1555308229374234624"
+      ]
+    },
+    "text": "Cuidado com a deepfake!\nA tecnologia é capaz de inserir rosto e voz falsos em qualquer vídeo, como o caso do Bonner xingando Lula que não é verdade, mas está confundindo muita gente! https://t.co/k4EIDdOif0"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555240412910075905",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "GustaRegazzio",
+          "id": "2693245599"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "username": "SigmaMemes_69",
+          "id": "1069674196027015169"
+        }
+      ]
+    },
+    "id": "1555535875232223233",
+    "created_at": "2022-08-05T12:47:07.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1103023694371262464",
+    "text": "@GustaRegazzio @SigmaMemes_69 Mlk pqp q bagulho cursed esse deepfake"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 20,
+          "end": 25,
+          "probability": 0.7702,
+          "type": "Person",
+          "normalized_text": "Anitta"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "gayblogbr",
+          "id": "180508828"
+        }
+      ],
+      "urls": [
+        {
+          "start": 106,
+          "end": 129,
+          "url": "https://t.co/lfFQnn5Vzk",
+          "expanded_url": "https://gay.blog.br/noticias/apos-anitta-ser-vitima-do-deepfake-advogado-explica-as-consequencias-criminais-da-pratica/",
+          "display_url": "gay.blog.br/noticias/apos-…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1555407849236348928/iutrk4o9?format=jpg&name=orig",
+              "width": 961,
+              "height": 518
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1555407849236348928/iutrk4o9?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Após Anitta ser vítima do deepfake, advogado explica as consequências criminais da prática",
+          "description": "Nessa semana vazou supostas imagens da Anitta praticando sexo oral em um homem. No entanto, trata-se de uma técnica chamada \"deepfake\"",
+          "unwound_url": "http://gay.blog.br/noticias/apos-anitta-ser-vitima-do-deepfake-advogado-explica-as-consequencias-criminais-da-pratica/"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555407799462596609",
+    "id": "1555407799462596609",
+    "created_at": "2022-08-05T04:18:12.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "461957395",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "849684576913940480",
+          "name": "Latin pop",
+          "description": "Latino"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "885621256573173760",
+          "name": "Brazilian funk",
+          "description": "Funk"
+        }
+      }
+    ],
+    "text": "RT @gayblogbr: Após Anitta ser vítima do deepfake, advogado explica as consequências criminais da prática https://t.co/lfFQnn5Vzk"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 19,
+          "end": 25,
+          "probability": 0.8626,
+          "type": "Other",
+          "normalized_text": "Titanic"
+        },
+        {
+          "start": 125,
+          "end": 128,
+          "probability": 0.9427,
+          "type": "Person",
+          "normalized_text": "Rose"
+        },
+        {
+          "start": 132,
+          "end": 135,
+          "probability": 0.9628,
+          "type": "Person",
+          "normalized_text": "Jack"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "conversation_id": "1555380077541588992",
+    "id": "1555380077541588992",
+    "created_at": "2022-08-05T02:28:02.000Z",
+    "source": "Twitter for Android",
+    "author_id": "61067150",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "86",
+          "name": "Movie",
+          "description": "A film like Rogue One: A Star Wars Story"
+        },
+        "entity": {
+          "id": "1294293791067607040",
+          "name": "Titanic "
+        }
+      },
+      {
+        "domain": {
+          "id": "87",
+          "name": "Movie Genre",
+          "description": "A movie genre like Action"
+        },
+        "entity": {
+          "id": "856977050619363328",
+          "name": "Romance films",
+          "description": "Romance"
+        }
+      },
+      {
+        "domain": {
+          "id": "87",
+          "name": "Movie Genre",
+          "description": "A movie genre like Action"
+        },
+        "entity": {
+          "id": "1284215709757628416",
+          "name": "Cult classics"
+        }
+      }
+    ],
+    "text": "Acabei de assistir Titanic pela milésima vez e só agora que percebi que utilizam uma deepfake extremamente tosca na cena que Rose e Jack estão correndo da água"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 117,
+          "end": 122,
+          "probability": 0.9207,
+          "type": "Person",
+          "normalized_text": "Rupert"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "xx_marsh",
+          "id": "36748173"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "username": "ygorpalopoli",
+          "id": "4788030383"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555358150777257985",
+    "id": "1555358150777257985",
+    "created_at": "2022-08-05T01:00:54.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "822913622255042561",
+    "text": "RT @xx_marsh: @ygorpalopoli DEEPFAKE - Os 3 de boné pra tentar suavizar! Vão lá assistir os vídeos e ver os olhos do Rupert dando uns bug,…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1555270504172474369",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "EdsonFilho74",
+          "id": "1048147717766217728"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "username": "EdsonFilho74",
+          "id": "1048147717766217728"
+        }
+      ]
+    },
+    "id": "1555343365478273027",
+    "created_at": "2022-08-05T00:02:09.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1687916269",
+    "text": "@EdsonFilho74 @EdsonFilho74 vc tem certeza que vai postar esse conteúdo? Se vc estiver cometendo um crime de desinformação, fake news ou qualquer outro vc pode acabar sendo preso. não vale a pena, ainda mais pq vc sabe que essa informação não procede. Ja começando q essa foto é  deepfake."
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555342912073990144",
+    "id": "1555342912073990144",
+    "created_at": "2022-08-05T00:00:21.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "58320497",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "geo": {
+      "place_id": "d8682c2de8fdb268"
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0
+    },
+    "conversation_id": "1554982198528335872",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "GarbiFabiana",
+          "id": "1307314519203631109"
+        },
+        {
+          "start": 42,
+          "end": 57,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "id": "1555342483315359749",
+    "created_at": "2022-08-04T23:58:39.000Z",
+    "source": "Twitter for Android",
+    "author_id": "352815656",
+    "text": "@GarbiFabiana Quem fez essa maravilha foi @brunnosarttori ele é o mago da deepfake."
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 24,
+          "end": 37,
+          "probability": 0.9703,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        },
+        {
+          "start": 48,
+          "end": 51,
+          "probability": 0.9944,
+          "type": "Person",
+          "normalized_text": "Lula"
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "probability": 0.4948,
+          "type": "Person",
+          "normalized_text": "Alckmin"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "AGazetaES",
+          "id": "14870978"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555338060778422274",
+    "id": "1555338060778422274",
+    "created_at": "2022-08-04T23:41:05.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1393274623886831617",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028356550",
+          "name": "Jornal Nacional",
+          "description": "O JN é um telejornal brasileiro produzido pela Rede Globo. Exibido a partir das 20h30, de segunda-feira a sábado. Hoje, é apresentado, por William Bonner (também editor-chefe) e Renata Vasconcellos (também editora-executiva)."
+        }
+      },
+      {
+        "domain": {
+          "id": "4",
+          "name": "TV Episodes",
+          "description": "Television show episodes"
+        },
+        "entity": {
+          "id": "1550420476727414784",
+          "name": "Jornal Nacional",
+          "description": "O JN é um telejornal brasileiro produzido pela Rede Globo. Exibido a partir das 20h30, de segunda-feira a sábado. Hoje, é apresentado, por William Bonner (também editor-chefe) e Renata Vasconcellos (também editora-executiva)."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1550420476727414784",
+          "name": "Jornal Nacional",
+          "description": "O JN é um telejornal brasileiro produzido pela Rede Globo. Exibido a partir das 20h30, de segunda-feira a sábado. Hoje, é apresentado, por William Bonner (também editor-chefe) e Renata Vasconcellos (também editora-executiva)."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AGazetaES: Áudio de William Bonner chamando Lula e Alckmin de bandidos é falso e foi feito com ferramenta de deepfake [https://t.co/n5s…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1554982198528335872",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "GarbiFabiana",
+          "id": "1307314519203631109"
+        },
+        {
+          "start": 40,
+          "end": 55,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "id": "1555330771883278337",
+    "created_at": "2022-08-04T23:12:07.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "123662183",
+    "text": "@GarbiFabiana É do mestre das deepfakes @brunnosarttori"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555328944483831808",
+    "id": "1555328944483831808",
+    "created_at": "2022-08-04T23:04:51.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1490166997832896513",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1554999409213046786",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "VcSonhaImprimo",
+          "id": "1534284477370880001"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "username": "LucianoCLy",
+          "id": "57776456"
+        }
+      ]
+    },
+    "id": "1555327707747176453",
+    "created_at": "2022-08-04T22:59:56.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "28596428",
+    "text": "@VcSonhaImprimo @LucianoCLy É deepfake orgânico. Tecnologia nova."
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554999409213046786",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "eucledson",
+          "id": "28596428"
+        },
+        {
+          "start": 11,
+          "end": 22,
+          "username": "LucianoCLy",
+          "id": "57776456"
+        }
+      ]
+    },
+    "id": "1555327130371768322",
+    "created_at": "2022-08-04T22:57:39.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1534284477370880001",
+    "text": "@eucledson @LucianoCLy Não era deepfake?"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 24,
+          "end": 37,
+          "probability": 0.9703,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        },
+        {
+          "start": 48,
+          "end": 51,
+          "probability": 0.9944,
+          "type": "Person",
+          "normalized_text": "Lula"
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "probability": 0.4948,
+          "type": "Person",
+          "normalized_text": "Alckmin"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "AGazetaES",
+          "id": "14870978"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555315139691298816",
+    "id": "1555315139691298816",
+    "created_at": "2022-08-04T22:10:00.000Z",
+    "source": "Buffer",
+    "author_id": "1009046609424941056",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @AGazetaES: Áudio de William Bonner chamando Lula e Alckmin de bandidos é falso e foi feito com ferramenta de deepfake [https://t.co/n5s…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 19,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555304820483002368",
+    "id": "1555304820483002368",
+    "created_at": "2022-08-04T21:29:00.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "1430636387234193412",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555304808533344257",
+    "id": "1555304808533344257",
+    "created_at": "2022-08-04T21:28:57.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "1430636387234193412",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554934438253010945",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "anderson_oda",
+          "id": "94922796"
+        },
+        {
+          "start": 14,
+          "end": 30,
+          "username": "BusterScruggs12",
+          "id": "1245785656934182912"
+        },
+        {
+          "start": 31,
+          "end": 46,
+          "username": "marcofeliciano",
+          "id": "35805725"
+        },
+        {
+          "start": 47,
+          "end": 61,
+          "username": "jairbolsonaro",
+          "id": "128372940"
+        }
+      ]
+    },
+    "id": "1555298155738054658",
+    "created_at": "2022-08-04T21:02:31.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "1389698400304705547",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      }
+    ],
+    "text": "@anderson_oda @BusterScruggs12 @marcofeliciano @jairbolsonaro Tô mandando falas dele po, ele falou fakenews? Ou isso é deepfake?"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555295045007319042",
+    "id": "1555295045007319042",
+    "created_at": "2022-08-04T20:50:09.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "145849776",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 71,
+          "end": 83,
+          "probability": 0.9872,
+          "type": "Person",
+          "normalized_text": "Bruno Sartori"
+        },
+        {
+          "start": 116,
+          "end": 121,
+          "probability": 0.8477,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "jornal_opopular",
+          "id": "54527239"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555275553632096256",
+    "id": "1555275553632096256",
+    "created_at": "2022-08-04T19:32:42.000Z",
+    "source": "Twitter for Android",
+    "author_id": "478612545",
+    "text": "RT @jornal_opopular: Ao Comprova, o jornalista e produtor de deepfakes Bruno Sartori explicou que a voz atribuída a Bonner na verdade foi p…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 71,
+          "end": 83,
+          "probability": 0.9872,
+          "type": "Person",
+          "normalized_text": "Bruno Sartori"
+        },
+        {
+          "start": 116,
+          "end": 121,
+          "probability": 0.8477,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "jornal_opopular",
+          "id": "54527239"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555273313764745218",
+    "id": "1555273313764745218",
+    "created_at": "2022-08-04T19:23:48.000Z",
+    "source": "Twitter for Android",
+    "author_id": "383360050",
+    "text": "RT @jornal_opopular: Ao Comprova, o jornalista e produtor de deepfakes Bruno Sartori explicou que a voz atribuída a Bonner na verdade foi p…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 171,
+          "end": 176,
+          "probability": 0.632,
+          "type": "Person",
+          "normalized_text": "Anitta"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "GustovowOficial",
+          "id": "2829083400"
+        },
+        {
+          "start": 17,
+          "end": 28,
+          "username": "marcogomes",
+          "id": "1629241"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1555229815426482176",
+    "id": "1555270460098678787",
+    "created_at": "2022-08-04T19:12:27.000Z",
+    "source": "Twitter for Android",
+    "author_id": "65795732",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "849684576913940480",
+          "name": "Latin pop",
+          "description": "Latino"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "885621256573173760",
+          "name": "Brazilian funk",
+          "description": "Funk"
+        }
+      }
+    ],
+    "text": "@GustovowOficial @marcogomes 4a. Ameaçado por deepfakes. Aliás, a profissão do futuro vai ser deepfake expert, pra poder conceder autenticidade a qual dos 244 onlyfans da Anitta é o verdadeiro (se houver)."
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 71,
+          "end": 83,
+          "probability": 0.9872,
+          "type": "Person",
+          "normalized_text": "Bruno Sartori"
+        },
+        {
+          "start": 116,
+          "end": 121,
+          "probability": 0.8477,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "jornal_opopular",
+          "id": "54527239"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555265667133227009",
+    "id": "1555265667133227009",
+    "created_at": "2022-08-04T18:53:25.000Z",
+    "source": "Twitter for Android",
+    "author_id": "87075992",
+    "text": "RT @jornal_opopular: Ao Comprova, o jornalista e produtor de deepfakes Bruno Sartori explicou que a voz atribuída a Bonner na verdade foi p…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 71,
+          "end": 83,
+          "probability": 0.9872,
+          "type": "Person",
+          "normalized_text": "Bruno Sartori"
+        },
+        {
+          "start": 116,
+          "end": 121,
+          "probability": 0.8477,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "jornal_opopular",
+          "id": "54527239"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555263589866504192",
+    "id": "1555263589866504192",
+    "created_at": "2022-08-04T18:45:09.000Z",
+    "source": "Twitter Web App",
+    "author_id": "41159889",
+    "text": "RT @jornal_opopular: Ao Comprova, o jornalista e produtor de deepfakes Bruno Sartori explicou que a voz atribuída a Bonner na verdade foi p…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 71,
+          "end": 83,
+          "probability": 0.9872,
+          "type": "Person",
+          "normalized_text": "Bruno Sartori"
+        },
+        {
+          "start": 116,
+          "end": 121,
+          "probability": 0.8477,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "jornal_opopular",
+          "id": "54527239"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 23,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555263296269344768",
+    "id": "1555263296269344768",
+    "created_at": "2022-08-04T18:43:59.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "64773188",
+    "text": "RT @jornal_opopular: Ao Comprova, o jornalista e produtor de deepfakes Bruno Sartori explicou que a voz atribuída a Bonner na verdade foi p…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 36,
+          "end": 40,
+          "probability": 0.9915,
+          "type": "Person",
+          "normalized_text": "Miley"
+        },
+        {
+          "start": 65,
+          "end": 69,
+          "probability": 0.992,
+          "type": "Person",
+          "normalized_text": "Miley"
+        }
+      ],
+      "urls": [
+        {
+          "start": 131,
+          "end": 154,
+          "url": "https://t.co/SODftUYz9k",
+          "expanded_url": "https://twitter.com/barrelabarrela/status/1554868722501812225",
+          "display_url": "twitter.com/barrelabarrela…"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555258924806410248",
+    "id": "1555258924806410248",
+    "created_at": "2022-08-04T18:26:37.000Z",
+    "source": "Twitter for Android",
+    "author_id": "37234408",
+    "text": "Fui pesquisar se tinha uma dessa da Miley e só achei deepfake da Miley chupando rolas\nAlém da icônica montagem do boquetao no nick https://t.co/SODftUYz9k"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555254665343913984",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "blackpinkeurs",
+          "id": "1322611754820620288"
+        }
+      ]
+    },
+    "id": "1555254665343913984",
+    "created_at": "2022-08-04T18:09:42.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1545245998183862272",
+    "text": "RT @blackpinkeurs: Quer fazer thread sobre o descaso da YG, fique a vontade, todo mundo aqui sabe o lixo que aquela empresa é. Mas vim aqui…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 37,
+          "end": 38,
+          "probability": 0.4465,
+          "type": "Person",
+          "normalized_text": "YG"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 7,
+      "quote_count": 0
+    },
+    "conversation_id": "1555246023160782848",
+    "id": "1555246023160782848",
+    "created_at": "2022-08-04T17:35:21.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1322611754820620288",
+    "text": "Quer fazer thread sobre o descaso da YG, fique a vontade, todo mundo aqui sabe o lixo que aquela empresa é. Mas vim aqui falar que o fandom que + faz viral de hate, piadas com estupro e deepfake envolvendo tua fav, é o único fandom que apoia ela. Merece todo o ratio que levou."
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 39,
+          "end": 42,
+          "probability": 0.9762,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "o_antagonista",
+          "id": "2880932962"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0
+    },
+    "conversation_id": "1555234364979658759",
+    "id": "1555235824098238468",
+    "created_at": "2022-08-04T16:54:50.000Z",
+    "source": "Twitter for Android",
+    "author_id": "403730617",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "852262932607926273",
+          "name": "Pets",
+          "description": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "853980498816679937",
+          "name": "Dogs",
+          "description": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      }
+    ],
+    "text": "@o_antagonista Podem fazer deepfake do Lula chutando filhote de cachorro, isso não vai fazer povo preferir reeleição do atual gov"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555211880666464257",
+    "id": "1555211880666464257",
+    "created_at": "2022-08-04T15:19:41.000Z",
+    "source": "Twitter for Android",
+    "author_id": "3558661162",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555201747458707459",
+    "id": "1555201747458707459",
+    "created_at": "2022-08-04T14:39:25.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1270827064300576768",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555198058593386496",
+    "id": "1555198058593386496",
+    "created_at": "2022-08-04T14:24:46.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 68,
+          "end": 91,
+          "url": "https://t.co/O1DmVvy0kw",
+          "expanded_url": "https://ift.tt/1geXovc",
+          "display_url": "ift.tt/1geXovc",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1555198061823070211/GoM-CZ2k?format=jpg&name=orig",
+              "width": 800,
+              "height": 450
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1555198061823070211/GoM-CZ2k?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@oEduardoMoreira | O mundo geek sem filtros",
+          "description": "BUm lado irreverente do mundo geek e da cultura pop, com a visão única do blogger e podcaster Eduardo Moreira, de Araçatuba (SP).",
+          "unwound_url": "https://www.oeduardomoreira.com.br/estao-usando-deepfakes-apra-enganar-empresas-em-entrevistas-remotas/"
+        }
+      ]
+    },
+    "source": "IFTTT",
+    "author_id": "14788454",
+    "text": "Estão usando deepfakes apra enganar empresas em entrevistas remotas https://t.co/O1DmVvy0kw"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555197818490470400",
+    "id": "1555197818490470400",
+    "created_at": "2022-08-04T14:23:48.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1005020704629317632",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 51,
+          "probability": 0.9639,
+          "type": "Person",
+          "normalized_text": "jisoo"
+        },
+        {
+          "start": 142,
+          "end": 146,
+          "probability": 0.8768,
+          "type": "Person",
+          "normalized_text": "jisoo"
+        }
+      ],
+      "urls": [
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/fNBATSZvnv",
+          "expanded_url": "https://twitter.com/jisooflea/status/1554986218584252416",
+          "display_url": "twitter.com/jisooflea/stat…"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 20,
+      "quote_count": 0
+    },
+    "conversation_id": "1555194552494981122",
+    "id": "1555194552494981122",
+    "created_at": "2022-08-04T14:10:50.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1506240011859025922",
+    "text": "as mesmas armys que todos os dias falam mal da jisoo, jogam hate e que fazem deepfake? vocês akgaes são uns ingratos, nós blinks defendemos a jisoo, amamos ela, somos fãs e a apoiamos no grupo que ela AMA. pra vcs simplesmente jogarem isso no lixo, defendendo hater por rixa boba+ https://t.co/fNBATSZvnv"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 647,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555192524658147330",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 74,
+          "end": 81,
+          "username": "Anitta",
+          "id": "141817380"
+        }
+      ]
+    },
+    "id": "1555192524658147330",
+    "created_at": "2022-08-04T14:02:46.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "88448104",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "849684576913940480",
+          "name": "Latin pop",
+          "description": "Latino"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "885621256573173760",
+          "name": "Brazilian funk",
+          "description": "Funk"
+        }
+      }
+    ],
+    "text": "RT @brunnosarttori: Ontem eu alertei sobre o vídeo falso em que a cantora @Anitta havia sido inserida com o uso de deepfake. Hoje trago as…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 83,
+          "end": 89,
+          "probability": 0.5181,
+          "type": "Product",
+          "normalized_text": "Xvideos"
+        },
+        {
+          "start": 145,
+          "end": 153,
+          "probability": 0.7497,
+          "type": "Person",
+          "normalized_text": "Elizabeth"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "username": "Anitta",
+          "id": "141817380"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1552024798196367361",
+    "id": "1555191265716846592",
+    "created_at": "2022-08-04T13:57:46.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1104768243468824576",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "849684576913940480",
+          "name": "Latin pop",
+          "description": "Latino"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "885621256573173760",
+          "name": "Brazilian funk",
+          "description": "Funk"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "842043844686356480",
+          "name": "Elizabeth II",
+          "description": "Queen of the United Kingdom and the other Commonwealth realms"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "842043844686356480",
+          "name": "Elizabeth II",
+          "description": "Queen of the United Kingdom and the other Commonwealth realms"
+        }
+      }
+    ],
+    "text": "@brunnosarttori @Anitta Sinceramente não sei o porque de tanto espanto 👀🤷‍♂️\n\nNo Xvideos tem vários deepfakes, com várias atrizes.\n....até da \"Elizabeth II\" tem 😂😂😂\n\nNÃO IMPORTA PRO GADO SE É VERDADEIRO OU FALSO\nELES TRABALHAM NA MENTIRA"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 647,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555187591108083712",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 74,
+          "end": 81,
+          "username": "Anitta",
+          "id": "141817380"
+        }
+      ]
+    },
+    "id": "1555187591108083712",
+    "created_at": "2022-08-04T13:43:10.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1104768243468824576",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "828635393868206080",
+          "name": "Anitta",
+          "description": "Anitta"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "849684576913940480",
+          "name": "Latin pop",
+          "description": "Latino"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "885621256573173760",
+          "name": "Brazilian funk",
+          "description": "Funk"
+        }
+      }
+    ],
+    "text": "RT @brunnosarttori: Ontem eu alertei sobre o vídeo falso em que a cantora @Anitta havia sido inserida com o uso de deepfake. Hoje trago as…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555186405080440838",
+    "id": "1555186405080440838",
+    "created_at": "2022-08-04T13:38:27.000Z",
+    "source": "Twitter Web App",
+    "author_id": "107094669",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555183802275844099",
+    "id": "1555183802275844099",
+    "created_at": "2022-08-04T13:28:07.000Z",
+    "source": "Twitter for Android",
+    "author_id": "60560420",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555168401068261376",
+    "id": "1555168401068261376",
+    "created_at": "2022-08-04T12:26:55.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1478847616595156992",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "888105153038958593",
+          "name": "K-pop",
+          "description": "K-Pop"
+        }
+      }
+    ],
+    "text": "grupos de kpop q parecem deepfake e tem menos presença de palco q um repolho"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 37,
+          "end": 50,
+          "tag": "DailyYoutube"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "tag": "Youtube"
+        },
+        {
+          "start": 60,
+          "end": 66,
+          "tag": "video"
+        },
+        {
+          "start": 67,
+          "end": 81,
+          "tag": "entertainment"
+        }
+      ],
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/R0RyXqYPK4",
+          "expanded_url": "https://dailyyoutube.org/o-deepfake-foi-longe-demais-10/",
+          "display_url": "dailyyoutube.org/o-deepfake-foi…",
+          "status": 200,
+          "title": "O DeepFake foi longe demais!!! [+10]",
+          "description": "Verify on YouTube Neste vídeo, falamos do fenômeno do DeepFake, nova tecnologia capaz de inserir pessoas em vídeos de forma cada vez mais convincent",
+          "unwound_url": "https://dailyyoutube.org/o-deepfake-foi-longe-demais-10/"
+        }
+      ]
+    },
+    "conversation_id": "1555149459956420609",
+    "id": "1555149459956420609",
+    "created_at": "2022-08-04T11:11:39.000Z",
+    "source": "DailyYoutube",
+    "author_id": "1509154681741725697",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "165",
+          "name": "Technology",
+          "description": "for individual and types of technology, e.g., food technology, 3D printing"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Brand Category",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "text": "O DeepFake foi longe demais!!! [+10]\n#DailyYoutube #Youtube #video #entertainment\n\nhttps://t.co/R0RyXqYPK4"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555140350699765760",
+    "id": "1555140350699765760",
+    "created_at": "2022-08-04T10:35:27.000Z",
+    "source": "Twitter for Android",
+    "author_id": "257708325",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555133992676081664",
+    "id": "1555133992676081664",
+    "created_at": "2022-08-04T10:10:11.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1546948531495354368",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555102799368802305",
+    "id": "1555102799368802305",
+    "created_at": "2022-08-04T08:06:14.000Z",
+    "source": "Twitter for Android",
+    "author_id": "176300945",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 14,
+      "quote_count": 0
+    },
+    "conversation_id": "1555083813667192837",
+    "id": "1555083813667192837",
+    "created_at": "2022-08-04T06:50:47.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "50684053",
+    "text": "criar fanfic é tipo um deepfake mental"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555067671586246657",
+    "id": "1555067671586246657",
+    "created_at": "2022-08-04T05:46:39.000Z",
+    "source": "Twitter for Android",
+    "author_id": "859660921",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555031648210657280",
+    "id": "1555031648210657280",
+    "created_at": "2022-08-04T03:23:30.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1436168458111180801",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555010855594590208",
+    "id": "1555010855594590208",
+    "created_at": "2022-08-04T02:00:53.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1510445087951577088",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555006450648469504",
+    "id": "1555006450648469504",
+    "created_at": "2022-08-04T01:43:23.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1507093246509559811",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1555005687016693762",
+    "id": "1555005687016693762",
+    "created_at": "2022-08-04T01:40:21.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1385725397334175745",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 32,
+          "end": 43,
+          "probability": 0.9896,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        },
+        {
+          "start": 149,
+          "end": 160,
+          "probability": 0.9698,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 259,
+          "end": 265,
+          "tag": "publi"
+        }
+      ],
+      "urls": [
+        {
+          "start": 266,
+          "end": 289,
+          "url": "https://t.co/lLI4OpM8ba",
+          "expanded_url": "https://twitter.com/Iemonade2016/status/1554998925031006214/photo/1",
+          "display_url": "pic.twitter.com/lLI4OpM8ba",
+          "media_key": "3_1554998922585804800"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 17,
+      "quote_count": 0
+    },
+    "conversation_id": "1554998925031006214",
+    "id": "1554998925031006214",
+    "created_at": "2022-08-04T01:13:28.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1457620124060499976",
+    "attachments": {
+      "media_keys": [
+        "3_1554998922585804800"
+      ]
+    },
+    "text": "A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais uma vez à frente de seu tempo, Gloria Perez vai levantar um tema novo e abrir caminho importantíssimo para o debate e educação da população. #publi https://t.co/lLI4OpM8ba"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554996394519367682",
+    "id": "1554996394519367682",
+    "created_at": "2022-08-04T01:03:25.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1491441206290751490",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 25,
+          "end": 30,
+          "probability": 0.9669,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "probability": 0.9512,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 8,
+          "username": "VEJA",
+          "id": "17715048"
+        }
+      ],
+      "urls": [
+        {
+          "start": 98,
+          "end": 121,
+          "url": "https://t.co/NIOGzK6lga",
+          "expanded_url": "https://veja.abril.com.br/coluna/veja-comprova/audio-falso-de-bonner-chamando-lula-de-bandido-usou-ferramenta-de-deepfake/",
+          "display_url": "veja.abril.com.br/coluna/veja-co…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554485969243578371/5h8dvBYE?format=jpg&name=orig",
+              "width": 680,
+              "height": 453
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554485969243578371/5h8dvBYE?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Áudio falso de Bonner chamando Lula de bandido usou ferramenta de deepfake | VEJA Comprova",
+          "description": "Vídeo de 14 segundos, que mostra o âncora do JN falando em 'encontro de dois bandidos' e imagem de Lula e Alckmin, manipulou voz do jornalista",
+          "unwound_url": "https://veja.abril.com.br/coluna/veja-comprova/audio-falso-de-bonner-chamando-lula-de-bandido-usou-ferramenta-de-deepfake/"
+        },
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/fz8QtMoe78",
+          "expanded_url": "https://twitter.com/VEJA/status/1554485926566535169/photo/1",
+          "display_url": "pic.twitter.com/fz8QtMoe78",
+          "media_key": "3_1554484055961477121"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554996190441349120",
+    "id": "1554996190441349120",
+    "created_at": "2022-08-04T01:02:36.000Z",
+    "source": "Twitter for Android",
+    "author_id": "395436307",
+    "attachments": {
+      "media_keys": [
+        "3_1554484055961477121"
+      ]
+    },
+    "text": "RT @VEJA: Áudio falso de Bonner chamando Lula de bandido usou ferramenta de deepfake &gt;&gt;&gt; https://t.co/NIOGzK6lga https://t.co/fz8QtMoe78"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554995940624408577",
+    "id": "1554995940624408577",
+    "created_at": "2022-08-04T01:01:37.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1457620124060499976",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554995366814162947",
+    "id": "1554995366814162947",
+    "created_at": "2022-08-04T00:59:20.000Z",
+    "source": "Twitter for Android",
+    "author_id": "108158238",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554990126278885378",
+    "id": "1554990126278885378",
+    "created_at": "2022-08-04T00:38:31.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1288347508410855425",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554828111090315269",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "EduCorrea22",
+          "id": "1516389704563924996"
+        },
+        {
+          "start": 29,
+          "end": 39,
+          "username": "alexandre",
+          "id": "900756488574074880"
+        },
+        {
+          "start": 42,
+          "end": 55,
+          "username": "pgespoficial",
+          "id": "92607517"
+        }
+      ]
+    },
+    "id": "1554953856873791488",
+    "created_at": "2022-08-03T22:14:23.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1547919041716662274",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912313483902857216",
+          "name": "Alexandre de Moraes",
+          "description": "Alexandre de Moraes"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912313483902857216",
+          "name": "Alexandre de Moraes",
+          "description": "Alexandre de Moraes"
+        }
+      }
+    ],
+    "text": "@EduCorrea22 Alô alô Xandão (@alexandre), @pgespoficial, tá liberado o uso de deepfake para atacar adversários políticos? \n\nBora processar essa galera, e prender esses criminosos. Passou da hora."
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 16,
+          "end": 29,
+          "probability": 0.4864,
+          "type": "Other",
+          "normalized_text": "Buzz Lightyear"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 80,
+          "end": 96,
+          "username": "GuilhermeBriggs",
+          "id": "138165553"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1554949891318812672",
+    "id": "1554949891318812672",
+    "created_at": "2022-08-03T21:58:38.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1105189345579974657",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "86",
+          "name": "Movie",
+          "description": "A film like Rogue One: A Star Wars Story"
+        },
+        "entity": {
+          "id": "1514310107424722944",
+          "name": "Lightyear",
+          "description": "Lightyear is scheduled to be theatrically released in the United States on June 17, 2022, in RealD 3D, Dolby Cinema and IMAX formats."
+        }
+      },
+      {
+        "domain": {
+          "id": "130",
+          "name": "Multimedia Franchise",
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+        },
+        "entity": {
+          "id": "1402188171765436420",
+          "name": "Toy Story"
+        }
+      },
+      {
+        "domain": {
+          "id": "87",
+          "name": "Movie Genre",
+          "description": "A movie genre like Action"
+        },
+        "entity": {
+          "id": "856976559529263104",
+          "name": "Animated films",
+          "description": "Animation"
+        }
+      }
+    ],
+    "text": "Saiu o filme do Buzz Lightyear e eu já quero um mod pra Pc que coloque a voz do @GuilhermeBriggs com deepfake"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 56,
+          "end": 69,
+          "probability": 0.9743,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        },
+        {
+          "start": 80,
+          "end": 83,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "jornalnh",
+          "id": "17077026"
+        },
+        {
+          "start": 36,
+          "end": 45,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554922553239552005",
+    "id": "1554922553239552005",
+    "created_at": "2022-08-03T20:10:00.000Z",
+    "source": "Buffer",
+    "author_id": "1009046609424941056",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "RT @jornalnh: Tem post novo no blog @Comprova\n\nÁudio de William Bonner chamando Lula e Alckmin de bandidos é falso e foi feito com ferramen…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1554913121705279488",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "patinhoputo_",
+          "id": "1253728441695952903"
+        }
+      ]
+    },
+    "id": "1554915673532469248",
+    "created_at": "2022-08-03T19:42:40.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "1057691939850674182",
+    "text": "@patinhoputo_ meu maior medo é os deepfake"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 35,
+          "end": 40,
+          "probability": 0.9733,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        },
+        {
+          "start": 51,
+          "end": 54,
+          "probability": 0.9941,
+          "type": "Person",
+          "normalized_text": "Lula"
+        },
+        {
+          "start": 88,
+          "end": 100,
+          "probability": 0.9498,
+          "type": "Person",
+          "normalized_text": "Bruno Sartori"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Metropoles",
+          "id": "3331429624"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554907602978480130",
+    "id": "1554907602978480130",
+    "created_at": "2022-08-03T19:10:35.000Z",
+    "source": "Twitter for Android",
+    "author_id": "406766589",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      }
+    ],
+    "text": "RT @Metropoles: Deepfake: áudio de Bonner chamando Lula e Alckmin de bandidos é falso.\n\nBruno Sartori, jornalista e produtor de deepfakes,…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "conversation_id": "1554806707167043586",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ],
+      "urls": [
+        {
+          "start": 108,
+          "end": 131,
+          "url": "https://t.co/gSuBadYrnt",
+          "expanded_url": "https://twitter.com/MortaVivaeLoka/status/1554902711128276993/photo/1",
+          "display_url": "pic.twitter.com/gSuBadYrnt",
+          "media_key": "16_1554902705482698753"
+        }
+      ]
+    },
+    "id": "1554902711128276993",
+    "created_at": "2022-08-03T18:51:09.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1489119686264606720",
+    "attachments": {
+      "media_keys": [
+        "16_1554902705482698753"
+      ]
+    },
+    "text": "@brunnosarttori Vai ver que vc é uma deepfake clonado por ela, e não tá sabendo. Já parou pra pensar nisso? https://t.co/gSuBadYrnt"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 35,
+          "end": 40,
+          "probability": 0.9733,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        },
+        {
+          "start": 51,
+          "end": 54,
+          "probability": 0.9941,
+          "type": "Person",
+          "normalized_text": "Lula"
+        },
+        {
+          "start": 88,
+          "end": 100,
+          "probability": 0.9498,
+          "type": "Person",
+          "normalized_text": "Bruno Sartori"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Metropoles",
+          "id": "3331429624"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 18,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554892356008255490",
+    "id": "1554892356008255490",
+    "created_at": "2022-08-03T18:10:00.000Z",
+    "source": "Buffer",
+    "author_id": "1009046609424941056",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      }
+    ],
+    "text": "RT @Metropoles: Deepfake: áudio de Bonner chamando Lula e Alckmin de bandidos é falso.\n\nBruno Sartori, jornalista e produtor de deepfakes,…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 215,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 43,
+          "tag": "deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "urls": [
+        {
+          "start": 54,
+          "end": 77,
+          "url": "https://t.co/OfVlw1kbOg",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 78,
+          "end": 101,
+          "url": "https://t.co/mbyjZDpzOj",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1525166482057007111/video/1",
+          "display_url": "pic.twitter.com/mbyjZDpzOj",
+          "media_key": "7_1524139011845107714"
+        }
+      ]
+    },
+    "conversation_id": "1554879073050042375",
+    "id": "1554879073050042375",
+    "created_at": "2022-08-03T17:17:13.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1455046308071411721",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "886644178607669248",
+          "name": "Emilia Clarke",
+          "description": "Emilia Clarke"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "886644178607669248",
+          "name": "Emilia Clarke",
+          "description": "Emilia Clarke"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1524139011845107714"
+      ]
+    },
+    "text": "RT @FakeHubPorn: Emilia Clarke 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw1kbOg https://t.co/mbyjZDpzOj"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 150,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 42,
+          "tag": "deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/OfVlw1kbOg",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 77,
+          "end": 100,
+          "url": "https://t.co/vnYYorGaz0",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537125284000018435/video/1",
+          "display_url": "pic.twitter.com/vnYYorGaz0",
+          "media_key": "7_1537096029669052418"
+        }
+      ]
+    },
+    "conversation_id": "1554878652898320386",
+    "id": "1554878652898320386",
+    "created_at": "2022-08-03T17:15:33.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1455046308071411721",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1537096029669052418"
+      ]
+    },
+    "text": "RT @FakeHubPorn: Marisa Tomei 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw1kbOg https://t.co/vnYYorGaz0"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 241,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554956287645220867/QUiiLed4?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ]
+    },
+    "conversation_id": "1554878579174948864",
+    "id": "1554878579174948864",
+    "created_at": "2022-08-03T17:15:16.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1455046308071411721",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 25,
+          "end": 30,
+          "probability": 0.9669,
+          "type": "Person",
+          "normalized_text": "Bonner"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "probability": 0.9512,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 8,
+          "username": "VEJA",
+          "id": "17715048"
+        }
+      ],
+      "urls": [
+        {
+          "start": 98,
+          "end": 121,
+          "url": "https://t.co/NIOGzK6lga",
+          "expanded_url": "https://veja.abril.com.br/coluna/veja-comprova/audio-falso-de-bonner-chamando-lula-de-bandido-usou-ferramenta-de-deepfake/",
+          "display_url": "veja.abril.com.br/coluna/veja-co…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554485969243578371/5h8dvBYE?format=jpg&name=orig",
+              "width": 680,
+              "height": 453
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554485969243578371/5h8dvBYE?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Áudio falso de Bonner chamando Lula de bandido usou ferramenta de deepfake | VEJA Comprova",
+          "description": "Vídeo de 14 segundos, que mostra o âncora do JN falando em 'encontro de dois bandidos' e imagem de Lula e Alckmin, manipulou voz do jornalista",
+          "unwound_url": "https://veja.abril.com.br/coluna/veja-comprova/audio-falso-de-bonner-chamando-lula-de-bandido-usou-ferramenta-de-deepfake/"
+        },
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/fz8QtMoe78",
+          "expanded_url": "https://twitter.com/VEJA/status/1554485926566535169/photo/1",
+          "display_url": "pic.twitter.com/fz8QtMoe78",
+          "media_key": "3_1554484055961477121"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554873067364618242",
+    "id": "1554873067364618242",
+    "created_at": "2022-08-03T16:53:22.000Z",
+    "source": "Twitter Web App",
+    "author_id": "742110251458170880",
+    "attachments": {
+      "media_keys": [
+        "3_1554484055961477121"
+      ]
+    },
+    "text": "RT @VEJA: Áudio falso de Bonner chamando Lula de bandido usou ferramenta de deepfake &gt;&gt;&gt; https://t.co/NIOGzK6lga https://t.co/fz8QtMoe78"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554870632407613441",
+    "id": "1554870632407613441",
+    "created_at": "2022-08-03T16:43:41.000Z",
+    "source": "Twitter Web App",
+    "author_id": "789993310916055040",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554869395725377544",
+    "id": "1554869395725377544",
+    "created_at": "2022-08-03T16:38:46.000Z",
+    "source": "Twitter Web App",
+    "author_id": "239231909",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 19,
+          "end": 24,
+          "probability": 0.6643,
+          "type": "Person",
+          "normalized_text": "flavio"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "kenmiIes",
+          "id": "711352570317508608"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554847151179632642",
+    "id": "1554868545221181440",
+    "created_at": "2022-08-03T16:35:23.000Z",
+    "source": "Twitter Web App",
+    "author_id": "1030056822844080129",
+    "text": "@kenmiIes me ajuda flavio eu nao vou conseguir dormir hj se eu não ver o vídeo do bandido usando deepfake com a foto do senhorzinho pra abri conta no banco\nposta esse video ai plz"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554861815535902721",
+    "id": "1554861815535902721",
+    "created_at": "2022-08-03T16:08:39.000Z",
+    "source": "Twitter for Android",
+    "author_id": "960235126339842048",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554860894957469697",
+    "id": "1554860894957469697",
+    "created_at": "2022-08-03T16:04:59.000Z",
+    "source": "Twitter for Android",
+    "author_id": "291732413",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554855396573171713",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "Luis_Arnaldo",
+          "id": "22544387"
+        },
+        {
+          "start": 18,
+          "end": 33,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 34,
+          "end": 46,
+          "username": "saibadetudo",
+          "id": "718892749190246400"
+        },
+        {
+          "start": 93,
+          "end": 108,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "id": "1554855396573171713",
+    "created_at": "2022-08-03T15:43:09.000Z",
+    "source": "Twitter Web App",
+    "author_id": "718892749190246400",
+    "text": "RT @Luis_Arnaldo: @brunnosarttori @saibadetudo quando usa somente o áudio também é deepfake? @brunnosarttori"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 13,
+          "probability": 0.9949,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        },
+        {
+          "start": 58,
+          "end": 61,
+          "probability": 0.9559,
+          "type": "Person",
+          "normalized_text": "Lula"
+        },
+        {
+          "start": 65,
+          "end": 71,
+          "probability": 0.4687,
+          "type": "Person",
+          "normalized_text": "Alckmin"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 101,
+          "end": 106,
+          "username": "blog",
+          "id": "2629591"
+        }
+      ],
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/ZdlPPIokcV",
+          "expanded_url": "https://seridonoar.com.br/william-bonner-e-vitima-de-deepfake-em-video-com-ofensa-a-lula-e-alckmin/",
+          "display_url": "seridonoar.com.br/william-bonner…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554854957983178752/j2IOv7do?format=jpg&name=orig",
+              "width": 1920,
+              "height": 1080
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554854957983178752/j2IOv7do?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "William Bonner é vítima de deepfake em vídeo com ofensa a Lula e Alckmin - Blog Seridó no Ar",
+          "description": "É falso o vídeo em que o jornalista William Bonner chama os candidatos Lula, do PT, e Geraldo Alckmin, do PSB, de ladrões. O conteúdo viralizou na última semana em redes bolsonaristas e mostra o apresentador do Jornal Nacional anunciando a imagem de um ladrão. O vídeo é resultado de um processo de deepfake, no […]",
+          "unwound_url": "https://seridonoar.com.br/william-bonner-e-vitima-de-deepfake-em-video-com-ofensa-a-lula-e-alckmin/"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554854944603340800",
+    "id": "1554854944603340800",
+    "created_at": "2022-08-03T15:41:21.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1513989064764149763",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "William Bonner é vítima de deepfake em vídeo com ofensa a Lula e Alckmin https://t.co/ZdlPPIokcV via @Blog Seridó no Ar"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 13,
+          "probability": 0.9949,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        },
+        {
+          "start": 58,
+          "end": 61,
+          "probability": 0.9559,
+          "type": "Person",
+          "normalized_text": "Lula"
+        },
+        {
+          "start": 65,
+          "end": 71,
+          "probability": 0.4687,
+          "type": "Person",
+          "normalized_text": "Alckmin"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 101,
+          "end": 106,
+          "username": "blog",
+          "id": "2629591"
+        }
+      ],
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/ZdlPPIokcV",
+          "expanded_url": "https://seridonoar.com.br/william-bonner-e-vitima-de-deepfake-em-video-com-ofensa-a-lula-e-alckmin/",
+          "display_url": "seridonoar.com.br/william-bonner…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554854957983178752/j2IOv7do?format=jpg&name=orig",
+              "width": 1920,
+              "height": 1080
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554854957983178752/j2IOv7do?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "William Bonner é vítima de deepfake em vídeo com ofensa a Lula e Alckmin - Blog Seridó no Ar",
+          "description": "É falso o vídeo em que o jornalista William Bonner chama os candidatos Lula, do PT, e Geraldo Alckmin, do PSB, de ladrões. O conteúdo viralizou na última semana em redes bolsonaristas e mostra o apresentador do Jornal Nacional anunciando a imagem de um ladrão. O vídeo é resultado de um processo de deepfake, no […]",
+          "unwound_url": "https://seridonoar.com.br/william-bonner-e-vitima-de-deepfake-em-video-com-ofensa-a-lula-e-alckmin/"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554854915188690944",
+    "id": "1554854915188690944",
+    "created_at": "2022-08-03T15:41:14.000Z",
+    "source": "Twitter for Android",
+    "author_id": "1513989064764149763",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "William Bonner é vítima de deepfake em vídeo com ofensa a Lula e Alckmin https://t.co/ZdlPPIokcV via @Blog Seridó no Ar"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "conversation_id": "1554806707167043586",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "username": "saibadetudo",
+          "id": "718892749190246400"
+        },
+        {
+          "start": 75,
+          "end": 90,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "id": "1554853656528388098",
+    "created_at": "2022-08-03T15:36:14.000Z",
+    "source": "Twitter for iPhone",
+    "author_id": "22544387",
+    "text": "@brunnosarttori @saibadetudo quando usa somente o áudio também é deepfake? @brunnosarttori"
+  },
+  {
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 14,
+          "end": 23,
+          "tag": "DeepFake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "CarlosGSmith",
+          "id": "32313637"
+        }
+      ]
+    },
+    "conversation_id": "1551330537830219776",
+    "id": "1554852045546471424",
+    "created_at": "2022-08-03T15:29:50.000Z",
+    "source": "Twitter for iPad",
+    "author_id": "1049013252208906240",
+    "text": "@CarlosGSmith #DeepFake photo."
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 52,
+          "end": 63,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 35,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "conversation_id": "1554849523494801408",
+    "id": "1554849523494801408",
+    "created_at": "2022-08-03T15:19:48.000Z",
+    "source": "Twitter Web App",
+    "author_id": "718892749190246400",
+    "text": "RT @brunnosarttori: A novela Travessia, escrita por Gloria Perez, deve ter como ponto de partida o uso mal-intencionado de deepfake. Mais u…"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 42,
+          "end": 55,
+          "probability": 0.9769,
+          "type": "Person",
+          "normalized_text": "William Bonner"
+        },
+        {
+          "start": 66,
+          "end": 69,
+          "probability": 0.9947,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 22,
+          "end": 31,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ],
+      "urls": [
+        {
+          "start": 142,
+          "end": 165,
+          "url": "https://t.co/J6oOsoKxKl",
+          "expanded_url": "https://bit.ly/3zwetur",
+          "display_url": "bit.ly/3zwetur",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1554845579703877633/AJQ7t3HG?format=png&name=orig",
+              "width": 483,
+              "height": 250
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1554845579703877633/AJQ7t3HG?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Áudio de William Bonner chamando Lula e Alckmin de bandidos é falso e foi feito com ferramenta de deepfake",
+          "description": "Áudio de William Bonner chamando Lula e Alckmin de bandidos é falso e foi feito com ferramenta de deepfake | Comprova",
+          "unwound_url": "https://www.jornalnh.com.br/cotidiano/blogs/comprova/2022/08/03/audio-de-william-bonner-chamando-lula-e-alckmin-de-bandidos-e-falso-e-foi-feito-com-ferramenta-de-deepfake.html"
+        }
+      ]
+    },
+    "lang": "pt",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 8,
+      "quote_count": 0
+    },
+    "conversation_id": "1554845565229342722",
+    "id": "1554845565229342722",
+    "created_at": "2022-08-03T15:04:05.000Z",
+    "source": "TweetDeck",
+    "author_id": "17077026",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "921109493823422464",
+          "name": "Geraldo Alckmin",
+          "description": "Geraldo Alckmin"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "809838930447060992",
+          "name": "William Bonner",
+          "description": "William Bonner"
+        }
+      }
+    ],
+    "text": "Tem post novo no blog @Comprova\n\nÁudio de William Bonner chamando Lula e Alckmin de bandidos é falso e foi feito com ferramenta de deepfake.\n\nhttps://t.co/J6oOsoKxKl"
+  }
+]

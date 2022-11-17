@@ -1,0 +1,6364 @@
+[
+  {
+    "text": "RT @havefunwithgod: isto tem de ser deepfake. ela não é sociopata ao ponto de dar mais motivos à chalupagem para continuar com hurr durr WE…",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T11:47:44.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "havefunwithgod",
+          "id": "724649875250524160"
+        }
+      ]
+    },
+    "source": "Twitter",
+    "conversation_id": "1567479727966797826",
+    "author_id": "1391820233426493442",
+    "id": "1567479727966797826"
+  },
+  {
+    "text": "isto tem de ser deepfake. ela não é sociopata ao ponto de dar mais motivos à chalupagem para continuar com hurr durr WEF great reset \n\nou é?",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T11:47:39.000Z",
+    "lang": "pt",
+    "source": "Twitter Web App",
+    "conversation_id": "1567479115896291328",
+    "author_id": "724649875250524160",
+    "id": "1567479706299109376"
+  },
+  {
+    "text": "#Ciberataques com #deepfakes estão a tornar-se cada vez mais frequentes: https://t.co/g4wMU5odGS https://t.co/gPuOBfLNMO",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T07:18:02.000Z",
+    "attachments": {
+      "media_keys": [
+        "3_1567411852648366080"
+      ]
+    },
+    "lang": "pt",
+    "source": "Buffer",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 0,
+          "end": 13,
+          "tag": "Ciberataques"
+        },
+        {
+          "start": 18,
+          "end": 28,
+          "tag": "deepfakes"
+        }
+      ],
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/g4wMU5odGS",
+          "expanded_url": "https://tek.sapo.pt/noticias/internet/artigos/ciberataques-com-deepfakes-estao-a-tornar-se-cada-vez-mais-frequentes",
+          "display_url": "tek.sapo.pt/noticias/inter…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1567411901230989313/tatxCSPR?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1567411901230989313/tatxCSPR?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Ciberataques com deepfakes estão a tornar-se cada vez mais frequentes - SAPO Tek",
+          "description": "Segundo dados da VMware, 66% dos profissionais de cibersegurança inquiridos afirmam que, ao longo do ano passado, registaram pelo menos um incidente com deepfakes. O email é a principal forma de distribuição dos ataques detetados.",
+          "unwound_url": "https://tek.sapo.pt/noticias/internet/artigos/ciberataques-com-deepfakes-estao-a-tornar-se-cada-vez-mais-frequentes"
+        },
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/gPuOBfLNMO",
+          "expanded_url": "https://twitter.com/reisquarteu/status/1567411855508836353/photo/1",
+          "display_url": "pic.twitter.com/gPuOBfLNMO",
+          "media_key": "3_1567411852648366080"
+        }
+      ]
+    },
+    "conversation_id": "1567411855508836353",
+    "author_id": "66153685",
+    "id": "1567411855508836353"
+  },
+  {
+    "text": "A - Um anão\nB - Um robô\nC - Um robô anão ✅\nD - D de deepfake https://t.co/gtfiOodw2y",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 12,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T03:53:50.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1567360145990057985"
+      ]
+    },
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1567360469249163264",
+    "author_id": "73582390",
+    "id": "1567360469249163264",
+    "entities": {
+      "urls": [
+        {
+          "start": 61,
+          "end": 84,
+          "url": "https://t.co/gtfiOodw2y",
+          "expanded_url": "https://twitter.com/RicardoPipo/status/1567360469249163264/video/1",
+          "display_url": "pic.twitter.com/gtfiOodw2y",
+          "media_key": "7_1567360145990057985"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "97bcdfca1a2dca59"
+    }
+  },
+  {
+    "text": "a primeira piroca deepfake da internet",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T03:01:59.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1567347417908973571",
+    "author_id": "312403562",
+    "id": "1567347420895354880"
+  },
+  {
+    "text": "nada tira da minha cabeça que aquele will demetrio é um deepfake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T03:01:58.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1567347417908973571",
+    "author_id": "312403562",
+    "id": "1567347417908973571"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912370288968458240",
+          "name": "Ciro Gomes",
+          "description": "Ciro Gomes"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912370288968458240",
+          "name": "Ciro Gomes",
+          "description": "Ciro Gomes"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "912370288968458240",
+          "name": "Ciro Gomes",
+          "description": "Ciro Gomes"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 59,
+          "end": 62,
+          "probability": 0.9438,
+          "type": "Person",
+          "normalized_text": "Ciro"
+        },
+        {
+          "start": 105,
+          "end": 106,
+          "probability": 0.9519,
+          "type": "Organization",
+          "normalized_text": "PT"
+        },
+        {
+          "start": 226,
+          "end": 229,
+          "probability": 0.7351,
+          "type": "Person",
+          "normalized_text": "Ciro"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "text": "@brunnosarttori Mais um lulista que tá fingindo que apoiou Ciro pra jogar nas costas do mesmo a culpa do PT ser incompetente e ter criado essa merda de dualidade que tá aí hj 👏🏾👏🏾👏🏾👏🏾 Agora vai lá e faz um deepfake do Ciro 😮‍💨",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T01:44:56.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1567270931399151617",
+    "author_id": "1244667206534926336",
+    "id": "1567328027679358984"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "text": "Não há muito tempo, as vozes deepfakes tinham péssima reputação, mas a qualidade da tecnologia evoluiu. É uma nova era em que dubladores de Inteligência Artificial soam mais humanos. \n\nLeia mais: https://t.co/9fDZbN2TWK",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-07T01:00:12.000Z",
+    "lang": "pt",
+    "source": "mLabs - Gestão de Redes Sociais",
+    "conversation_id": "1567316770435866624",
+    "author_id": "29810141",
+    "id": "1567316770435866624",
+    "entities": {
+      "urls": [
+        {
+          "start": 196,
+          "end": 219,
+          "url": "https://t.co/9fDZbN2TWK",
+          "expanded_url": "https://bit.ly/3APjY8a",
+          "display_url": "bit.ly/3APjY8a",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1567316813033213954/txWx3anP?format=jpg&name=orig",
+              "width": 1590,
+              "height": 798
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1567316813033213954/txWx3anP?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Os dubladores de Inteligência Artificial soam mais humanos do que nunca — e estão prontos para contratação - MIT Technology Review",
+          "description": "Startups estão usando o deep learning para construir dubladores sintéticos para assistentes digitais, personagens de videogame e vídeos corporativos.",
+          "unwound_url": "https://mittechreview.com.br/os-dubladores-de-inteligencia-artificial-soam-mais-humanos-do-que-nunca-e-estao-prontos-para-contratacao/"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Ó os deepfake já começando",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T23:36:52.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1567295801075896320",
+    "author_id": "1212584010917928960",
+    "id": "1567295801075896320"
+  },
+  {
+    "text": "@bibibailas Um bot comentando sobre um produto ou canal, dai uns trocentos bots respondem \"nossa realmente é muito bom, mudou minha vida, obrigado por indicar, vou conferir\", dai tu clica nas contas (que tem fotos de ou pessoas reais, ou deepfakes) e as contas são tudo criadas no msm dia kk",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T22:41:00.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "bibibailas",
+          "id": "1088448262359502849"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1567281002791436290",
+    "author_id": "1222354095723438080",
+    "id": "1567281743245312000"
+  },
+  {
+    "text": "@i4nwjns amg eu não entendi nada, tava cheio de deepfake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T22:07:17.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "i4nwjns",
+          "id": "1566084618389962754"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567272386017329153",
+    "author_id": "1562470070973972483",
+    "id": "1567273257098780673"
+  },
+  {
+    "text": "@chankkayr TOMBARAM, CHEIO DE DEEPFAKE DAS MENINAS",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T22:06:57.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "chankkayr",
+          "id": "1554893922102542337"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567272386017329153",
+    "author_id": "1562470070973972483",
+    "id": "1567273170419212291"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "public_metrics": {
+      "retweet_count": 307,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T21:46:06.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1567267924632653830",
+    "author_id": "1539386242529378305",
+    "id": "1567267924632653830"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "text": "RT @opovo: Deepfake: o que é como identificar uso da tecnologia nas eleições.\n#Eleições2022opovo #Eleicoes2022\n\nhttps://t.co/cP460sckxx",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T21:23:24.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 9,
+          "username": "opovo",
+          "id": "19351269"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 78,
+          "end": 96,
+          "tag": "Eleições2022opovo"
+        },
+        {
+          "start": 97,
+          "end": 110,
+          "tag": "Eleicoes2022"
+        }
+      ],
+      "urls": [
+        {
+          "start": 112,
+          "end": 135,
+          "url": "https://t.co/cP460sckxx",
+          "expanded_url": "https://www.opovo.com.br/eleicoes-2022/2022/09/10291755-deepfake-o-que-e-como-identificar-uso-da-tecnologia-nas-eleicoes.html?utm_source=twitter&utm_medium=opovo",
+          "display_url": "opovo.com.br/eleicoes-2022/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1567218621092433921/gghGl2Qs?format=jpg&name=orig",
+              "width": 818,
+              "height": 459
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1567218621092433921/gghGl2Qs?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Deepfake: o que é como identificar uso da tecnologia nas eleições",
+          "description": "A tecnologia usa inteligência artificial (IA) para criar vídeos falsos, mas realistas, de pessoas fazendo coisas que elas nunca fizeram na vida real, e já é uma preocupação para as eleições",
+          "unwound_url": "https://www.opovo.com.br/eleicoes-2022/2022/09/10291755-deepfake-o-que-e-como-identificar-uso-da-tecnologia-nas-eleicoes.html?utm_source=twitter&utm_medium=opovo"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567262212099608577",
+    "author_id": "165884132",
+    "id": "1567262212099608577"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "818904245722222592",
+          "name": "João Dória",
+          "description": "João Dória"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "818904245722222592",
+          "name": "João Dória",
+          "description": "João Dória"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "818904245722222592",
+          "name": "João Dória",
+          "description": "João Dória"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 79,
+          "end": 83,
+          "probability": 0.8858,
+          "type": "Person",
+          "normalized_text": "doria"
+        }
+      ]
+    },
+    "text": "escrevendo um roteiro sobre deepfake e me recusando a acreditar que a orgia do doria foi deepfake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T19:47:56.000Z",
+    "lang": "pt",
+    "source": "Twitter Web App",
+    "conversation_id": "1567238186274889736",
+    "author_id": "763583726769016834",
+    "id": "1567238186274889736"
+  },
+  {
+    "text": "Essas maluquice q mistura idade x alguma relação familiar, eu nunca sei se é realidade ou zoação com deepfake. Eu tô velho pra internet cara https://t.co/Bwmqe3hnN8",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T19:20:37.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1567231311814791175",
+    "author_id": "1432048107865493504",
+    "id": "1567231311814791175",
+    "entities": {
+      "urls": [
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/Bwmqe3hnN8",
+          "expanded_url": "https://twitter.com/acostumadinha/status/1567216220989947904",
+          "display_url": "twitter.com/acostumadinha/…"
+        }
+      ]
+    }
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1057750569698308096",
+          "name": "Lili Reinhart",
+          "description": "Lili Reinhart"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1057750569698308096",
+          "name": "Lili Reinhart",
+          "description": "Lili Reinhart"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1057750569698308096",
+          "name": "Lili Reinhart",
+          "description": "Lili Reinhart"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Lili Reinhart 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/PTeQfvNPud",
+    "public_metrics": {
+      "retweet_count": 143,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T18:58:04.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1498657143372853251"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 43,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 54,
+          "end": 77,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 78,
+          "end": 101,
+          "url": "https://t.co/PTeQfvNPud",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1498659326109442048/video/1",
+          "display_url": "pic.twitter.com/PTeQfvNPud",
+          "media_key": "7_1498657143372853251"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567225637836050432",
+    "author_id": "1259922670495264768",
+    "id": "1567225637836050432"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 22,
+          "end": 27,
+          "probability": 0.944,
+          "type": "Person",
+          "normalized_text": "Felipe"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "joa1nvs",
+          "id": "1153773260712095745"
+        }
+      ]
+    },
+    "text": "RT @joa1nvs: Discordo Felipe eu já acho que essas eleições precisam do MÁXIMO de fake news e desinformação possível\nTem que fazer deepfake…",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T18:36:01.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1567220091070078976",
+    "author_id": "3397934926",
+    "id": "1567220091070078976"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "text": "RT @opovo: Deepfake: o que é como identificar uso da tecnologia nas eleições.\n#Eleições2022opovo #Eleicoes2022\n\nhttps://t.co/cP460sckxx",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T18:34:47.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 9,
+          "username": "opovo",
+          "id": "19351269"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 78,
+          "end": 96,
+          "tag": "Eleições2022opovo"
+        },
+        {
+          "start": 97,
+          "end": 110,
+          "tag": "Eleicoes2022"
+        }
+      ],
+      "urls": [
+        {
+          "start": 112,
+          "end": 135,
+          "url": "https://t.co/cP460sckxx",
+          "expanded_url": "https://www.opovo.com.br/eleicoes-2022/2022/09/10291755-deepfake-o-que-e-como-identificar-uso-da-tecnologia-nas-eleicoes.html?utm_source=twitter&utm_medium=opovo",
+          "display_url": "opovo.com.br/eleicoes-2022/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1567218621092433921/gghGl2Qs?format=jpg&name=orig",
+              "width": 818,
+              "height": 459
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1567218621092433921/gghGl2Qs?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Deepfake: o que é como identificar uso da tecnologia nas eleições",
+          "description": "A tecnologia usa inteligência artificial (IA) para criar vídeos falsos, mas realistas, de pessoas fazendo coisas que elas nunca fizeram na vida real, e já é uma preocupação para as eleições",
+          "unwound_url": "https://www.opovo.com.br/eleicoes-2022/2022/09/10291755-deepfake-o-que-e-como-identificar-uso-da-tecnologia-nas-eleicoes.html?utm_source=twitter&utm_medium=opovo"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1567219777353011208",
+    "author_id": "1214544398681284609",
+    "id": "1567219777353011208"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "text": "Deepfake: o que é como identificar uso da tecnologia nas eleições.\n#Eleições2022opovo #Eleicoes2022\n\nhttps://t.co/cP460sckxx",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 4,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T18:30:00.000Z",
+    "lang": "pt",
+    "source": "TweetDeck",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 67,
+          "end": 85,
+          "tag": "Eleições2022opovo"
+        },
+        {
+          "start": 86,
+          "end": 99,
+          "tag": "Eleicoes2022"
+        }
+      ],
+      "urls": [
+        {
+          "start": 101,
+          "end": 124,
+          "url": "https://t.co/cP460sckxx",
+          "expanded_url": "https://www.opovo.com.br/eleicoes-2022/2022/09/10291755-deepfake-o-que-e-como-identificar-uso-da-tecnologia-nas-eleicoes.html?utm_source=twitter&utm_medium=opovo",
+          "display_url": "opovo.com.br/eleicoes-2022/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1567218621092433921/gghGl2Qs?format=jpg&name=orig",
+              "width": 818,
+              "height": 459
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1567218621092433921/gghGl2Qs?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Deepfake: o que é como identificar uso da tecnologia nas eleições",
+          "description": "A tecnologia usa inteligência artificial (IA) para criar vídeos falsos, mas realistas, de pessoas fazendo coisas que elas nunca fizeram na vida real, e já é uma preocupação para as eleições",
+          "unwound_url": "https://www.opovo.com.br/eleicoes-2022/2022/09/10291755-deepfake-o-que-e-como-identificar-uso-da-tecnologia-nas-eleicoes.html?utm_source=twitter&utm_medium=opovo"
+        }
+      ]
+    },
+    "conversation_id": "1567218575676477441",
+    "author_id": "19351269",
+    "id": "1567218575676477441"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T17:52:05.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567209033395847168",
+    "author_id": "1215691718319845376",
+    "id": "1567209033395847168"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1286088035373731840",
+          "name": "Music of Brazil"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 9,
+          "probability": 0.9967,
+          "type": "Person",
+          "normalized_text": "Lucy Alves"
+        }
+      ],
+      "urls": [
+        {
+          "start": 110,
+          "end": 133,
+          "url": "https://t.co/btO7GDS2P6",
+          "expanded_url": "https://www.diario24horas.com.br/noticia/60101-novela-travessia-usa-deepfake-como-parte-da-trama-principal",
+          "display_url": "diario24horas.com.br/noticia/60101-…",
+          "status": 200,
+          "title": "Novela Travessia usa 'deepfake' como parte da trama principal",
+          "description": "Lucy Alves será alvo de uma brincadeira de mau gosto e terá sua vida transformada em um verdadeiro inferno",
+          "unwound_url": "https://www.diario24horas.com.br/noticia/60101-novela-travessia-usa-deepfake-como-parte-da-trama-principal"
+        }
+      ]
+    },
+    "text": "Lucy Alves será alvo de uma grande injustiça e terá sua vida transformada em um inferno na novela Travessia. \nhttps://t.co/btO7GDS2P6",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T17:04:14.000Z",
+    "lang": "pt",
+    "source": "Twitter Web App",
+    "conversation_id": "1567196990181703688",
+    "author_id": "103637556",
+    "id": "1567196990181703688"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 57,
+          "end": 60,
+          "probability": 0.7713,
+          "type": "Person",
+          "normalized_text": "Bozó"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Ponce74762363",
+          "id": "1412484216546279427"
+        },
+        {
+          "start": 15,
+          "end": 27,
+          "username": "EthelMaciel",
+          "id": "2761075536"
+        }
+      ]
+    },
+    "text": "@Ponce74762363 @EthelMaciel A verdade é que se o Próprio Bozó vir falar que ele Comprou mesmo (e ele fez isso) com dinheiro vivo, vocês vão dizer que é Uma DeepFake! Porque não tem a ver com corrupção, tem a ver com proteger bandido de estimação!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T15:46:51.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1567124330231758848",
+    "author_id": "1633006844",
+    "id": "1567177515940069376"
+  },
+  {
+    "text": "@mouths_cradle mas não é deepfake, é real um sósia brasileiro udjdjdjdjjh",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T15:27:36.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "mouths_cradle",
+          "id": "1106673962115833856"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567164146835197959",
+    "author_id": "130872525",
+    "id": "1567172670873018369"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 9,
+          "end": 14,
+          "probability": 0.9434,
+          "type": "Person",
+          "normalized_text": "Felipe"
+        },
+        {
+          "start": 129,
+          "end": 137,
+          "probability": 0.9995,
+          "type": "Person",
+          "normalized_text": "Bolsonaro"
+        }
+      ],
+      "urls": [
+        {
+          "start": 268,
+          "end": 291,
+          "url": "https://t.co/PfhAc5UDgr",
+          "expanded_url": "https://twitter.com/felipeneto/status/1566874837225799681",
+          "display_url": "twitter.com/felipeneto/sta…"
+        }
+      ]
+    },
+    "text": "Discordo Felipe eu já acho que essas eleições precisam do MÁXIMO de fake news e desinformação possível\nTem que fazer deepfake do Bolsonaro em casa de swing e espalhar notícia que ele sacrifica criança numa ilha pra entregar pro capeta\n\nTem que fazer uma disputa justa https://t.co/PfhAc5UDgr",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T15:14:31.000Z",
+    "lang": "pt",
+    "source": "Twitter Web App",
+    "conversation_id": "1567169382035456000",
+    "author_id": "1153773260712095745",
+    "id": "1567169382035456000"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "public_metrics": {
+      "retweet_count": 307,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T14:16:11.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567154700234924033",
+    "author_id": "1271008571581497345",
+    "id": "1567154700234924033"
+  },
+  {
+    "text": "@soooyass @EvilSuspenso Como se vcs não fossem os nojentos que postam deepfake dos meninos, postam arsd de menor de idade em site porno, chamam eles de infestados de dst e o krl a 4. Nem venha se vitimizar tbm não",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T14:05:38.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "soooyass",
+          "id": "1495050695543775232"
+        },
+        {
+          "start": 10,
+          "end": 23,
+          "username": "EvilSuspenso",
+          "id": "1564696995964526594"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567148516341960705",
+    "author_id": "1541455178657894400",
+    "id": "1567152043684413441"
+  },
+  {
+    "text": "@AntonioPauloSc3 @lula Tá parecendo DeepFake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T13:50:12.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "AntonioPauloSc3",
+          "id": "1407130171296059392"
+        },
+        {
+          "start": 17,
+          "end": 22,
+          "username": "lula",
+          "id": "44179232"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566948588323733504",
+    "author_id": "210997300",
+    "id": "1567148162577584130"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809432488309190656",
+          "name": "Sofia Vergara",
+          "description": "Sofia Vergara"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "809432488309190656",
+          "name": "Sofia Vergara",
+          "description": "Sofia Vergara"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "809432488309190656",
+          "name": "Sofia Vergara",
+          "description": "Sofia Vergara"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Sofia Vergara 🔞🔥 #deepfake\nTelegram Channel: https://t.co/aqLafLoI5D\nTelegram Chat: https://t.co/HFUeTWthCI https://t.co/9…",
+    "public_metrics": {
+      "retweet_count": 172,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T11:25:49.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 43,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/aqLafLoI5D",
+          "expanded_url": "https://t.me/FakeHubXXX",
+          "display_url": "t.me/FakeHubXXX",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1566169884467363842/mlTAFa6w?format=png&name=orig",
+              "width": 128,
+              "height": 128
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1566169884467363842/mlTAFa6w?format=png&name=150x150",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "status": 200,
+          "title": "Telegram: Contact @FakeHubXXX",
+          "description": "If you have Telegram, you can contact @FakeHubXXX right",
+          "unwound_url": "https://t.me/FakeHubXXX"
+        },
+        {
+          "start": 101,
+          "end": 124,
+          "url": "https://t.co/HFUeTWthCI",
+          "expanded_url": "https://t.me/FakeHubXXXChat",
+          "display_url": "t.me/FakeHubXXXChat",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1566785382263422977/OKHjdHws?format=png&name=orig",
+              "width": 128,
+              "height": 128
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1566785382263422977/OKHjdHws?format=png&name=150x150",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "status": 200,
+          "title": "Telegram: Contact @FakeHubXXXChat",
+          "unwound_url": "https://t.me/FakeHubXXXChat"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1567111825975656448",
+    "author_id": "1453642169210769410",
+    "id": "1567111825975656448"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T10:16:30.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567094380082724864",
+    "author_id": "1269113251905908736",
+    "id": "1567094380082724864"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809432488309190656",
+          "name": "Sofia Vergara",
+          "description": "Sofia Vergara"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "809432488309190656",
+          "name": "Sofia Vergara",
+          "description": "Sofia Vergara"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "809432488309190656",
+          "name": "Sofia Vergara",
+          "description": "Sofia Vergara"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Sofia Vergara 🔞🔥 #deepfake\nTelegram Channel: https://t.co/aqLafLoI5D\nTelegram Chat: https://t.co/HFUeTWthCI https://t.co/9…",
+    "public_metrics": {
+      "retweet_count": 172,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T07:11:07.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 43,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/aqLafLoI5D",
+          "expanded_url": "https://t.me/FakeHubXXX",
+          "display_url": "t.me/FakeHubXXX",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1566169884467363842/mlTAFa6w?format=png&name=orig",
+              "width": 128,
+              "height": 128
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1566169884467363842/mlTAFa6w?format=png&name=150x150",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "status": 200,
+          "title": "Telegram: Contact @FakeHubXXX",
+          "description": "If you have Telegram, you can contact @FakeHubXXX right",
+          "unwound_url": "https://t.me/FakeHubXXX"
+        },
+        {
+          "start": 101,
+          "end": 124,
+          "url": "https://t.co/HFUeTWthCI",
+          "expanded_url": "https://t.me/FakeHubXXXChat",
+          "display_url": "t.me/FakeHubXXXChat",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1566785382263422977/OKHjdHws?format=png&name=orig",
+              "width": 128,
+              "height": 128
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1566785382263422977/OKHjdHws?format=png&name=150x150",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "status": 200,
+          "title": "Telegram: Contact @FakeHubXXXChat",
+          "unwound_url": "https://t.me/FakeHubXXXChat"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567047728106196993",
+    "author_id": "1284681619459043331",
+    "id": "1567047728106196993"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T05:52:41.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567027992265740293",
+    "author_id": "1494972509409660936",
+    "id": "1567027992265740293"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 42,
+          "end": 49,
+          "probability": 0.49,
+          "type": "Person",
+          "normalized_text": "DeepFake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "nicollas",
+          "id": "3386481351"
+        }
+      ]
+    },
+    "text": "@nicollas Vc é sujo amigo! Compartilhando DeepFake? Ou vc é sujo ou é burro mesmo!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T05:06:25.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566767352217214976",
+    "author_id": "1398003632264646658",
+    "id": "1567016346172506113"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      }
+    ],
+    "text": "@nicollas Típico de petista! Já que não tem oq falar, manipulam imagens e vídeos! Puta Vídeo Fake! #deepfake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T05:05:13.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "nicollas",
+          "id": "3386481351"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 99,
+          "end": 108,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566767352217214976",
+    "author_id": "1398003632264646658",
+    "id": "1567016044174221312"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "public_metrics": {
+      "retweet_count": 307,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T04:43:10.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567010497861402625",
+    "author_id": "1462935863063547909",
+    "id": "1567010497861402625"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "897535670746402816",
+          "name": "Alexandra Daddario",
+          "description": "Alexandra Daddario"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "897535670746402816",
+          "name": "Alexandra Daddario",
+          "description": "Alexandra Daddario"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "897535670746402816",
+          "name": "Alexandra Daddario",
+          "description": "Alexandra Daddario"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Alexandra Daddario 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/yantHzcda9",
+    "public_metrics": {
+      "retweet_count": 233,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T04:40:04.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1513523851950538758"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 39,
+          "end": 48,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/yantHzcda9",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1514257118496366598/video/1",
+          "display_url": "pic.twitter.com/yantHzcda9",
+          "media_key": "7_1513523851950538758"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1567009716248760320",
+    "author_id": "1061745853000548352",
+    "id": "1567009716248760320"
+  },
+  {
+    "text": "@TrindaMaster assustadora a evolução da tecnologia de deepfake 🥶",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T03:50:33.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "TrindaMaster",
+          "id": "904492147843506181"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566979632745910272",
+    "author_id": "1293488669232332800",
+    "id": "1566997253281177603"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 11,
+          "probability": 0.9639,
+          "type": "Person",
+          "normalized_text": "Gloria Perez"
+        }
+      ],
+      "urls": [
+        {
+          "start": 57,
+          "end": 80,
+          "url": "https://t.co/kz6N1g39QZ",
+          "expanded_url": "https://twitter.com/tvglobo/status/1566954599789039617",
+          "display_url": "twitter.com/tvglobo/status…"
+        }
+      ]
+    },
+    "text": "Gloria Perez meteu a pauta do deepfake. GIGANTE GLORINHA https://t.co/kz6N1g39QZ",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 27,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T03:03:04.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566985305114148866",
+    "author_id": "1261043162904178688",
+    "id": "1566985305114148866"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T02:58:56.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566984264058560514",
+    "author_id": "3291812721",
+    "id": "1566984264058560514"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T02:41:18.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566979828519247872",
+    "author_id": "1311868915287568386",
+    "id": "1566979828519247872"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "979342009008713728",
+          "name": "Sérgio Moro",
+          "description": "Sérgio Moro"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "979342009008713728",
+          "name": "Sérgio Moro",
+          "description": "Sérgio Moro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "979342009008713728",
+          "name": "Sérgio Moro",
+          "description": "Sérgio Moro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "text": "Não pra saber se isso é deepfake. A forma como ele fala parece real. https://t.co/arUnGyS3dr",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T02:23:14.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566975282350903296",
+    "author_id": "2214020569",
+    "id": "1566975282350903296",
+    "entities": {
+      "urls": [
+        {
+          "start": 69,
+          "end": 92,
+          "url": "https://t.co/arUnGyS3dr",
+          "expanded_url": "https://twitter.com/fenix_em/status/1566221596293009413",
+          "display_url": "twitter.com/fenix_em/statu…"
+        }
+      ]
+    }
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 98,
+          "end": 101,
+          "probability": 0.7993,
+          "type": "Person",
+          "normalized_text": "lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "matheusagostin",
+          "id": "978658091406413826"
+        }
+      ]
+    },
+    "text": "@matheusagostin Todo blsonimion que conheço é exatamente assim, agora q fazem vários deepfakes do lula piorou pq a gente fala q é montagem eles não acreditam",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 13,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T02:11:24.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566875341330825216",
+    "author_id": "776620875575689217",
+    "id": "1566972302893666305"
+  },
+  {
+    "text": "Me lembrou o caso daquela mulher que foi morta pq falaram que ela roubava crianças por causa de deepfake https://t.co/liJzoHFbpF",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T02:09:41.000Z",
+    "lang": "pt",
+    "source": "Twitter Web App",
+    "conversation_id": "1566971869613494279",
+    "author_id": "1140817538512760834",
+    "id": "1566971869613494279",
+    "entities": {
+      "urls": [
+        {
+          "start": 105,
+          "end": 128,
+          "url": "https://t.co/liJzoHFbpF",
+          "expanded_url": "https://twitter.com/tvglobo/status/1566954599789039617",
+          "display_url": "twitter.com/tvglobo/status…"
+        }
+      ]
+    }
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1286088035373731840",
+          "name": "Music of Brazil"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 33,
+          "end": 42,
+          "probability": 0.9642,
+          "type": "Person",
+          "normalized_text": "lucy alves"
+        }
+      ],
+      "urls": [
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/GBagbnvkFT",
+          "expanded_url": "https://twitter.com/docemontero/status/1566965852943032320/photo/1",
+          "display_url": "pic.twitter.com/GBagbnvkFT",
+          "media_key": "3_1566965662743990278"
+        }
+      ]
+    },
+    "text": "eu pensei que iam fazer fotos da lucy alves pro deepfake ficar mais real kkkkkk https://t.co/GBagbnvkFT",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:45:46.000Z",
+    "attachments": {
+      "media_keys": [
+        "3_1566965662743990278"
+      ]
+    },
+    "lang": "pt",
+    "source": "Twitter Web App",
+    "conversation_id": "1566965852943032320",
+    "author_id": "933195944",
+    "id": "1566965852943032320"
+  },
+  {
+    "text": "@seafroes O @brunnosarttori faz umas deepfakes mto engraçadas por aqui",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:37:41.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "seafroes",
+          "id": "1310667100390854668"
+        },
+        {
+          "start": 12,
+          "end": 27,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566962038001356801",
+    "author_id": "20857807",
+    "id": "1566963817359331331"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "1501283195123163137",
+          "name": "Pantanal",
+          "description": "José Leôncio, fazendeiro do Pantanal, viaja para o Rio de Janeiro e engravida uma jovem. Ela se muda para o Centro-Oeste, mas fica infeliz e resolve voltar para o Rio com o filho. 20 anos depois, o garoto volta ao Pantanal para reencontrar o pai."
+        }
+      },
+      {
+        "domain": {
+          "id": "4",
+          "name": "TV Episodes",
+          "description": "Television show episodes"
+        },
+        "entity": {
+          "id": "1562742915520032769",
+          "name": "Pantanal",
+          "description": "José Leôncio, fazendeiro do Pantanal, viaja para o Rio de Janeiro e engravida uma jovem. Ela se muda para o Centro-Oeste, mas fica infeliz e resolve voltar para o Rio com o filho. 20 anos depois, o garoto volta ao Pantanal para reencontrar o pai."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1054747383622328320",
+          "name": "Chay Suede",
+          "description": "Chay Suede"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1389361348337750020",
+          "name": "Jade Picon"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1562742915520032769",
+          "name": "Pantanal",
+          "description": "José Leôncio, fazendeiro do Pantanal, viaja para o Rio de Janeiro e engravida uma jovem. Ela se muda para o Centro-Oeste, mas fica infeliz e resolve voltar para o Rio com o filho. 20 anos depois, o garoto volta ao Pantanal para reencontrar o pai."
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1054747383622328320",
+          "name": "Chay Suede",
+          "description": "Chay Suede"
+        }
+      },
+      {
+        "domain": {
+          "id": "120",
+          "name": "Digital Creator",
+          "description": "Influencers who create content on digital platforms"
+        },
+        "entity": {
+          "id": "1389361348337750020",
+          "name": "Jade Picon"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1054747383622328320",
+          "name": "Chay Suede",
+          "description": "Chay Suede"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1095352268046495745",
+          "name": "Celebrities",
+          "description": "Celebrities"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1098601487213576192",
+          "name": "Soap operas",
+          "description": "Soap Operas"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1286088035373731840",
+          "name": "Music of Brazil"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1354796903951601669",
+          "name": "Big Brother Brazil stars"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1389361348337750020",
+          "name": "Jade Picon"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1524398172960743424",
+          "name": "Novela Pantanal"
+        }
+      },
+      {
+        "domain": {
+          "id": "172",
+          "name": "Global TV Show",
+          "description": "For global/conceptual TV shows without localization."
+        },
+        "entity": {
+          "id": "1524398172960743424",
+          "name": "Novela Pantanal"
+        }
+      }
+    ],
+    "text": "o plot de deepfake MDS vou ver todos os capítulos https://t.co/TaVe7NMaDn",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:35:21.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566963230009876483",
+    "author_id": "1334369573492170755",
+    "id": "1566963230009876483",
+    "entities": {
+      "urls": [
+        {
+          "start": 50,
+          "end": 73,
+          "url": "https://t.co/TaVe7NMaDn",
+          "expanded_url": "https://twitter.com/bchartsnet/status/1566956092092973063",
+          "display_url": "twitter.com/bchartsnet/sta…"
+        }
+      ]
+    }
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:32:14.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566962445456998401",
+    "author_id": "1566261997662081025",
+    "id": "1566962445456998401"
+  },
+  {
+    "text": "Deepfake, uma amálgama de \"deep learning\" e \"fake\", é uma técnica de síntese de imagens ou sons humanos baseada em técnicas de inteligência artificial. É mais usada para combinar a fala qualquer a um vídeo já existente. https://t.co/gSU1hpTFs1",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:30:37.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566962038001356801",
+    "author_id": "1310667100390854668",
+    "id": "1566962038001356801",
+    "entities": {
+      "urls": [
+        {
+          "start": 220,
+          "end": 243,
+          "url": "https://t.co/gSU1hpTFs1",
+          "expanded_url": "https://twitter.com/seafroes/status/1566961831373152257",
+          "display_url": "twitter.com/seafroes/statu…"
+        }
+      ]
+    }
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1046545033657081857",
+          "name": "News",
+          "description": "News"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 16,
+          "end": 19,
+          "probability": 0.8346,
+          "type": "Person",
+          "normalized_text": "lucy"
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "probability": 0.9293,
+          "type": "Person",
+          "normalized_text": "chiara"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "mundicomenta",
+          "id": "1453554793100754944"
+        }
+      ]
+    },
+    "text": "@mundicomenta A lucy é vítima de deepfake (vídeo editado) a chiara vai ser de notícias falsas msm.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 1
+    },
+    "created_at": "2022-09-06T01:25:57.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566960441636671488",
+    "author_id": "1275406943117553672",
+    "id": "1566960863638077446"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 7,
+          "probability": 0.719,
+          "type": "Person",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 29,
+          "end": 52,
+          "url": "https://t.co/sXm9LbMAdC",
+          "expanded_url": "https://twitter.com/gloriafperez/status/1566950716496920579",
+          "display_url": "twitter.com/gloriafperez/s…"
+        }
+      ]
+    },
+    "text": "Deepfake é um tema bem atual https://t.co/sXm9LbMAdC",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:24:03.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566960388016685057",
+    "author_id": "836063878454919168",
+    "id": "1566960388016685057"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 32,
+          "end": 39,
+          "probability": 0.9008,
+          "type": "Person",
+          "normalized_text": "deepfake"
+        }
+      ]
+    },
+    "text": "mas achei bem ruim esse plot do deepfake sendo feito por um adolescente aleatório kk",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:08:58.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566956012548005894",
+    "author_id": "4562367940",
+    "id": "1566956588581195778"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:06:15.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566955906084077576",
+    "author_id": "1521159032731574274",
+    "id": "1566955906084077576"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 13,
+          "end": 16,
+          "probability": 0.5184,
+          "type": "Person",
+          "normalized_text": "Deus"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 136,
+          "end": 146,
+          "tag": "Travessia"
+        }
+      ],
+      "urls": [
+        {
+          "start": 147,
+          "end": 170,
+          "url": "https://t.co/LuZQET8fE8",
+          "expanded_url": "https://twitter.com/pheIipes/status/1566955519234957313/photo/1",
+          "display_url": "pic.twitter.com/LuZQET8fE8",
+          "media_key": "3_1566955516433256448"
+        }
+      ]
+    },
+    "text": "Pelo amor de Deus, alguém me diz que eles vão melhorar isso. Eles vão né? Fazer uma deepfake de verdade e não só uma montagem ridícula? #Travessia https://t.co/LuZQET8fE8",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:04:43.000Z",
+    "attachments": {
+      "media_keys": [
+        "3_1566955516433256448"
+      ]
+    },
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566955519234957313",
+    "author_id": "197212679",
+    "id": "1566955519234957313"
+  },
+  {
+    "text": "@jeannedielman ai amigo so esse plot do deepfake que conquistou minha atencao pq de resto... fotografia belissima",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T01:02:31.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "jeannedielman",
+          "id": "2730266495"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566954297228775424",
+    "author_id": "149463134",
+    "id": "1566954967981858816"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T00:56:05.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566953346879164419",
+    "author_id": "1514642207717969923",
+    "id": "1566953346879164419"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 54,
+          "probability": 0.7524,
+          "type": "Person",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "dickytracy",
+          "id": "34144933"
+        },
+        {
+          "start": 12,
+          "end": 27,
+          "username": "Danilo_GarciaA",
+          "id": "1563841130"
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "username": "GadoDecider",
+          "id": "1262500154436878338"
+        }
+      ]
+    },
+    "text": "@dickytracy @Danilo_GarciaA @GadoDecider Pqp.  Deepfake foi boa.  Ta craque mesmo heim amigao....vc deveria trabalhar na area heim.   kkkkkkkkkk. O pior cego eh o que nao quer ver msm!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T00:43:06.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566604007409422336",
+    "author_id": "1330267776",
+    "id": "1566950079684132865"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "public_metrics": {
+      "retweet_count": 307,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T00:17:04.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566943528986484737",
+    "author_id": "1558934307103821824",
+    "id": "1566943528986484737"
+  },
+  {
+    "text": "@apto201 @joaomtl @luteciatoicinho Vi! Ele aparenta estar mais gordo e assim, depende muito do ângulo. \nMinha suspeita é: ele de fato lembra, mas podem ter colocado um deepfake sim só pra realçar mais a semelhança.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-06T00:05:26.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "apto201",
+          "id": "3473691262"
+        },
+        {
+          "start": 9,
+          "end": 17,
+          "username": "joaomtl",
+          "id": "301108972"
+        },
+        {
+          "start": 18,
+          "end": 34,
+          "username": "luteciatoicinho",
+          "id": "1184893507854577674"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566902204073758723",
+    "author_id": "38188434",
+    "id": "1566940600301195264"
+  },
+  {
+    "text": "@apto201 @joaomtl @luteciatoicinho So se fizeram deepfake nun video porno dele que eu acabei de ver (tem o link nas replies desse tuíte aí, fiquei curiosa e cliquei)",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T23:48:58.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "apto201",
+          "id": "3473691262"
+        },
+        {
+          "start": 9,
+          "end": 17,
+          "username": "joaomtl",
+          "id": "301108972"
+        },
+        {
+          "start": 18,
+          "end": 34,
+          "username": "luteciatoicinho",
+          "id": "1184893507854577674"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566902204073758723",
+    "author_id": "38188434",
+    "id": "1566936458115665931"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T23:48:13.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566936271112601601",
+    "author_id": "1561442654981918720",
+    "id": "1566936271112601601"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T23:47:15.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566936024793620483",
+    "author_id": "1561442654981918720",
+    "id": "1566936024793620483"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "id": "48",
+          "name": "Product",
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 100,
+          "end": 105,
+          "probability": 0.6449,
+          "type": "Product",
+          "normalized_text": "Google"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "DarwinW48069862",
+          "id": "1564683272336162823"
+        },
+        {
+          "start": 17,
+          "end": 30,
+          "username": "lazarorosa25",
+          "id": "545643493"
+        }
+      ],
+      "urls": [
+        {
+          "start": 114,
+          "end": 137,
+          "url": "https://t.co/U041Hnzmpp",
+          "expanded_url": "https://twitter.com/DoraEugenia5/status/1566923795683840001/photo/1",
+          "display_url": "pic.twitter.com/U041Hnzmpp",
+          "media_key": "3_1566923792428982272"
+        }
+      ]
+    },
+    "text": "@DarwinW48069862 @lazarorosa25 Isso é uma DeepFake!! Quem não sabe o q é veja abaixo ôh pesquise no Google, pfv?! https://t.co/U041Hnzmpp",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T22:58:39.000Z",
+    "attachments": {
+      "media_keys": [
+        "3_1566923792428982272"
+      ]
+    },
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566486663404158977",
+    "author_id": "862718590339993601",
+    "id": "1566923795683840001"
+  },
+  {
+    "text": "daqui a pouco vem os bolsofofos dizer que é deepfake https://t.co/CHei0AhHAF",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T22:47:00.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566920863961808902",
+    "author_id": "1415473614695055363",
+    "id": "1566920863961808902",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/CHei0AhHAF",
+          "expanded_url": "https://twitter.com/anonnovidades/status/1566540067300163591",
+          "display_url": "twitter.com/anonnovidades/…"
+        }
+      ]
+    }
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 65,
+          "end": 72,
+          "probability": 0.496,
+          "type": "Person",
+          "normalized_text": "DeepFake"
+        },
+        {
+          "start": 136,
+          "end": 139,
+          "probability": 0.9466,
+          "type": "Person",
+          "normalized_text": "Lula"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "DarwinW48069862",
+          "id": "1564683272336162823"
+        },
+        {
+          "start": 17,
+          "end": 30,
+          "username": "lazarorosa25",
+          "id": "545643493"
+        }
+      ]
+    },
+    "text": "@DarwinW48069862 @lazarorosa25 DeepFake!! O povo tá ligado o q é DeepFake kkkkk não subestime a inteligência do trabalhador?! O VOTO em Lula está consolidado e ngm muda, muito menos mentirosos, fascistas!!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T22:30:45.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566486663404158977",
+    "author_id": "862718590339993601",
+    "id": "1566916772053360642"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T21:57:28.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1566908396309299201",
+    "author_id": "1522970029389660160",
+    "id": "1566908396309299201"
+  },
+  {
+    "text": "@luteciatoicinho amiga descobri hoje q eh um deepfake meu chao caiu me atiraram num penhasco",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T21:40:35.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "luteciatoicinho",
+          "id": "1184893507854577674"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1566902204073758723",
+    "author_id": "301108972",
+    "id": "1566904147768737792"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T21:35:49.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566902950517215232",
+    "author_id": "1479124619965747200",
+    "id": "1566902950517215232"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T21:28:26.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566901090687356933",
+    "author_id": "2683126822",
+    "id": "1566901090687356933"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1155928725164195841",
+          "name": "UOL"
+        }
+      }
+    ],
+    "text": "@larthursc @ismattca @julianadalpiva @UOLNoticias @UOL Esse vídeo é deepfake então?https://t.co/FCzSzkU487",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T21:11:12.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "larthursc",
+          "id": "2871856643"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "username": "ismattca",
+          "id": "1521593291803967490"
+        },
+        {
+          "start": 21,
+          "end": 36,
+          "username": "julianadalpiva",
+          "id": "28217833"
+        },
+        {
+          "start": 37,
+          "end": 49,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        },
+        {
+          "start": 50,
+          "end": 54,
+          "username": "UOL",
+          "id": "70799317"
+        }
+      ],
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/FCzSzkU487",
+          "expanded_url": "https://youtu.be/-mCefYVle7U",
+          "display_url": "youtu.be/-mCefYVle7U",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1566864736255447043/6zK_b2zw?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1566864736255447043/6zK_b2zw?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Ciro sobre Chile no Pânico: “Proposta é ‘mistificadora’ e ‘cheia de baboseiras’” | LINHA DE FRENTE",
+          "description": "Em entrevista ao Pânico nesta segunda (05), Ciro Gomes (PDT) falou sobre a proposta da nova Constituição do Chile que acabou sendo rejeitada. Gregor Osipoff ...",
+          "unwound_url": "https://www.youtube.com/watch?v=-mCefYVle7U&feature=youtu.be"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566855342822236160",
+    "author_id": "362464136",
+    "id": "1566896755358179328"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "930484568305541120",
+          "name": "Data science",
+          "description": "Data Science"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1046545033657081857",
+          "name": "News",
+          "description": "News"
+        }
+      }
+    ],
+    "text": "https://t.co/a13rgRCF0g\n \n#inteligência #algoritmos #probabilidade #ai #databasestorage #gpt3 #datamining #ethics\n\nComo os algoritmos criam e previnem notícias falsas: explorando os impactos das mídias sociais, deepfakes, GPT-3 e muito mais https://t.co/soNvSh6Awt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T20:25:21.000Z",
+    "lang": "pt",
+    "source": "ethicsBot",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 26,
+          "end": 39,
+          "tag": "inteligência"
+        },
+        {
+          "start": 40,
+          "end": 51,
+          "tag": "algoritmos"
+        },
+        {
+          "start": 52,
+          "end": 66,
+          "tag": "probabilidade"
+        },
+        {
+          "start": 67,
+          "end": 70,
+          "tag": "ai"
+        },
+        {
+          "start": 71,
+          "end": 87,
+          "tag": "databasestorage"
+        },
+        {
+          "start": 88,
+          "end": 93,
+          "tag": "gpt3"
+        },
+        {
+          "start": 94,
+          "end": 105,
+          "tag": "datamining"
+        },
+        {
+          "start": 106,
+          "end": 113,
+          "tag": "ethics"
+        }
+      ],
+      "urls": [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "https://t.co/a13rgRCF0g",
+          "expanded_url": "https://www.amazon.com/dp/1484271548?tag=corpusnews-20&linkCode=osi&th=1&psc=1",
+          "display_url": "amazon.com/dp/1484271548?…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1566885242048319488/SLvcng_x?format=png&name=orig",
+              "width": 600,
+              "height": 315
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1566885242048319488/SLvcng_x?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More",
+          "description": "How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More",
+          "unwound_url": "https://www.amazon.com/dp/1484271548?tag=corpusnews-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "start": 241,
+          "end": 264,
+          "url": "https://t.co/soNvSh6Awt",
+          "expanded_url": "https://twitter.com/corpus_news/status/1566885190852640769",
+          "display_url": "twitter.com/corpus_news/st…"
+        }
+      ]
+    },
+    "conversation_id": "1566885216068804608",
+    "author_id": "1437867934710386697",
+    "id": "1566885216068804608"
+  },
+  {
+    "text": "@Y0ONR0CKST4R fiquei sabendo disso ontem, tava até pensando em postar, mas além de saber do flop q vinha, vi os boatos de que iam fazer deepfake e fiquei com o uc na mao",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T20:16:44.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "Y0ONR0CKST4R",
+          "id": "1565859913456406537"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566882136371625987",
+    "author_id": "1322623408811683840",
+    "id": "1566883049714982914"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T19:55:18.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1566877653692567555",
+    "author_id": "1257556854697267201",
+    "id": "1566877653692567555"
+  },
+  {
+    "text": "@cramxfv Pode até ser deepfake mas esse vídeo é sensacional po",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T19:40:46.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "cramxfv",
+          "id": "1091321476177903616"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1566847318535688193",
+    "author_id": "4828447058",
+    "id": "1566873997198954501"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "937638599612174336",
+          "name": "Brazil Supreme Federal Court  ",
+          "description": "Brazil Supreme Federal Court  "
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "981224436849295360",
+          "name": "STF",
+          "description": "STF"
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1495810518526808074",
+          "name": "Brazilian Superior Electoral Court (TSE)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "937638599612174336",
+          "name": "Brazil Supreme Federal Court  ",
+          "description": "Brazil Supreme Federal Court  "
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "981224436849295360",
+          "name": "STF",
+          "description": "STF"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1068583660914266113",
+          "name": "Government institutions",
+          "description": "Political Body"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912313483902857216",
+          "name": "Alexandre de Moraes",
+          "description": "Alexandre de Moraes"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912313483902857216",
+          "name": "Alexandre de Moraes",
+          "description": "Alexandre de Moraes"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "912313483902857216",
+          "name": "Alexandre de Moraes",
+          "description": "Alexandre de Moraes"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "text": "@KwaiBrasil @TSEjusbr @magamara @Facebookbr2 @STF_oficial @alexandre Só hoje mais de 100 fakenews e deepfakes espalhados no @KwaiBrasil mas a mensagem que vem ao denunciar e que as contas não inflige a regra do Kwai!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T19:28:37.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "KwaiBrasil",
+          "id": "1389983137707528195"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "username": "TSEjusbr",
+          "id": "75270377"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "username": "magamara",
+          "id": "91774999"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "username": "Facebookbr2",
+          "id": "1972089102"
+        },
+        {
+          "start": 45,
+          "end": 57,
+          "username": "STF_oficial",
+          "id": "68313718"
+        },
+        {
+          "start": 58,
+          "end": 68,
+          "username": "alexandre",
+          "id": "900756488574074880"
+        },
+        {
+          "start": 124,
+          "end": 135,
+          "username": "KwaiBrasil",
+          "id": "1389983137707528195"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1565403696862748674",
+    "author_id": "1260313482425241600",
+    "id": "1566870940037910530"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "806557506851848192",
+          "name": "Ariana Grande",
+          "description": "Ariana Grande"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "806557506851848192",
+          "name": "Ariana Grande",
+          "description": "Ariana Grande"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "806557506851848192",
+          "name": "Ariana Grande",
+          "description": "Ariana Grande"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "870297323053527040",
+          "name": "Dua Lipa",
+          "description": "Dua Lipa"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "870297323053527040",
+          "name": "Dua Lipa",
+          "description": "Dua Lipa"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "870297323053527040",
+          "name": "Dua Lipa",
+          "description": "Dua Lipa"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 16,
+          "end": 23,
+          "probability": 0.9188,
+          "type": "Person",
+          "normalized_text": "Dua Lipa"
+        },
+        {
+          "start": 27,
+          "end": 39,
+          "probability": 0.8433,
+          "type": "Person",
+          "normalized_text": "Ariana Grande"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Venomfakes",
+          "id": "1385225551560904707"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 50,
+          "end": 58,
+          "tag": "DuaLipa"
+        },
+        {
+          "start": 59,
+          "end": 72,
+          "tag": "ArianaGrande"
+        },
+        {
+          "start": 73,
+          "end": 83,
+          "tag": "threesome"
+        },
+        {
+          "start": 84,
+          "end": 94,
+          "tag": "celebrity"
+        },
+        {
+          "start": 95,
+          "end": 107,
+          "tag": "celebrities"
+        },
+        {
+          "start": 108,
+          "end": 123,
+          "tag": "celebrityfakes"
+        },
+        {
+          "start": 124,
+          "end": 133,
+          "tag": "deepfake"
+        },
+        {
+          "start": 134,
+          "end": 140,
+          "tag": "fakes"
+        }
+      ]
+    },
+    "text": "RT @Venomfakes: Dua Lipa &amp; Ariana Grande 🔥🔥🔥\n\n#DuaLipa #ArianaGrande #threesome #celebrity #celebrities #celebrityfakes #deepfake #fakes #n…",
+    "public_metrics": {
+      "retweet_count": 102,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T19:27:10.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566870575418597384",
+    "author_id": "1156206844756529153",
+    "id": "1566870575418597384"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 73,
+          "end": 75,
+          "probability": 0.8844,
+          "type": "Person",
+          "normalized_text": "Rob"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "pattinsonbrasil",
+          "id": "33051087"
+        }
+      ]
+    },
+    "text": "@pattinsonbrasil Mano não entendo a galera da trela pra esse deepfake do Rob.kkkk",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T19:26:23.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566808839147716608",
+    "author_id": "1041458923356577792",
+    "id": "1566870376587698180"
+  },
+  {
+    "text": "@alvaroborba Cria uma deepfake de si mesmo e só escreve os roteiros",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T19:23:53.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "alvaroborba",
+          "id": "36244117"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566787232173887488",
+    "author_id": "1006059819932049408",
+    "id": "1566869748343791617"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T19:09:30.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566866127699038214",
+    "author_id": "1330861146899943425",
+    "id": "1566866127699038214"
+  },
+  {
+    "text": "Os #deepfakes são o próximo vetor de fraudes do mundo moderno! da @Netskope,  com esse risco crescente , é importante que as empresas estejam atentas a alguns detalhes e adotem tecnologias para proteger seus dados, finanças e reputação frente ao público.https://t.co/45RlWJYvA9",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T18:34:23.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 66,
+          "end": 75,
+          "username": "Netskope",
+          "id": "1598469950"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 3,
+          "end": 13,
+          "tag": "deepfakes"
+        }
+      ],
+      "urls": [
+        {
+          "start": 254,
+          "end": 277,
+          "url": "https://t.co/45RlWJYvA9",
+          "expanded_url": "https://canaltech.com.br/seguranca/como-empresas-podem-se-proteger-contra-os-deepfakes-222732/",
+          "display_url": "canaltech.com.br/seguranca/como…",
+          "status": 200,
+          "title": "Como empresas podem se proteger contra os deepfakes?",
+          "description": "Os deepfakes já estão por aí e melhores dia após dia, saiba como se defender e defender sua empresa desse tipo de ameaça",
+          "unwound_url": "https://canaltech.com.br/seguranca/como-empresas-podem-se-proteger-contra-os-deepfakes-222732/"
+        }
+      ]
+    },
+    "source": "Sprout Social",
+    "conversation_id": "1566857292414435329",
+    "author_id": "1375569108763283459",
+    "id": "1566857292414435329"
+  },
+  {
+    "text": "Alguém consegue me dizer se isso é deepfake ou é real mesmo ? https://t.co/biU3q6YEnf",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T18:25:50.000Z",
+    "lang": "pt",
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566855140262412291",
+    "author_id": "837354057354334208",
+    "id": "1566855140262412291",
+    "entities": {
+      "urls": [
+        {
+          "start": 62,
+          "end": 85,
+          "url": "https://t.co/biU3q6YEnf",
+          "expanded_url": "https://twitter.com/anonnovidades/status/1566540067300163591",
+          "display_url": "twitter.com/anonnovidades/…"
+        }
+      ]
+    }
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 33,
+          "end": 36,
+          "probability": 0.959,
+          "type": "Person",
+          "normalized_text": "LULA"
+        },
+        {
+          "start": 71,
+          "end": 75,
+          "probability": 0.9727,
+          "type": "Person",
+          "normalized_text": "LORDE"
+        },
+        {
+          "start": 84,
+          "end": 106,
+          "probability": 0.8604,
+          "type": "Person",
+          "normalized_text": "SALVADOR JAIR BOLSONARO"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "SttuarttSk",
+          "id": "3413979527"
+        }
+      ]
+    },
+    "text": "RT @SttuarttSk: É FAKE, ISSO É O LULA USANDO DEEPFAKE PRA INCRIMINAR O LORDE SENHOR SALVADOR JAIR BOLSONARO AMÉM MINHA BANDEIRA JAMAIS SERA…",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T18:08:19.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566850731692507136",
+    "author_id": "858305868",
+    "id": "1566850731692507136"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "912697101083041792",
+          "name": "Jair Bolsonaro",
+          "description": "Jair Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 17,
+          "end": 20,
+          "probability": 0.9689,
+          "type": "Person",
+          "normalized_text": "LULA"
+        },
+        {
+          "start": 55,
+          "end": 59,
+          "probability": 0.9735,
+          "type": "Person",
+          "normalized_text": "LORDE"
+        },
+        {
+          "start": 68,
+          "end": 90,
+          "probability": 0.8621,
+          "type": "Person",
+          "normalized_text": "SALVADOR JAIR BOLSONARO"
+        }
+      ],
+      "urls": [
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/exAHdqYgax",
+          "expanded_url": "https://twitter.com/nicollas/status/1566767352217214976",
+          "display_url": "twitter.com/nicollas/statu…"
+        }
+      ]
+    },
+    "text": "É FAKE, ISSO É O LULA USANDO DEEPFAKE PRA INCRIMINAR O LORDE SENHOR SALVADOR JAIR BOLSONARO AMÉM MINHA BANDEIRA JAMAIS SERA VERMELHA https://t.co/exAHdqYgax",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T18:06:20.000Z",
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566850233522442245",
+    "author_id": "3413979527",
+    "id": "1566850233522442245"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:57:27.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566847995332665344",
+    "author_id": "1186022981883039757",
+    "id": "1566847995332665344"
+  },
+  {
+    "text": "tão cogitando até isso aqui ser deepfake https://t.co/mF4rMYEa57",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:51:36.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1566846467914043392"
+      ]
+    },
+    "lang": "pt",
+    "source": "Twitter for Android",
+    "conversation_id": "1566845827573760001",
+    "author_id": "1252596522258255872",
+    "id": "1566846522599391233",
+    "entities": {
+      "urls": [
+        {
+          "start": 41,
+          "end": 64,
+          "url": "https://t.co/mF4rMYEa57",
+          "expanded_url": "https://twitter.com/allynotebook/status/1566846522599391233/video/1",
+          "display_url": "pic.twitter.com/mF4rMYEa57",
+          "media_key": "7_1566846467914043392"
+        }
+      ]
+    }
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:49:35.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566846014878883841",
+    "author_id": "1427051882233704450",
+    "id": "1566846014878883841"
+  },
+  {
+    "text": "@Mariia_EduardaD @meltedvideos Isso é deepfake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:44:46.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Mariia_EduardaD",
+          "id": "3352158801"
+        },
+        {
+          "start": 17,
+          "end": 30,
+          "username": "meltedvideos",
+          "id": "1045091494955274240"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1566614878999252992",
+    "author_id": "1295730618949672960",
+    "id": "1566844805833007106"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "public_metrics": {
+      "retweet_count": 307,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:42:08.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566844140234878978",
+    "author_id": "994904569854414848",
+    "id": "1566844140234878978"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:39:02.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566843360048021505",
+    "author_id": "859469454996013056",
+    "id": "1566843360048021505"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 90,
+          "end": 93,
+          "probability": 0.5714,
+          "type": "Person",
+          "normalized_text": "Xuxa"
+        }
+      ]
+    },
+    "text": "Alguém já viu uma propaganda (não sei de quê) com um deepfake inacreditavelmente óbvio da Xuxa saindo da nave com as paquitas mais sem graça da galáxia em volta? Que coisa grotesca é aquela?",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:28:57.000Z",
+    "lang": "pt",
+    "source": "TweetDeck",
+    "conversation_id": "1566840821948813312",
+    "author_id": "14989840",
+    "id": "1566840821948813312"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:28:04.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566840602431463424",
+    "author_id": "796281597649682432",
+    "id": "1566840602431463424"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:03:39.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566834457583226880",
+    "author_id": "999015088219656192",
+    "id": "1566834457583226880"
+  },
+  {
+    "text": "RT @emoboythv_: ser obrigado a ter empatia com fandom que pega foto de pessoas MENORES de idade pra fazer deepfake e postar em site p0rn0?…",
+    "public_metrics": {
+      "retweet_count": 166,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T17:03:01.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "emoboythv_",
+          "id": "1551188063614803970"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566834298858229760",
+    "author_id": "1547723611057795072",
+    "id": "1566834298858229760"
+  },
+  {
+    "text": "@nicollas @TiagoSem8 Isso tá muito com cara de deepfake. Massssss…. Não duvido que realmente aconteceu.  Uma coisa dessas a grande mídia estaria divulgando. Sei lá. Ele eh um bosta de todo jeito.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T16:59:47.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "nicollas",
+          "id": "3386481351"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "TiagoSem8",
+          "id": "1326633676646588420"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "conversation_id": "1566767352217214976",
+    "author_id": "1015414598432886784",
+    "id": "1566833482768257024"
+  },
+  {
+    "text": "@tesoureiros @carlosjordy a galera tá exigindo videos comprobatórios, não vai demorar pra começarem a usar deepfakes pra atenderem a demanda",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T16:57:04.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "tesoureiros",
+          "id": "1071408436531904512"
+        },
+        {
+          "start": 13,
+          "end": 25,
+          "username": "carlosjordy",
+          "id": "82271629"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "conversation_id": "1566806746777124867",
+    "author_id": "336072544",
+    "id": "1566832798631170049"
+  },
+  {
+    "text": "@lefouti @rennanh @meltedvideos é deepfake, ele usa o impressions app",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T16:54:54.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "lefouti",
+          "id": "62554517"
+        },
+        {
+          "start": 9,
+          "end": 17,
+          "username": "rennanh",
+          "id": "64641344"
+        },
+        {
+          "start": 18,
+          "end": 31,
+          "username": "meltedvideos",
+          "id": "1045091494955274240"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566614878999252992",
+    "author_id": "871770011622309889",
+    "id": "1566832255611330560"
+  },
+  {
+    "text": "RT @gfbyjk: empatia com um fandom que pega foto de menor faz deepfake e coloca em site de p0rno? nunca viu",
+    "public_metrics": {
+      "retweet_count": 465,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T16:52:35.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "gfbyjk",
+          "id": "1250083979434364929"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566831671441342464",
+    "author_id": "859092012271902721",
+    "id": "1566831671441342464"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070715935688843266",
+          "name": "Eva Mendes",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070715935688843266",
+          "name": "Eva Mendes",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070715935688843266",
+          "name": "Eva Mendes",
+          "description": "American actress"
+        }
+      }
+    ],
+    "text": "RT @FakeHubPorn: Eva Mendes 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/1klfACJHU0",
+    "public_metrics": {
+      "retweet_count": 221,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T16:50:15.000Z",
+    "attachments": {
+      "media_keys": [
+        "7_1492147792458006534"
+      ]
+    },
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 31,
+          "end": 40,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 51,
+          "end": 74,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1565133951106445312/-jNMwmXR?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 75,
+          "end": 98,
+          "url": "https://t.co/1klfACJHU0",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1492559126915780609/video/1",
+          "display_url": "pic.twitter.com/1klfACJHU0",
+          "media_key": "7_1492147792458006534"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566831084805005312",
+    "author_id": "1538328972274061314",
+    "id": "1566831084805005312"
+  },
+  {
+    "text": "@kawomaid @Lgigol1 @Mariia_EduardaD @meltedvideos Porque pegou outra foto com deepfake 🤦🏿‍♂️",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "created_at": "2022-09-05T16:49:35.000Z",
+    "lang": "pt",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "kawomaid",
+          "id": "1156642421767385089"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "username": "Lgigol1",
+          "id": "1364257540318576642"
+        },
+        {
+          "start": 19,
+          "end": 35,
+          "username": "Mariia_EduardaD",
+          "id": "3352158801"
+        },
+        {
+          "start": 36,
+          "end": 49,
+          "username": "meltedvideos",
+          "id": "1045091494955274240"
+        }
+      ]
+    },
+    "source": "Twitter for Android",
+    "conversation_id": "1566614878999252992",
+    "author_id": "871770011622309889",
+    "id": "1566830917108244480"
+  }
+]

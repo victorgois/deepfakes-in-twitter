@@ -1,0 +1,6131 @@
+[
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1488973753274929152",
+          "name": "Political events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "conversation_id": "1585581492880687105",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585600091833991173",
+    "created_at": "2022-10-27T11:51:35.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+      "annotations": [
+        {
+          "start": 250,
+          "end": 257,
+          "probability": 0.5378,
+          "type": "Other",
+          "normalized_text": "DeepFake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "AndreJanonesAdv",
+          "id": "1198004545"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585600091833991173"
+    ],
+    "author_id": "1484234001795719168",
+    "lang": "pt",
+    "text": "@AndreJanonesAdv Se tem algo grave, o@dis é hj, 5 da tarde, pra deixar AqueleQueNaoCaga com medo de ir ao debate. Se nao tiver nada, acho que essa fake-fake mais desmobilizou quem estava focado do que machucou o outro lado. Acho tb que vai rolar lar DeepFake do outro lado no sábado."
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      }
+    ],
+    "conversation_id": "1585590435426230272",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585594291417669632",
+    "created_at": "2022-10-27T11:28:32.000Z",
+    "source": "Twitter Web App",
+    "entities": {
+      "annotations": [
+        {
+          "start": 151,
+          "end": 158,
+          "probability": 0.4885,
+          "type": "Organization",
+          "normalized_text": "deepfake"
+        },
+        {
+          "start": 162,
+          "end": 172,
+          "probability": 0.3982,
+          "type": "Organization",
+          "normalized_text": "shallowfake"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585594291417669632"
+    ],
+    "author_id": "1262663709270388739",
+    "lang": "pt",
+    "text": "No máximo eu só achei sites que acham vídeos manipulados (nada 100% de que vai encontrar, mas já é alguma coisa se você for como eu e já foi vítima de deepfake e shallowfake após eles hackearem a TV, rádio, smartphones e outros dipositivos que uso para acessar a internet)"
+  },
+  {
+    "conversation_id": "1585590435426230272",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585592852440023042",
+    "created_at": "2022-10-27T11:22:49.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585592852440023042"
+    ],
+    "author_id": "1262663709270388739",
+    "lang": "pt",
+    "text": "Mas voltando ao que eu estava relatando sobre a procura de imagem reversa é que isso os preocupou, pois eles fazem deepfake e shallowfake de mim e outras vítimas, além de já terem usado minha pessoa física e suspeito que jurídica para aplicar golpes de estelionato em outros"
+  },
+  {
+    "conversation_id": "1585590435426230272",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585590670542180352",
+    "created_at": "2022-10-27T11:14:09.000Z",
+    "source": "Twitter Web App",
+    "entities": {
+      "annotations": [
+        {
+          "start": 79,
+          "end": 86,
+          "probability": 0.5209,
+          "type": "Other",
+          "normalized_text": "deepfake"
+        },
+        {
+          "start": 90,
+          "end": 100,
+          "probability": 0.654,
+          "type": "Other",
+          "normalized_text": "shallowfake"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585590670542180352"
+    ],
+    "author_id": "1262663709270388739",
+    "lang": "pt",
+    "text": "*você pode usar para encontrar pessoas especificas ou se usaram seu rosto para deepfake e shallowfake com a imagem da sua foto"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1488973753274929152",
+          "name": "Political events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "conversation_id": "1585375488800919556",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585576238177030144",
+    "created_at": "2022-10-27T10:16:48.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585576238177030144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "AndreJanonesAdv",
+          "id": "1198004545"
+        }
+      ]
+    },
+    "author_id": "732641402304237569",
+    "lang": "pt",
+    "text": "@AndreJanonesAdv Alguém manda um deepfake nesse vídeo por favor! Hahahhaahah"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "958818632993132544",
+          "name": "Flavio Bolsonaro",
+          "description": "Flavio Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "958818632993132544",
+          "name": "Flavio Bolsonaro",
+          "description": "Flavio Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "958818632993132544",
+          "name": "Flavio Bolsonaro",
+          "description": "Flavio Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1488973753274929152",
+          "name": "Political events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "1585456100329013249",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585572676445560833",
+    "created_at": "2022-10-27T10:02:39.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585572676445560833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "FlavioBolsonaro",
+          "id": "40053694"
+        }
+      ]
+    },
+    "author_id": "308205339",
+    "lang": "pt",
+    "text": "@FlavioBolsonaro Deve ser desesperador usar a máquina pública como nunca, levar a campanha para dentro dos templos, contar com empresários para coagir e injetar grana, envolver militares, pedir ajuda internacional, mentir, usar fakenews, deepfake e, ainda assim, ver Lula na frente. Kkkk"
+  },
+  {
+    "conversation_id": "1585014239340953600",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585571237744431104",
+    "created_at": "2022-10-27T09:56:56.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585571237744431104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "RobaoHISTORIA",
+          "id": "776537256207196160"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "username": "danielb_br",
+          "id": "1278046484848656384"
+        }
+      ]
+    },
+    "author_id": "199440408",
+    "lang": "pt",
+    "text": "@RobaoHISTORIA @danielb_br Já fizeram um deepfake disso."
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "1577588852805361664",
+          "name": "Travessia",
+          "description": "Ari é um arquiteto maranhense que se dedica à defesa de patrimônios históricos. Ele e Brisa, seu amor de infância, têm seus destinos desencontrados quando ele vai investigar uma construtora, e ela é confundida com uma sequestradora de crianças."
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1098601487213576192",
+          "name": "Soap operas",
+          "description": "Soap Operas"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "conversation_id": "1585569728550027264",
+    "entities": {
+      "urls": [
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/UEViSZJCwr",
+          "expanded_url": "https://twitter.com/ZAMENZA/status/1585081416609837057",
+          "display_url": "twitter.com/ZAMENZA/status…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1585569728550027264",
+    "created_at": "2022-10-27T09:50:56.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585569728550027264"
+    ],
+    "author_id": "316777349",
+    "lang": "pt",
+    "text": "Eu vendo a cena do garoto fazendo um deepfake do cara e rindo pra Krl. Nunca assisti a novela mas parece uma comédia digna de novela das 19. https://t.co/UEViSZJCwr"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585569697575084034",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585569697575084034",
+    "created_at": "2022-10-27T09:50:49.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 45,
+          "end": 51,
+          "probability": 0.8859,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "atlassjjk",
+          "id": "1565502557023309831"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585569697575084034"
+    ],
+    "author_id": "1481231268662714369",
+    "lang": "pt",
+    "text": "RT @atlassjjk: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo d…"
+  },
+  {
+    "conversation_id": "1585568326419456001",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585568326419456001",
+    "created_at": "2022-10-27T09:45:22.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585568326419456001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "2953412111",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585552922888347648",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585552922888347648",
+    "created_at": "2022-10-27T08:44:09.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585552922888347648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 17,
+          "end": 32,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "author_id": "1035203776846684160",
+    "lang": "pt",
+    "text": "Petição pública\n\n@brunnosarttori  cara, faz um deepfake do Nanopresidente com cara de criança fazendo mi mi mi, na coletiva de ontem...\n\nNunca te pedi nada \n\nPublique-se e cumpra-se."
+  },
+  {
+    "conversation_id": "1585519277150539777",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585519277150539777",
+    "created_at": "2022-10-27T06:30:27.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585519277150539777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "772495615720914944",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585515873674174468",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1585515873674174468",
+    "created_at": "2022-10-27T06:16:56.000Z",
+    "source": "Twitter Web App",
+    "entities": {
+      "annotations": [
+        {
+          "start": 15,
+          "end": 22,
+          "probability": 0.5485,
+          "type": "Other",
+          "normalized_text": "deepfake"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585515873674174468"
+    ],
+    "author_id": "2656743433",
+    "lang": "pt",
+    "text": "testando fazer deepfake no pc. peguei um video curtinho. vamo ver se rola nessa carroça."
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585512715115798529",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 53,
+          "end": 62,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/wVQeDq81QB",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 20,
+          "end": 25,
+          "probability": 0.4036,
+          "type": "Person",
+          "normalized_text": "Chaves"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "probability": 0.5936,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 91,
+          "end": 99,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585512715115798529",
+    "created_at": "2022-10-27T06:04:23.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585512715115798529"
+    ],
+    "author_id": "1179383201657163777",
+    "lang": "pt",
+    "text": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake https://t.co/wVQeDq81QB via @YouTube"
+  },
+  {
+    "conversation_id": "1585499843304235009",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585499843304235009",
+    "created_at": "2022-10-27T05:13:14.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585499843304235009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1563695881479749639",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585490750241898499",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585490750241898499",
+    "created_at": "2022-10-27T04:37:06.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585490750241898499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "709617555",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585453981438021633",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1585489583525056512",
+    "created_at": "2022-10-27T04:32:28.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+      "annotations": [
+        {
+          "start": 77,
+          "end": 82,
+          "probability": 0.6618,
+          "type": "Person",
+          "normalized_text": "Chaves"
+        },
+        {
+          "start": 94,
+          "end": 102,
+          "probability": 0.4362,
+          "type": "Person",
+          "normalized_text": "Girafales"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "falamuka",
+          "id": "16729159"
+        },
+        {
+          "start": 10,
+          "end": 25,
+          "username": "brayanvalencio",
+          "id": "185018235"
+        },
+        {
+          "start": 26,
+          "end": 35,
+          "username": "falamuka",
+          "id": "16729159"
+        },
+        {
+          "start": 38,
+          "end": 53,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585489583525056512"
+    ],
+    "author_id": "46713681",
+    "lang": "pt",
+    "text": "@falamuka @brayanvalencio @falamuka o @brunnosarttori fez uma deepfake com o Chaves e o prof. Girafales que ficou sensacional!"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1286296657135468545",
+          "name": "TikTok"
+        }
+      }
+    ],
+    "conversation_id": "1585486637806587904",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 37,
+          "end": 44,
+          "tag": "TikTok"
+        }
+      ],
+      "urls": [
+        {
+          "start": 45,
+          "end": 68,
+          "url": "https://t.co/7WswlVRX54",
+          "expanded_url": "https://vm.tiktok.com/ZMFBp1YeJ/",
+          "display_url": "vm.tiktok.com/ZMFBp1YeJ/",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585486638121160711/OS1gjWkd?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585486638121160711/OS1gjWkd?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Mosconi Deepfake on TikTok",
+          "description": "Último capítulo do Rei do Gado #lula #lula2022 #lulapresidente2022 #forabolsonaro",
+          "unwound_url": "https://www.tiktok.com/@mosconi.deepfake/video/7158899110664506629?_t=8WqULI7CbYc&_r=1"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 19,
+          "end": 34,
+          "probability": 0.5927,
+          "type": "Person",
+          "normalized_text": "Mosconi Deepfake"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "probability": 0.9737,
+          "type": "Other",
+          "normalized_text": "TikTok"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585486637806587904",
+    "created_at": "2022-10-27T04:20:46.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585486637806587904"
+    ],
+    "author_id": "1256744162810048512",
+    "lang": "pt",
+    "text": "Confira o vídeo de Mosconi Deepfake! #TikTok https://t.co/7WswlVRX54"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585478627180822529",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 53,
+          "end": 62,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/c2H8Xe2K8w",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 20,
+          "end": 25,
+          "probability": 0.4036,
+          "type": "Person",
+          "normalized_text": "Chaves"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "probability": 0.5936,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 91,
+          "end": 99,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585478627180822529",
+    "created_at": "2022-10-27T03:48:56.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585478627180822529"
+    ],
+    "author_id": "31575747",
+    "lang": "pt",
+    "text": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake https://t.co/c2H8Xe2K8w via @YouTube"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1059658073533378562",
+          "name": "Sérgio Santos",
+          "description": "Sérgio Santos"
+        }
+      },
+      {
+        "domain": {
+          "id": "94",
+          "name": "Journalist",
+          "description": "A journalist like 'Anderson Cooper'"
+        },
+        "entity": {
+          "id": "1059658073533378562",
+          "name": "Sérgio Santos",
+          "description": "Sérgio Santos"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1046545033657081857",
+          "name": "News",
+          "description": "News"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1059658073533378562",
+          "name": "Sérgio Santos",
+          "description": "Sérgio Santos"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1074755369530880001",
+          "name": "Journalists",
+          "description": "Journalism"
+        }
+      }
+    ],
+    "conversation_id": "1585426780210749441",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585471413619769351",
+    "created_at": "2022-10-27T03:20:16.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585471413619769351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "ZAMENZA",
+          "id": "67656004"
+        }
+      ]
+    },
+    "author_id": "57709668",
+    "lang": "pt",
+    "text": "@ZAMENZA Acho q o roteiro foi escrito quando só existia orelhão, a glória achou na gaveta, pra trazer pros dias atuais ela colocou umas coisas de deepfake no meio, mas esqueceu de adaptar o resto do roteiro"
+  },
+  {
+    "conversation_id": "1585467407438602240",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585467407438602240",
+    "created_at": "2022-10-27T03:04:21.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585467407438602240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "308789332",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585460707738386432",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585460707738386432",
+    "created_at": "2022-10-27T02:37:43.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 48,
+          "end": 54,
+          "probability": 0.8773,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "dudadojoonie",
+          "id": "1553929390857326593"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585460707738386432"
+    ],
+    "author_id": "1422738618406293504",
+    "lang": "pt",
+    "text": "RT @dudadojoonie: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tip…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585460545695670272",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 53,
+          "end": 62,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/Ho4peRFyS4",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 20,
+          "end": 25,
+          "probability": 0.4036,
+          "type": "Person",
+          "normalized_text": "Chaves"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "probability": 0.5936,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 91,
+          "end": 99,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585460545695670272",
+    "created_at": "2022-10-27T02:37:05.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585460545695670272"
+    ],
+    "author_id": "36569193",
+    "lang": "pt",
+    "text": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake https://t.co/Ho4peRFyS4 via @YouTube"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352352646569500673",
+          "name": "Alexandre Frota"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352352646569500673",
+          "name": "Alexandre Frota"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1352352646569500673",
+          "name": "Alexandre Frota"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "1585442033442906114",
+    "entities": {
+      "urls": [
+        {
+          "start": 176,
+          "end": 199,
+          "url": "https://t.co/Cr0n3LZvct",
+          "expanded_url": "https://twitter.com/DriMJ2918/status/1585457141242109958/photo/1",
+          "display_url": "pic.twitter.com/Cr0n3LZvct",
+          "media_key": "3_1585457136892510212"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 67,
+          "end": 74,
+          "probability": 0.54,
+          "type": "Other",
+          "normalized_text": "deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "77_frota",
+          "id": "1330082400299339776"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "username": "77_frota",
+          "id": "1330082400299339776"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585457141242109958",
+    "created_at": "2022-10-27T02:23:33.000Z",
+    "source": "Twitter for Android",
+    "geo": {
+      "place_id": "97bcdfca1a2dca59"
+    },
+    "edit_history_tweet_ids": [
+      "1585457141242109958"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1585457136892510212"
+      ]
+    },
+    "author_id": "1127975437525819392",
+    "lang": "pt",
+    "text": "@77_frota @77_frota me enviaram um video falso com vc ... Usaram o deepfake. Como faço pra te enviar? Nao consegui enviar pelo inbox. Esse é o print do video! O video tem 6:44 https://t.co/Cr0n3LZvct"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1415695314825093126",
+          "name": "Michelle Bolsonaro",
+          "description": "First Lady of Brazil"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1415695314825093126",
+          "name": "Michelle Bolsonaro",
+          "description": "First Lady of Brazil"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1415695314825093126",
+          "name": "Michelle Bolsonaro",
+          "description": "First Lady of Brazil"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "1585452524861095939",
+    "entities": {
+      "urls": [
+        {
+          "start": 35,
+          "end": 58,
+          "url": "https://t.co/VVrecJSayD",
+          "expanded_url": "https://twitter.com/cinemagaspar/status/1585025612401758208",
+          "display_url": "twitter.com/cinemagaspar/s…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1585452524861095939",
+    "created_at": "2022-10-27T02:05:12.000Z",
+    "source": "TweetDeck",
+    "edit_history_tweet_ids": [
+      "1585452524861095939"
+    ],
+    "author_id": "1283106236129513473",
+    "lang": "pt",
+    "text": "ela se mexendo que nem um deepfake https://t.co/VVrecJSayD"
+  },
+  {
+    "conversation_id": "1585448977952112643",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585448977952112643",
+    "created_at": "2022-10-27T01:51:07.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 46,
+          "end": 53,
+          "probability": 0.6424,
+          "type": "Organization",
+          "normalized_text": "deepfake"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585448977952112643"
+    ],
+    "author_id": "866516507349614592",
+    "lang": "pt",
+    "text": "Sempre que aparece alguma coisa desse mano do deepfake é algo muito radioativo"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585447699859574790",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585447699859574790",
+    "created_at": "2022-10-27T01:46:02.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 24,
+          "probability": 0.9067,
+          "type": "Other",
+          "normalized_text": "twitter"
+        },
+        {
+          "start": 163,
+          "end": 171,
+          "probability": 0.5135,
+          "type": "Other",
+          "normalized_text": "fanster07"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585447699859574790"
+    ],
+    "author_id": "1582540796028489728",
+    "lang": "pt",
+    "text": "há mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo! \n@/sadismnsfw\n@/gyofakes\n@/fukmej00n\n@/fanster07\n@/motopapifakes @/97CUMS@/Heavydotz\n@/1010reborn\n@/KoVik9795\n@/fresitaswithcum @/bgfakes66"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1286296657135468545",
+          "name": "TikTok"
+        }
+      }
+    ],
+    "conversation_id": "1585445084996272132",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 37,
+          "end": 44,
+          "tag": "TikTok"
+        }
+      ],
+      "urls": [
+        {
+          "start": 45,
+          "end": 68,
+          "url": "https://t.co/pa0Dz28axY",
+          "expanded_url": "https://vm.tiktok.com/ZMFBVLdoP/",
+          "display_url": "vm.tiktok.com/ZMFBVLdoP/",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585445085340131330/Bw8IxSmj?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585445085340131330/Bw8IxSmj?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Mosconi Deepfake on TikTok",
+          "description": "Último capítulo do Rei do Gado #lula #lula2022 #lulapresidente2022 #forabolsonaro",
+          "unwound_url": "https://www.tiktok.com/@mosconi.deepfake/video/7158899110664506629?_t=8WqIG0s35dt&_r=1"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 19,
+          "end": 34,
+          "probability": 0.5927,
+          "type": "Person",
+          "normalized_text": "Mosconi Deepfake"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "probability": 0.9737,
+          "type": "Other",
+          "normalized_text": "TikTok"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585445084996272132",
+    "created_at": "2022-10-27T01:35:39.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585445084996272132"
+    ],
+    "author_id": "1580032185859547145",
+    "lang": "pt",
+    "text": "Confira o vídeo de Mosconi Deepfake! #TikTok https://t.co/pa0Dz28axY"
+  },
+  {
+    "conversation_id": "1585444908248309760",
+    "entities": {
+      "urls": [
+        {
+          "start": 85,
+          "end": 108,
+          "url": "https://t.co/4HxJBDVfPY",
+          "expanded_url": "https://twitter.com/tvglobo/status/1585080754337288193/video/1",
+          "display_url": "pic.twitter.com/4HxJBDVfPY",
+          "media_key": "13_1585080672036655104"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1585444908248309760",
+    "created_at": "2022-10-27T01:34:56.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585444908248309760"
+    ],
+    "attachments": {
+      "media_keys": [
+        "13_1585080672036655104"
+      ]
+    },
+    "author_id": "1544638700851761152",
+    "lang": "pt",
+    "text": "O grande vilão da novela é o deepfake? Glorinha a porta do sanatório é logo ali bem… https://t.co/4HxJBDVfPY"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585443343428902913",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585443343428902913",
+    "created_at": "2022-10-27T01:28:43.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 38,
+          "end": 44,
+          "probability": 0.8535,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "tatynaoseikaka",
+          "id": "1577441107046268928"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585443343428902913"
+    ],
+    "author_id": "1585441240899796994",
+    "lang": "pt",
+    "text": "RT @tatynaoseikaka: há mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conte…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585443318892306435",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585443318892306435",
+    "created_at": "2022-10-27T01:28:37.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 45,
+          "end": 51,
+          "probability": 0.8859,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "atlassjjk",
+          "id": "1565502557023309831"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585443318892306435"
+    ],
+    "author_id": "1585441240899796994",
+    "lang": "pt",
+    "text": "RT @atlassjjk: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo d…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585442735946874881",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 53,
+          "end": 62,
+          "tag": "Deepfake"
+        },
+        {
+          "start": 100,
+          "end": 105,
+          "tag": "onyx"
+        },
+        {
+          "start": 106,
+          "end": 116,
+          "tag": "lorenzoni"
+        },
+        {
+          "start": 117,
+          "end": 124,
+          "tag": "debate"
+        },
+        {
+          "start": 125,
+          "end": 135,
+          "tag": "bolsonaro"
+        }
+      ],
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/TAxIVXGCR6",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 20,
+          "end": 25,
+          "probability": 0.5013,
+          "type": "Person",
+          "normalized_text": "Chaves"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "probability": 0.5583,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        },
+        {
+          "start": 107,
+          "end": 115,
+          "probability": 0.838,
+          "type": "Person",
+          "normalized_text": "lorenzoni"
+        },
+        {
+          "start": 126,
+          "end": 134,
+          "probability": 0.9531,
+          "type": "Person",
+          "normalized_text": "bolsonaro"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 91,
+          "end": 99,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585442735946874881",
+    "created_at": "2022-10-27T01:26:19.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585442735946874881"
+    ],
+    "author_id": "186685793",
+    "lang": "pt",
+    "text": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake https://t.co/TAxIVXGCR6 via @YouTube #onyx #lorenzoni #debate #bolsonaro"
+  },
+  {
+    "conversation_id": "1585359407923494912",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585440550097936387",
+    "created_at": "2022-10-27T01:17:37.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 42,
+          "end": 49,
+          "probability": 0.41,
+          "type": "Organization",
+          "normalized_text": "deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "caaaamzzzzz",
+          "id": "1138982180296757250"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585440550097936387"
+    ],
+    "author_id": "1168641548294283264",
+    "lang": "pt",
+    "text": "@caaaamzzzzz cê viu a propaganda dele com deepfake pra ficar menos feio? kkkkkkkkkkkkkkkkkk"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585437996664623104",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585437996664623104",
+    "created_at": "2022-10-27T01:07:29.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 45,
+          "end": 51,
+          "probability": 0.8859,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "atlassjjk",
+          "id": "1565502557023309831"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585437996664623104"
+    ],
+    "author_id": "1561005236982108160",
+    "lang": "pt",
+    "text": "RT @atlassjjk: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo d…"
+  },
+  {
+    "conversation_id": "1585437302599618562",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 19,
+          "end": 28,
+          "tag": "deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 31,
+          "end": 54,
+          "url": "https://t.co/J8zl2vowyk",
+          "expanded_url": "https://www.theguardian.com/commentisfree/2022/oct/26/a-deepfake-video-of-joe-biden-singing-the-childrens-song-baby-shark-isnt-funny-it-is-deeply-worrying",
+          "display_url": "theguardian.com/commentisfree/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585150004897157120/QHLsNSez?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585150004897157120/QHLsNSez?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "A deepfake video of Joe Biden singing the children’s song Baby Shark isn’t funny – it is deeply worrying | Arwa Mahdawi",
+          "description": "The clip started out as a joke, but that doesn’t stop something gaining its own nefarious life online",
+          "unwound_url": "https://www.theguardian.com/commentisfree/2022/oct/26/a-deepfake-video-of-joe-biden-singing-the-childrens-song-baby-shark-isnt-funny-it-is-deeply-worrying"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585437302599618562",
+    "created_at": "2022-10-27T01:04:43.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585437302599618562"
+    ],
+    "author_id": "46458101",
+    "lang": "pt",
+    "text": "Corporate media is #deepfake 😉 https://t.co/J8zl2vowyk"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "1577588852805361664",
+          "name": "Travessia",
+          "description": "Ari é um arquiteto maranhense que se dedica à defesa de patrimônios históricos. Ele e Brisa, seu amor de infância, têm seus destinos desencontrados quando ele vai investigar uma construtora, e ela é confundida com uma sequestradora de crianças."
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1098601487213576192",
+          "name": "Soap operas",
+          "description": "Soap Operas"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "conversation_id": "1585432792338661376",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 132,
+          "end": 142,
+          "tag": "Travessia"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585432792338661376",
+    "created_at": "2022-10-27T00:46:48.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585432792338661376"
+    ],
+    "author_id": "1259855715608469504",
+    "lang": "pt",
+    "text": "será que o oto vai confrontar o rudá sobre o deepfake que ele fez do moretti ou foi pq ele achou a deepfake que ele fez da brisa??  #Travessia"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "979342009008713728",
+          "name": "Sérgio Moro",
+          "description": "Sérgio Moro"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "979342009008713728",
+          "name": "Sérgio Moro",
+          "description": "Sérgio Moro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "979342009008713728",
+          "name": "Sérgio Moro",
+          "description": "Sérgio Moro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "1585402692071038984",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585428131892301825",
+    "created_at": "2022-10-27T00:28:17.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585428131892301825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "dramaticoefake",
+          "id": "1508220428250230785"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "username": "srkingkong",
+          "id": "37809771"
+        }
+      ]
+    },
+    "author_id": "1441874812444413953",
+    "lang": "pt",
+    "text": "@dramaticoefake @srkingkong monas, vocês se esqueceram da recepção que ele fez pro sergio moro? dele evitar associação de imagem com o pt pq sabe que tá todo costurado no estado? olha, sendo deepfake ou nao, ele rema com a maré. duas caras."
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585425283548585984",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585425283548585984",
+    "created_at": "2022-10-27T00:16:58.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 53,
+          "probability": 0.8831,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Mire_llyyyy",
+          "id": "1561844229449695233"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585425283548585984"
+    ],
+    "author_id": "1449410482234925059",
+    "lang": "pt",
+    "text": "RT @Mire_llyyyy: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585425275726483456",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585425275726483456",
+    "created_at": "2022-10-27T00:16:56.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585425275726483456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "atlassjjk",
+          "id": "1565502557023309831"
+        }
+      ]
+    },
+    "author_id": "1449410482234925059",
+    "lang": "pt",
+    "text": "RT @atlassjjk: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo d…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585425260874457088",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585425260874457088",
+    "created_at": "2022-10-27T00:16:52.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 38,
+          "end": 44,
+          "probability": 0.8535,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "tatynaoseikaka",
+          "id": "1577441107046268928"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585425260874457088"
+    ],
+    "author_id": "1449410482234925059",
+    "lang": "pt",
+    "text": "RT @tatynaoseikaka: há mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conte…"
+  },
+  {
+    "conversation_id": "1585425252934647808",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585425252934647808",
+    "created_at": "2022-10-27T00:16:50.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585425252934647808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "helenadojungoo",
+          "id": "1319088910866276359"
+        }
+      ]
+    },
+    "author_id": "1449410482234925059",
+    "lang": "pt",
+    "text": "RT @helenadojungoo: há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo.\n@/sadis…"
+  },
+  {
+    "conversation_id": "1585425242713133056",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585425242713133056",
+    "created_at": "2022-10-27T00:16:48.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585425242713133056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 9,
+          "username": "iy2jk",
+          "id": "1520214714294411265"
+        }
+      ]
+    },
+    "author_id": "1449410482234925059",
+    "lang": "pt",
+    "text": "RT @iy2jk: há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo.\n@/sadismnsfw\n@/g…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585425233951219712",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585425233951219712",
+    "created_at": "2022-10-27T00:16:46.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585425233951219712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "dudadojoonie",
+          "id": "1553929390857326593"
+        }
+      ]
+    },
+    "author_id": "1449410482234925059",
+    "lang": "pt",
+    "text": "RT @dudadojoonie: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tip…"
+  },
+  {
+    "conversation_id": "1585425219216359429",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585425219216359429",
+    "created_at": "2022-10-27T00:16:42.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585425219216359429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "Wtfchaeqr",
+          "id": "1519023326437511170"
+        }
+      ]
+    },
+    "author_id": "1449410482234925059",
+    "lang": "pt",
+    "text": "RT @Wtfchaeqr: há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo. @/sadismnsfw…"
+  },
+  {
+    "conversation_id": "1585423004997230593",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585423004997230593",
+    "created_at": "2022-10-27T00:07:54.000Z",
+    "source": "Twitter Web App",
+    "entities": {
+      "annotations": [
+        {
+          "start": 5,
+          "end": 13,
+          "probability": 0.4353,
+          "type": "Other",
+          "normalized_text": "anonymous"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585423004997230593"
+    ],
+    "author_id": "19614933",
+    "lang": "pt",
+    "text": "aí o anonymous perdeu a paciência, meteu um beijo deepfake da verinha com o ônix e não se falou mais em eleição por anos"
+  },
+  {
+    "conversation_id": "1585422329743540224",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585422329743540224",
+    "created_at": "2022-10-27T00:05:13.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585422329743540224"
+    ],
+    "author_id": "1519023326437511170",
+    "lang": "pt",
+    "text": "há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo. @/sadismnsfw @/gyofakes @/fukmej00n @/fanster07 @/motopapifakes @/97CUMS @/Heavydotz @/1010reborn @/KoVik9795 @/fresitaswithcum @/bgfakes66 @/JEONMAZE @/knmjfxcker"
+  },
+  {
+    "conversation_id": "1585420348392366081",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585420348392366081",
+    "created_at": "2022-10-26T23:57:21.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+      "annotations": [
+        {
+          "start": 43,
+          "end": 46,
+          "probability": 0.749,
+          "type": "Person",
+          "normalized_text": "Bozo"
+        },
+        {
+          "start": 66,
+          "end": 70,
+          "probability": 0.56,
+          "type": "Other",
+          "normalized_text": "close"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "juycer",
+          "id": "26561917"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585420348392366081"
+    ],
+    "author_id": "31431619",
+    "lang": "pt",
+    "text": "RT @juycer: Toda vez que vejo os vídeos do Bozo falando, assim em close, no estúdio, eu posso JURAR que é deepfake."
+  },
+  {
+    "conversation_id": "1585415916548165632",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1585415916548165632",
+    "created_at": "2022-10-26T23:39:44.000Z",
+    "source": "Twitter for iPhone",
+    "geo": {
+      "place_id": "1cfa1623a8eb155e"
+    },
+    "edit_history_tweet_ids": [
+      "1585415916548165632"
+    ],
+    "author_id": "26561917",
+    "lang": "pt",
+    "text": "Toda vez que vejo os vídeos do Bozo falando, assim em close, no estúdio, eu posso JURAR que é deepfake."
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585413015448727552",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585413015448727552",
+    "created_at": "2022-10-26T23:28:13.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585413015448727552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "tatynaoseikaka",
+          "id": "1577441107046268928"
+        }
+      ]
+    },
+    "author_id": "1536456230507622402",
+    "lang": "pt",
+    "text": "RT @tatynaoseikaka: há mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conte…"
+  },
+  {
+    "conversation_id": "1585412583745781760",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585412583745781760",
+    "created_at": "2022-10-26T23:26:30.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585412583745781760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 9,
+          "username": "iy2jk",
+          "id": "1520214714294411265"
+        }
+      ]
+    },
+    "author_id": "1574877128696406027",
+    "lang": "pt",
+    "text": "RT @iy2jk: há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo.\n@/sadismnsfw\n@/g…"
+  },
+  {
+    "conversation_id": "1585295052959453184",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585411129148596224",
+    "created_at": "2022-10-26T23:20:43.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+      "annotations": [
+        {
+          "start": 21,
+          "end": 27,
+          "probability": 0.9704,
+          "type": "Other",
+          "normalized_text": "tik tok"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "probability": 0.4829,
+          "type": "Other",
+          "normalized_text": "deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "_woona",
+          "id": "921866440415895553"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585411129148596224"
+    ],
+    "author_id": "1027646410454384641",
+    "lang": "pt",
+    "text": "@_woona Tu não viu o tik tok que fizeram usando deepfake?"
+  },
+  {
+    "conversation_id": "1585409089374490624",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585409089374490624",
+    "created_at": "2022-10-26T23:12:37.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585409089374490624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "helenadojungoo",
+          "id": "1319088910866276359"
+        }
+      ]
+    },
+    "author_id": "1574877128696406027",
+    "lang": "pt",
+    "text": "RT @helenadojungoo: há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo.\n@/sadis…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585406897657634819",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585406897657634819",
+    "created_at": "2022-10-26T23:03:54.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 53,
+          "probability": 0.8831,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Mire_llyyyy",
+          "id": "1561844229449695233"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585406897657634819"
+    ],
+    "author_id": "1574877128696406027",
+    "lang": "pt",
+    "text": "RT @Mire_llyyyy: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo…"
+  },
+  {
+    "conversation_id": "1585405370545377282",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585405370545377282",
+    "created_at": "2022-10-26T22:57:50.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585405370545377282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "378217486",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "123",
+          "name": "Ongoing News Story",
+          "description": "Ongoing News Stories like 'Brexit'"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1585404586877222915",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 0
+    },
+    "id": "1585405326995734528",
+    "created_at": "2022-10-26T22:57:40.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+      "annotations": [
+        {
+          "start": 122,
+          "end": 126,
+          "probability": 0.9484,
+          "type": "Other",
+          "normalized_text": "COVID"
+        },
+        {
+          "start": 131,
+          "end": 138,
+          "probability": 0.7888,
+          "type": "Other",
+          "normalized_text": "pandemia"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Mr_Sloane_com_E",
+          "id": "596708664"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585405326995734528"
+    ],
+    "author_id": "84564257",
+    "lang": "pt",
+    "text": "@Mr_Sloane_com_E Este maluco me bloqueou por eu reclamei daquela ideia escrota dele de fazer deepfake de gente morta pelo COVID na pandemia. Hauauauaah"
+  },
+  {
+    "conversation_id": "1585404910316982275",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1585404910316982275",
+    "created_at": "2022-10-26T22:56:00.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585404910316982275"
+    ],
+    "author_id": "1319088910866276359",
+    "lang": "pt",
+    "text": "há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo.\n@/sadismnsfw\n@/gyofakes\n@/fukmej00n\n@/fanster07\n@/motopapifakes\n@/97CUMS\n@/Heavydotz\n@/1010reborn\n@/KoVik9795\n@/fresitaswithcum\n@/bgfakes66\n@/JEONMAZE\n@/knmjfxcker"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585404148635287552",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585404148635287552",
+    "created_at": "2022-10-26T22:52:59.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 53,
+          "probability": 0.8831,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Mire_llyyyy",
+          "id": "1561844229449695233"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585404148635287552"
+    ],
+    "author_id": "1550215867748827140",
+    "lang": "pt",
+    "text": "RT @Mire_llyyyy: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585404136056844288",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585404136056844288",
+    "created_at": "2022-10-26T22:52:56.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 53,
+          "probability": 0.8831,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Mire_llyyyy",
+          "id": "1561844229449695233"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585404136056844288"
+    ],
+    "author_id": "1550215867748827140",
+    "lang": "pt",
+    "text": "RT @Mire_llyyyy: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585404114007384066",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585404114007384066",
+    "created_at": "2022-10-26T22:52:50.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585404114007384066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Mire_llyyyy",
+          "id": "1561844229449695233"
+        }
+      ]
+    },
+    "author_id": "1550215867748827140",
+    "lang": "pt",
+    "text": "RT @Mire_llyyyy: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585404106906439682",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585404106906439682",
+    "created_at": "2022-10-26T22:52:49.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 53,
+          "probability": 0.8831,
+          "type": "Other",
+          "normalized_text": "twitter"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Mire_llyyyy",
+          "id": "1561844229449695233"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585404106906439682"
+    ],
+    "author_id": "1550215867748827140",
+    "lang": "pt",
+    "text": "RT @Mire_llyyyy: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo…"
+  },
+  {
+    "conversation_id": "1585262051374530563",
+    "entities": {
+      "urls": [
+        {
+          "start": 42,
+          "end": 65,
+          "url": "https://t.co/BYdt3dk8Bw",
+          "expanded_url": "https://vm.tiktok.com/ZMFBxJ2pU/",
+          "display_url": "vm.tiktok.com/ZMFBxJ2pU/",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585402446540668929/jXd02FxP?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585402446540668929/jXd02FxP?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Mosconi Deepfake on TikTok",
+          "description": "Último capítulo do Rei do Gado #lula #lula2022 #lulapresidente2022 #forabolsonaro",
+          "unwound_url": "https://www.tiktok.com/@mosconi.deepfake/video/7158899110664506629?_t=8Wq5lXugwmk&_r=1"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585403443111677952",
+    "created_at": "2022-10-26T22:50:10.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585403443111677952"
+    ],
+    "author_id": "51513479",
+    "lang": "pt",
+    "text": "@UOLNoticias Concordo plenamente e... 🤣🤣🤣\nhttps://t.co/BYdt3dk8Bw"
+  },
+  {
+    "conversation_id": "1585402150045220878",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585402150045220878",
+    "created_at": "2022-10-26T22:45:02.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585402150045220878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1504619646112178178",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "733774540707221504",
+          "name": "Bruno Fernandes"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "958816087771987968",
+          "name": "Marcio França",
+          "description": "Marcio França"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1512049419230724106",
+          "name": "Tarcísio Gomes de Freitas"
+        }
+      },
+      {
+        "domain": {
+          "id": "12",
+          "name": "Sports Team",
+          "description": "A sports team organization, like Arsenal and the Boston Celtics"
+        },
+        "entity": {
+          "id": "731226260752367618",
+          "name": "CR Flamengo RJ"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1509866263039778826",
+          "name": "Brazil - São Paulo Elections 2022",
+          "description": "Brazil Presidential Elections 2022 by State (conversation about governors and senators race)"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "958816087771987968",
+          "name": "Marcio França",
+          "description": "Marcio França"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1512049419230724106",
+          "name": "Tarcísio Gomes de Freitas"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1509866263039778826",
+          "name": "Brazil - São Paulo Elections 2022",
+          "description": "Brazil Presidential Elections 2022 by State (conversation about governors and senators race)"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "60",
+          "name": "Athlete",
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+        },
+        "entity": {
+          "id": "733774540707221504",
+          "name": "Bruno Fernandes"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "731226260752367618",
+          "name": "CR Flamengo RJ"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "733774540707221504",
+          "name": "Bruno Fernandes"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "958816087771987968",
+          "name": "Marcio França",
+          "description": "Marcio França"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1512049419230724106",
+          "name": "Tarcísio Gomes de Freitas"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "818904245722222592",
+          "name": "João Dória",
+          "description": "João Dória"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "818904245722222592",
+          "name": "João Dória",
+          "description": "João Dória"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "818904245722222592",
+          "name": "João Dória",
+          "description": "João Dória"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "1585401360723345409",
+    "entities": {
+      "urls": [
+        {
+          "start": 138,
+          "end": 161,
+          "url": "https://t.co/O0TlTvgIWM",
+          "expanded_url": "https://twitter.com/marciofrancasp/status/1585110139102982148",
+          "display_url": "twitter.com/marciofrancasp…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 39,
+          "end": 51,
+          "probability": 0.9464,
+          "type": "Person",
+          "normalized_text": "Márcio França"
+        },
+        {
+          "start": 78,
+          "end": 82,
+          "probability": 0.9698,
+          "type": "Person",
+          "normalized_text": "Dória"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585401360723345409",
+    "created_at": "2022-10-26T22:41:54.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585401360723345409"
+    ],
+    "author_id": "125437723",
+    "lang": "pt",
+    "text": "Depois dessa baixaria eu lembrei que o Márcio França estava concorrendo com o Dória no segundo turno de 2018 quando rolou aquele deepfake https://t.co/O0TlTvgIWM"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585395834350637056",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 53,
+          "end": 62,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 64,
+          "end": 87,
+          "url": "https://t.co/lT69FjI0MX",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585395834350637056",
+    "created_at": "2022-10-26T22:19:56.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585395834350637056"
+    ],
+    "author_id": "1042113782015840257",
+    "lang": "pt",
+    "text": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake \nhttps://t.co/lT69FjI0MX"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585391853142433793",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1585391853142433793",
+    "created_at": "2022-10-26T22:04:07.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585391853142433793"
+    ],
+    "author_id": "1561844229449695233",
+    "lang": "pt",
+    "text": "⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo! \n\n@/JkuMinmeu3\n@/jungkookishot\n@/jeonvdick"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585391715736645632",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1585391715736645632",
+    "created_at": "2022-10-26T22:03:34.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 30,
+          "end": 36,
+          "probability": 0.885,
+          "type": "Other",
+          "normalized_text": "twitter"
+        },
+        {
+          "start": 187,
+          "end": 196,
+          "probability": 0.583,
+          "type": "Other",
+          "normalized_text": "jinfakes25"
+        },
+        {
+          "start": 200,
+          "end": 211,
+          "probability": 0.5137,
+          "type": "Other",
+          "normalized_text": "diablienkook"
+        },
+        {
+          "start": 215,
+          "end": 225,
+          "probability": 0.5789,
+          "type": "Other",
+          "normalized_text": "PinkFakes00"
+        },
+        {
+          "start": 229,
+          "end": 242,
+          "probability": 0.7228,
+          "type": "Other",
+          "normalized_text": "Th_Bunny_Minie"
+        },
+        {
+          "start": 246,
+          "end": 254,
+          "probability": 0.6361,
+          "type": "Other",
+          "normalized_text": "DickSopee"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585391715736645632"
+    ],
+    "author_id": "1561844229449695233",
+    "lang": "pt",
+    "text": "⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo! \n\n@/1010reborn\n@/1010bitch4545\n@/1997Bunnykookie\n@/jinfakes25\n@/diablienkook\n@/PinkFakes00\n@/Th_Bunny_Minie\n@/DickSopee\n@/BTXFAKES7\n@/btsnothers"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1286296657135468545",
+          "name": "TikTok"
+        }
+      }
+    ],
+    "conversation_id": "1585391552444391424",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 37,
+          "end": 44,
+          "tag": "TikTok"
+        }
+      ],
+      "urls": [
+        {
+          "start": 45,
+          "end": 68,
+          "url": "https://t.co/EnVWrS4bG0",
+          "expanded_url": "https://vm.tiktok.com/ZMFB9d27C/",
+          "display_url": "vm.tiktok.com/ZMFB9d27C/",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585391553899823105/CaDnECo8?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585391553899823105/CaDnECo8?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Mosconi Deepfake on TikTok",
+          "description": "Último capítulo do Rei do Gado #lula #lula2022 #lulapresidente2022 #forabolsonaro",
+          "unwound_url": "https://www.tiktok.com/@mosconi.deepfake/video/7158899110664506629?_t=8Wq2ggNMZUs&_r=1"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585391552444391424",
+    "created_at": "2022-10-26T22:02:55.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585391552444391424"
+    ],
+    "author_id": "1582059584642056192",
+    "lang": "pt",
+    "text": "Confira o vídeo de Mosconi Deepfake! #TikTok https://t.co/EnVWrS4bG0"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585391462320963585",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "id": "1585391462320963585",
+    "created_at": "2022-10-26T22:02:34.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585391462320963585"
+    ],
+    "author_id": "1561844229449695233",
+    "lang": "pt",
+    "text": "⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo! \n@/JEONMAZE\n@/knmjfxcker\n@/DylanFake_idols\n@/JxFantasy\n@/BTSJohnson1\n@/luvrondvd\n@/nira_coleen\n@/TJKPORN\n@/gabfuks\n@/_BTXFAKES_\n@/DarknessFks"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585391075128389633",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1585391075128389633",
+    "created_at": "2022-10-26T22:01:02.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585391075128389633"
+    ],
+    "author_id": "1561844229449695233",
+    "lang": "pt",
+    "text": "⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo! \n\n@/sadismnsfw\n@/gyofakes\n@/fukmej00n\n@/fanster07\n@/motopapifakes\n@/97CUMS\n@/Heavydotz\n@/1010reborn\n@/KoVik9795\n@/fresitaswithcum\n@/bgfakes66"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585389807429386241",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 53,
+          "end": 62,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/J2PuzSaTDo",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 91,
+          "end": 99,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585389807429386241",
+    "created_at": "2022-10-26T21:55:59.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585389807429386241"
+    ],
+    "author_id": "1529785558800769024",
+    "lang": "pt",
+    "text": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake https://t.co/J2PuzSaTDo via @YouTube"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585389495054057473",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 53,
+          "end": 62,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 63,
+          "end": 86,
+          "url": "https://t.co/WVO6YP2smS",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 91,
+          "end": 99,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585389495054057473",
+    "created_at": "2022-10-26T21:54:45.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585389495054057473"
+    ],
+    "author_id": "1569805299422482433",
+    "lang": "pt",
+    "text": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake https://t.co/WVO6YP2smS via @YouTube PERRFEITO!!🤣🤣🤣🤣"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585386303008702464",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585386303008702464",
+    "created_at": "2022-10-26T21:42:04.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585386303008702464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "atlassjjk",
+          "id": "1565502557023309831"
+        }
+      ]
+    },
+    "author_id": "1241587911046369282",
+    "lang": "pt",
+    "text": "RT @atlassjjk: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo d…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585385425715482625",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 58,
+          "end": 67,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 68,
+          "end": 91,
+          "url": "https://t.co/1aRP5zJLKq",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 25,
+          "end": 30,
+          "probability": 0.406,
+          "type": "Person",
+          "normalized_text": "Chaves"
+        },
+        {
+          "start": 59,
+          "end": 66,
+          "probability": 0.5775,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 96,
+          "end": 104,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585385425715482625",
+    "created_at": "2022-10-26T21:38:35.000Z",
+    "source": "Twitter for iPhone",
+    "geo": {
+      "place_id": "5722ff20ba67083b"
+    },
+    "edit_history_tweet_ids": [
+      "1585385425715482625"
+    ],
+    "author_id": "40312267",
+    "lang": "pt",
+    "text": "😂😂😂\n\nEpisódio perdido de Chaves - Baseado em áudios reais #Deepfake https://t.co/1aRP5zJLKq via @YouTube"
+  },
+  {
+    "conversation_id": "1585383859339681793",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585383859339681793",
+    "created_at": "2022-10-26T21:32:21.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+      "annotations": [
+        {
+          "start": 133,
+          "end": 142,
+          "probability": 0.5063,
+          "type": "Other",
+          "normalized_text": "sadismnsfw"
+        },
+        {
+          "start": 169,
+          "end": 177,
+          "probability": 0.4517,
+          "type": "Other",
+          "normalized_text": "fanster07"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585383859339681793"
+    ],
+    "author_id": "1241587911046369282",
+    "lang": "pt",
+    "text": "⚠️ ATENÇÃO\n\nhá mtas contas aqui fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo!\n\n@/sadismnsfw\n@/gyofakes\n@/fukmej00n\n@/fanster07\n@/motopapifakes\n@/97CUMS\n@/Heavydotz\n@/1010reborn\n@/KoVik9795\n@/fresitaswithcum\n@/bgfakes66"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585380368949006336",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "id": "1585380368949006336",
+    "created_at": "2022-10-26T21:18:29.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585380368949006336"
+    ],
+    "author_id": "1577441107046268928",
+    "lang": "pt",
+    "text": "há mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo! \n\n@/sadismnsfw\n@/gyofakes\n@/fukmej00n\n@/fanster07\n@/motopapifakes\n@/97CUMS\n@/Heavydotz\n@/1010reborn\n@/KoVik9795\n@/fresitaswithcum\n@/bgfakes66\n@/JEONMAZE"
+  },
+  {
+    "conversation_id": "1585380021178634240",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 26,
+          "end": 35,
+          "tag": "Deepfake"
+        }
+      ],
+      "urls": [
+        {
+          "start": 36,
+          "end": 59,
+          "url": "https://t.co/8R87DFN1QD",
+          "expanded_url": "https://youtu.be/xo3kGis3eUE",
+          "display_url": "youtu.be/xo3kGis3eUE",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1585379047353503744/AR_bApjh?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Episódio perdido de Chaves - Baseado em áudios reais #Deepfake",
+          "description": "https://t.me/brunnosarttoriSe inscreva no canal do Telegram: https://t.me/brunnosarttoriIncentive a criação de mais vídeos e financeiramente o canal: apoia.s...",
+          "unwound_url": "https://www.youtube.com/watch?v=xo3kGis3eUE&feature=youtu.be"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 64,
+          "end": 72,
+          "username": "YouTube",
+          "id": "10228272"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585380021178634240",
+    "created_at": "2022-10-26T21:17:06.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585380021178634240"
+    ],
+    "author_id": "247530823",
+    "lang": "pt",
+    "text": "Qualquer semelhança, ...\n #Deepfake https://t.co/8R87DFN1QD via @YouTube"
+  },
+  {
+    "conversation_id": "1585379228245454848",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585379228245454848",
+    "created_at": "2022-10-26T21:13:57.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585379228245454848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "293798912",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585377185980088323",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1585377185980088323",
+    "created_at": "2022-10-26T21:05:50.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585377185980088323"
+    ],
+    "author_id": "1520214714294411265",
+    "lang": "pt",
+    "text": "há mtas contas fazendo montagens +18, deepfake dos meninos, denunciem pfv e nao consumam esse tipo de conteúdo.\n@/sadismnsfw\n@/gyofakes\n@/fukmej00n\n@/fanster07\n@/motopapifakes\n@/97CUMS\n@/Heavydotz\n@/1010reborn\n@/KoVik9795\n@/fresitaswithcum\n@/bgfakes66\n@/JEONMAZE\n@/knmjfxcker"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585376152046424064",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585376152046424064",
+    "created_at": "2022-10-26T21:01:44.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585376152046424064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "atlassjjk",
+          "id": "1565502557023309831"
+        }
+      ]
+    },
+    "author_id": "1565502557023309831",
+    "lang": "pt",
+    "text": "RT @atlassjjk: ⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo d…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1585375706006945794",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 2,
+      "like_count": 4,
+      "quote_count": 0
+    },
+    "id": "1585375706006945794",
+    "created_at": "2022-10-26T20:59:57.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585375706006945794"
+    ],
+    "author_id": "1565502557023309831",
+    "lang": "pt",
+    "text": "⚠️ ATENÇÃO\n\nhá mtas contas no twitter fazendo montagens +18, deepfake dos meninos, denunciem pfvr e não consumam esse tipo de conteúdo! \n\n@/sadismnsfw\n@/gyofakes\n@/fukmej00n\n@/fanster07\n@/motopapifakes\n@/97CUMS\n@/Heavydotz\n@/1010reborn\n@/KoVik9795\n@/fresitaswithcum\n@/bgfakes66"
+  },
+  {
+    "conversation_id": "1585375505787736065",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585375505787736065",
+    "created_at": "2022-10-26T20:59:10.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585375505787736065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1581098089913503744",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10029035023",
+          "name": "Chaves",
+          "description": "Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71."
+        }
+      }
+    ],
+    "conversation_id": "1585372981643345921",
+    "entities": {
+      "urls": [
+        {
+          "start": 61,
+          "end": 84,
+          "url": "https://t.co/xm8eOz9ui1",
+          "expanded_url": "https://twitter.com/brunnosarttori/status/1585353886931775489",
+          "display_url": "twitter.com/brunnosarttori…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585372981643345921",
+    "created_at": "2022-10-26T20:49:08.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585372981643345921"
+    ],
+    "author_id": "35324010",
+    "lang": "pt",
+    "text": "Não sou adepto do deepfake, mas ficou bem legal esta paródia https://t.co/xm8eOz9ui1"
+  },
+  {
+    "conversation_id": "1585353886931775489",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1585368782096068608",
+    "created_at": "2022-10-26T20:32:27.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585368782096068608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "author_id": "907059774268866560",
+    "lang": "pt",
+    "text": "@brunnosarttori Essa foi a melhor deepfake da sua vida!"
+  },
+  {
+    "conversation_id": "1585367945513168896",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585367945513168896",
+    "created_at": "2022-10-26T20:29:07.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585367945513168896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InfosRomuloE",
+          "id": "963191048716587009"
+        }
+      ]
+    },
+    "author_id": "1183843491559985158",
+    "lang": "pt",
+    "text": "RT @InfosRomuloE: E vamos combinar, há várias formas pelas quais uma pessoa pode ser confundida com outra, não só por uma deepfake. Não tem…"
+  },
+  {
+    "conversation_id": "1585367841968394241",
+    "public_metrics": {
+      "retweet_count": 13,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585367841968394241",
+    "created_at": "2022-10-26T20:28:42.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585367841968394241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InfosRomuloE",
+          "id": "963191048716587009"
+        }
+      ]
+    },
+    "author_id": "1183843491559985158",
+    "lang": "pt",
+    "text": "RT @InfosRomuloE: Obs: Não tem como Oto já saber sobre a deepfake da Brisa se ele não viu a montagem ainda. Ele só viu o noticiário do jorn…"
+  },
+  {
+    "conversation_id": "1585367011806568448",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585367011806568448",
+    "created_at": "2022-10-26T20:25:24.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585367011806568448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "795177306",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585365798281179138",
+    "entities": {
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/19TbW6BIWU",
+          "expanded_url": "https://kwai-video.com/p/HT652hCd",
+          "display_url": "kwai-video.com/p/HT652hCd",
+          "status": 200,
+          "title": "Recomendo este vídeo para você!",
+          "description": "Esse vídeo é super legal!",
+          "unwound_url": "https://m.kwai.com/photo/150001323279714/5237273521275535477?userId=150001323279714&photoId=5237273521275535477&cc=TWITTER&timestamp=1666811471611&language=pt-br&share_device_id=ANDROID_1c2ec0265e903a33&share_uid=150000169102277&share_id=ANDROID_1c2ec0265e903a33_1666811465926&sharePage=photo&share_item_type=photo&share_item_info=5237273521275535477&et=1_a%2F4755698262646742732_s0&fid=150000169102277&shareEnter=1&kpn=KWAI&translateKey=randomdefault_share_text_081003&shareBucket=br&shareBiz=photo&short_key=HT652hCd"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585365798281179138",
+    "created_at": "2022-10-26T20:20:35.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585365798281179138"
+    ],
+    "author_id": "1581726496259031040",
+    "lang": "pt",
+    "text": "efeitos especiais futurismo como seria o protótipo de mundo deepfake learn \nhttps://t.co/19TbW6BIWU"
+  },
+  {
+    "conversation_id": "1585363578818727936",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585363578818727936",
+    "created_at": "2022-10-26T20:11:46.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585363578818727936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1365492850578894848",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585359677382340610",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585359677382340610",
+    "created_at": "2022-10-26T19:56:16.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585359677382340610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "68720630",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070710936732725250",
+          "name": "Mônica Bergamo",
+          "description": "Brazilian journalist"
+        }
+      },
+      {
+        "domain": {
+          "id": "94",
+          "name": "Journalist",
+          "description": "A journalist like 'Anderson Cooper'"
+        },
+        "entity": {
+          "id": "1070710936732725250",
+          "name": "Mônica Bergamo",
+          "description": "Brazilian journalist"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1046545033657081857",
+          "name": "News",
+          "description": "News"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070710936732725250",
+          "name": "Mônica Bergamo",
+          "description": "Brazilian journalist"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1074755369530880001",
+          "name": "Journalists",
+          "description": "Journalism"
+        }
+      }
+    ],
+    "conversation_id": "1585309929438466048",
+    "entities": {
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/zpSWxoj5y0",
+          "expanded_url": "https://twitter.com/tms99727917/status/1585355931428474880/photo/1",
+          "display_url": "pic.twitter.com/zpSWxoj5y0",
+          "media_key": "3_1585355753560342532"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 26,
+          "end": 33,
+          "probability": 0.5254,
+          "type": "Organization",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "monicabergamo",
+          "id": "58951368"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585355931428474880",
+    "created_at": "2022-10-26T19:41:23.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585355931428474880"
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1585355753560342532"
+      ]
+    },
+    "author_id": "1546618316529311750",
+    "lang": "pt",
+    "text": "@monicabergamo Montagem ? Deepfake ? Mensalão ? Lenda ? Surto coletivo ? https://t.co/zpSWxoj5y0"
+  },
+  {
+    "conversation_id": "1585353604361498625",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585353604361498625",
+    "created_at": "2022-10-26T19:32:08.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585353604361498625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AlexandreGossn",
+          "id": "1294498758093406209"
+        }
+      ]
+    },
+    "author_id": "1384659549328642050",
+    "lang": "pt",
+    "text": "RT @AlexandreGossn: Poucas pessoas estão tão gabaritadas para tratar de desinformação quanto minha amiga Vivian Retz. \n\nCoordenando a comun…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "1585351021995634688",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585351021995634688",
+    "created_at": "2022-10-26T19:21:52.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585351021995634688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "RickBuzz",
+          "id": "119902188"
+        }
+      ]
+    },
+    "author_id": "387175246",
+    "lang": "pt",
+    "text": "RT @RickBuzz: Possivelmente será hoje que o Janones e a cara das Deepfake vão lançar o áudio que eles estavam tramando... Text to Speech (T…"
+  },
+  {
+    "conversation_id": "1585347170013974528",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585347170013974528",
+    "created_at": "2022-10-26T19:06:34.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585347170013974528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1063836903634595840",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585344698558054401",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585345263803461632",
+    "created_at": "2022-10-26T18:58:59.000Z",
+    "source": "Twitter Web App",
+    "edit_history_tweet_ids": [
+      "1585345263803461632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 5,
+          "username": "VEJA",
+          "id": "17715048"
+        }
+      ]
+    },
+    "author_id": "1479549380831191046",
+    "lang": "pt",
+    "text": "@VEJA Blz mas ela admitiu que era censura mas que era só dessa vez, só até dia 30 ou não? Ou aquilo foi deepfake?"
+  },
+  {
+    "conversation_id": "1585343010963066883",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585343010963066883",
+    "created_at": "2022-10-26T18:50:02.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585343010963066883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1356562004371271682",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585338473409826818",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585338473409826818",
+    "created_at": "2022-10-26T18:32:00.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585338473409826818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1477849726217297921",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "1585336805519659008",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 19,
+      "quote_count": 0
+    },
+    "id": "1585336805519659008",
+    "created_at": "2022-10-26T18:25:23.000Z",
+    "source": "Twitter Web App",
+    "entities": {
+      "annotations": [
+        {
+          "start": 30,
+          "end": 36,
+          "probability": 0.6441,
+          "type": "Person",
+          "normalized_text": "Janones"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "probability": 0.7065,
+          "type": "Organization",
+          "normalized_text": "Deepfake"
+        },
+        {
+          "start": 108,
+          "end": 111,
+          "probability": 0.5294,
+          "type": "Other",
+          "normalized_text": "Text"
+        },
+        {
+          "start": 116,
+          "end": 121,
+          "probability": 0.5041,
+          "type": "Other",
+          "normalized_text": "Speech"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1585336805519659008"
+    ],
+    "author_id": "119902188",
+    "lang": "pt",
+    "text": "Possivelmente será hoje que o Janones e a cara das Deepfake vão lançar o áudio que eles estavam tramando... Text to Speech (TTS)"
+  },
+  {
+    "conversation_id": "1585336182963339264",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585336182963339264",
+    "created_at": "2022-10-26T18:22:54.000Z",
+    "source": "Twitter for iPhone",
+    "edit_history_tweet_ids": [
+      "1585336182963339264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1029503658",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "conversation_id": "1585329982007492608",
+    "public_metrics": {
+      "retweet_count": 191,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585329982007492608",
+    "created_at": "2022-10-26T17:58:16.000Z",
+    "source": "Twitter for Android",
+    "edit_history_tweet_ids": [
+      "1585329982007492608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    },
+    "author_id": "1054022733883944962",
+    "lang": "pt",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…"
+  },
+  {
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      }
+    ],
+    "conversation_id": "1585326151303675914",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 105,
+          "end": 120,
+          "tag": "portalDeviante"
+        }
+      ],
+      "urls": [
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/l4D2QizQUs",
+          "expanded_url": "https://podcastaddict.com/episode/147332105",
+          "display_url": "podcastaddict.com/episode/147332…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1584871459125694464/4ick0utp?format=jpg&name=orig",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1584871459125694464/4ick0utp?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Giro de Tecnologia: Deepfakes; ‘drones suicidas’, e robôs assassinos – 17 Lunan (Spin#1810 – 25/10/2022) • Arquivos Spin de Notícias - Deviante - via Podcast Addict",
+          "description": "Sejam bem-vindos ao milésimo octogentésimo décimo Spin de Notícias, o seu giro diário de informações científicas… em escala sub-atômica. E nesse Spin de Notícias falaremos sobre…Tecnologia! *Este episódio, assim como tantos outros projetos vindouros, só foi possível por conta do Patronato do SciCast. Se você quiser mais episódios assim, contribua conosco!* Sobre o calendário Dekatrian: * Informações * Calendário 2017 * SciCast #106: Tempo Patronato do SciCast: * Patreon * Padrim * PicPay Contatos: * contato@scicast.com.br * Twitter * Facebook * Instagram Expediente: Produção Geral: Tarik Fernandes, Juliana Cabral e Fernando Malta Episódio: Tiago Protti Edição: Felipe Reis Referências e Indicações Deepfakes, o novo estágio tecnológico da desinformação O que são os ‘drones suicidas’ utilizados pela Rússia na guerra contra a Ucrânia? Ela saiu do Google para acabar com robôs assassinos – sim, eles já existem.",
+          "unwound_url": "https://podcastaddict.com/episode/147332105"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 17,
+          "probability": 0.549,
+          "type": "Other",
+          "normalized_text": "Giro de Tecnologia"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "probability": 0.3898,
+          "type": "Organization",
+          "normalized_text": "Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 150,
+          "end": 164,
+          "username": "PodcastAddict",
+          "id": "415837965"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1585326151303675914",
+    "created_at": "2022-10-26T17:43:03.000Z",
+    "source": "Podcast - Radio Addict",
+    "edit_history_tweet_ids": [
+      "1585326151303675914"
+    ],
+    "author_id": "1373522546",
+    "lang": "pt",
+    "text": "Giro de Tecnologia: Deepfakes; ‘drones suicidas’, e robôs assassinos – 17 Lunan (Spin#1810 – 25/10/2022) #portalDeviante \nhttps://t.co/l4D2QizQUs via @PodcastAddict"
+  }
+]

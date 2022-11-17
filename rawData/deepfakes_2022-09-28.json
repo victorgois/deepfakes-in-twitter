@@ -1,0 +1,5188 @@
+[
+  {
+    "conversation_id": "1575112132672491520",
+    "id": "1575112132672491520",
+    "created_at": "2022-09-28T13:16:11.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 52,
+          "end": 75,
+          "url": "https://t.co/OpXHdxDJoK",
+          "expanded_url": "https://twitter.com/DeepestFaker/status/1561407194096181255/video/1",
+          "display_url": "pic.twitter.com/OpXHdxDJoK",
+          "media_key": "7_1561407088324231169"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "DeepestFaker",
+          "id": "1433219247015092232"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 42,
+          "end": 51,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "text": "RT @DeepestFaker: Not Olivia Rodrigo pt.2\n#deepfake https://t.co/OpXHdxDJoK",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1561407088324231169"
+      ]
+    },
+    "author_id": "1421607337832456203"
+  },
+  {
+    "conversation_id": "1571843818181255170",
+    "id": "1575111521688260608",
+    "created_at": "2022-09-28T13:13:45.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@Carmona19234387 @JanjaLula Sempre tive Deus e não falo de Deus pra mentir , espalhar fake news,  defender ditadura,  roubar no mec com pastor , barras de ouro , 100 anos de sigilos,  rachadinhas , deepfake e mortes.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Carmona19234387",
+          "id": "1350149673886089219"
+        },
+        {
+          "start": 17,
+          "end": 27,
+          "username": "JanjaLula",
+          "id": "60661681"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1527418022989729794",
+          "name": "Janja Lula da Silva"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "author_id": "1569350384639959040"
+  },
+  {
+    "conversation_id": "1575109720037535744",
+    "id": "1575109720037535744",
+    "created_at": "2022-09-28T13:06:36.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 164,
+          "end": 187,
+          "url": "https://t.co/W3PqllW147",
+          "expanded_url": "https://twitter.com/arielfhitz/status/1574933671890800640",
+          "display_url": "twitter.com/arielfhitz/sta…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 78,
+          "end": 87,
+          "probability": 0.9594,
+          "type": "Person",
+          "normalized_text": "lucy alves"
+        },
+        {
+          "start": 151,
+          "end": 161,
+          "probability": 0.8919,
+          "type": "Person",
+          "normalized_text": "Salve Jorge"
+        }
+      ]
+    },
+    "text": "As únicas coisas que me levam a cogitar pensar em ver essa novela é o plot da lucy alves sofrer por uma deepfake e a autora resgatar os personagens de Salve Jorge. https://t.co/W3PqllW147",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1389361348337750020",
+          "name": "Jade Picon"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "120",
+          "name": "Digital Creator",
+          "description": "Influencers who create content on digital platforms"
+        },
+        "entity": {
+          "id": "1389361348337750020",
+          "name": "Jade Picon"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1098601487213576192",
+          "name": "Soap operas",
+          "description": "Soap Operas"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273713409238855680",
+          "name": "Forró"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1273721499820556288",
+          "name": "Lucy Alves"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1286088035373731840",
+          "name": "Music of Brazil"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1354796903951601669",
+          "name": "Big Brother Brazil stars"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1389361348337750020",
+          "name": "Jade Picon"
+        }
+      }
+    ],
+    "author_id": "4289468967"
+  },
+  {
+    "conversation_id": "1575107311965970433",
+    "id": "1575109060709404673",
+    "created_at": "2022-09-28T13:03:58.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@leiatheinvestor Não é por nada,mas isso tem muito cara de deepfake,e tbm não acho que o Xande daria um vacilo desses na frente de cameras",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "leiatheinvestor",
+          "id": "1093929745669152768"
+        }
+      ]
+    },
+    "author_id": "1198740979425173504"
+  },
+  {
+    "conversation_id": "1575103959672692737",
+    "id": "1575103959672692737",
+    "created_at": "2022-09-28T12:43:42.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 242,
+          "end": 265,
+          "url": "https://t.co/J9enAgF2Wg",
+          "expanded_url": "https://twitter.com/Comprova/status/1574883079302291472",
+          "display_url": "twitter.com/Comprova/statu…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 127,
+          "end": 142,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "text": "Você sabe o que é deepfake? Produzimos um material com dicas para identificar a prática. \n\nEntre os especialistas ouvidos está @brunnosarttori, jornalista considerado um dos pioneiros na criação de sátiras através da técnica deepfake no país https://t.co/J9enAgF2Wg",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "author_id": "1224343619592773632"
+  },
+  {
+    "conversation_id": "1575103880471642112",
+    "id": "1575103880471642112",
+    "created_at": "2022-09-28T12:43:23.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "RT @Venomfakes: Dua Lipa Vol. VI 🤩\n\n#DuaLipa #celebrity #celebrities #celebrityfakes #deepfake #fakes #nude #porn #sex #sexy #hot #nsfw #ex…",
+    "public_metrics": {
+      "retweet_count": 71,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Venomfakes",
+          "id": "1385225551560904707"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 16,
+          "end": 23,
+          "probability": 0.4279,
+          "type": "Person",
+          "normalized_text": "Dua Lipa"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 44,
+          "tag": "DuaLipa"
+        },
+        {
+          "start": 45,
+          "end": 55,
+          "tag": "celebrity"
+        },
+        {
+          "start": 56,
+          "end": 68,
+          "tag": "celebrities"
+        },
+        {
+          "start": 69,
+          "end": 84,
+          "tag": "celebrityfakes"
+        },
+        {
+          "start": 85,
+          "end": 94,
+          "tag": "deepfake"
+        },
+        {
+          "start": 95,
+          "end": 101,
+          "tag": "fakes"
+        },
+        {
+          "start": 102,
+          "end": 107,
+          "tag": "nude"
+        },
+        {
+          "start": 108,
+          "end": 113,
+          "tag": "porn"
+        },
+        {
+          "start": 114,
+          "end": 118,
+          "tag": "sex"
+        },
+        {
+          "start": 119,
+          "end": 124,
+          "tag": "sexy"
+        },
+        {
+          "start": 125,
+          "end": 129,
+          "tag": "hot"
+        },
+        {
+          "start": 130,
+          "end": 135,
+          "tag": "nsfw"
+        }
+      ]
+    },
+    "author_id": "1245204612"
+  },
+  {
+    "conversation_id": "1575100016850763778",
+    "id": "1575100016850763778",
+    "created_at": "2022-09-28T12:28:02.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "RT @Doprimido2: O TSE disse que esse negócio de kit-gay nunca existiu\n\nEsse vídeo deve ser animação gráfica e deepfake então \n\nhttps://t.co…",
+    "public_metrics": {
+      "retweet_count": 4503,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Doprimido2",
+          "id": "1382356234230194183"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1495810518526808074",
+          "name": "Brazilian Superior Electoral Court (TSE)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1488973753274929152",
+          "name": "Political events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "author_id": "1567833178806566912"
+  },
+  {
+    "conversation_id": "1575090137259573249",
+    "id": "1575099584778424320",
+    "created_at": "2022-09-28T12:26:19.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@GayerGus Deepfake cuidado!!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "GayerGus",
+          "id": "1489108473027739654"
+        }
+      ]
+    },
+    "author_id": "273638760"
+  },
+  {
+    "conversation_id": "1575099205269716992",
+    "id": "1575099205269716992",
+    "created_at": "2022-09-28T12:24:49.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Doprimido2: O TSE disse que esse negócio de kit-gay nunca existiu\n\nEsse vídeo deve ser animação gráfica e deepfake então \n\nhttps://t.co…",
+    "public_metrics": {
+      "retweet_count": 4503,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Doprimido2",
+          "id": "1382356234230194183"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "38",
+          "name": "Political Race",
+          "description": ""
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1495810518526808074",
+          "name": "Brazilian Superior Electoral Court (TSE)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022",
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1488973753274929152",
+          "name": "Political events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "author_id": "1573671380058624000"
+  },
+  {
+    "conversation_id": "1575089707288928256",
+    "id": "1575089707288928256",
+    "created_at": "2022-09-28T11:47:04.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 45,
+          "end": 68,
+          "url": "https://t.co/vMSHBfSCkT",
+          "expanded_url": "https://twitter.com/MauricioRicardo/status/1574929945972813824",
+          "display_url": "twitter.com/MauricioRicard…"
+        }
+      ]
+    },
+    "text": "Surreal! Torcendo para que seja um deepfake! https://t.co/vMSHBfSCkT",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "2273114024"
+  },
+  {
+    "conversation_id": "1574933671890800640",
+    "id": "1575088658364780546",
+    "created_at": "2022-09-28T11:42:54.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 160,
+          "end": 183,
+          "url": "https://t.co/MbFaj2h6LD",
+          "expanded_url": "https://twitter.com/Shiahfairy/status/1575088658364780546/photo/1",
+          "display_url": "pic.twitter.com/MbFaj2h6LD",
+          "media_key": "3_1575088654460100608"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "arielfhitz",
+          "id": "2834459925"
+        }
+      ]
+    },
+    "text": "@arielfhitz Oq me deixa curiosa sobre essa novela é saber se as edições de deepfakes vão ser assim msm. Parece proposital pra mostrar como qm cai nisso é besta https://t.co/MbFaj2h6LD",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 0
+    },
+    "attachments": {
+      "media_keys": [
+        "3_1575088654460100608"
+      ]
+    },
+    "author_id": "767871135472050176"
+  },
+  {
+    "conversation_id": "1575081863483654145",
+    "id": "1575085517594513409",
+    "created_at": "2022-09-28T11:30:25.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@tesoureiros @brunnosarttori é Carluxo usando Deepfake?",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "tesoureiros",
+          "id": "1071408436531904512"
+        },
+        {
+          "start": 13,
+          "end": 28,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 31,
+          "end": 37,
+          "probability": 0.8018,
+          "type": "Person",
+          "normalized_text": "Carluxo"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "probability": 0.7415,
+          "type": "Person",
+          "normalized_text": "Deepfake"
+        }
+      ]
+    },
+    "author_id": "313288592"
+  },
+  {
+    "conversation_id": "1575084073680138240",
+    "id": "1575084073680138240",
+    "created_at": "2022-09-28T11:24:41.000Z",
+    "source": "Twitter for iPad",
+    "lang": "pt",
+    "text": "RT @Comprova: 👩🏼‍🏫 COMPROVA EXPLICA: Entenda o que são deepfakes e confira dicas para não cair em uma.\n\n🔎 Usada inicialmente para a produçã…",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "author_id": "41114642"
+  },
+  {
+    "conversation_id": "1575080380998291457",
+    "id": "1575080380998291457",
+    "created_at": "2022-09-28T11:10:01.000Z",
+    "source": "Buffer",
+    "lang": "pt",
+    "text": "RT @Comprova: 👩🏼‍🏫 COMPROVA EXPLICA: Entenda o que são deepfakes e confira dicas para não cair em uma.\n\n🔎 Usada inicialmente para a produçã…",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "author_id": "1009046609424941056"
+  },
+  {
+    "conversation_id": "1575070629019414529",
+    "id": "1575075205969346562",
+    "created_at": "2022-09-28T10:49:27.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@IuriFreire Meu, isso é verdade ou é deepfake? 🙈\nTão surreal!!!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "IuriFreire",
+          "id": "132908137"
+        }
+      ]
+    },
+    "author_id": "50834353"
+  },
+  {
+    "conversation_id": "1575070513772257287",
+    "id": "1575070513772257287",
+    "created_at": "2022-09-28T10:30:48.000Z",
+    "source": "Twitter",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 107,
+          "end": 130,
+          "url": "https://t.co/uzFluyvE67",
+          "expanded_url": "https://leia.ag/a/B73C/gnacnds",
+          "display_url": "leia.ag/a/B73C/gnacnds",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1575070516787945472/aJU_z8PC?format=jpg&name=orig",
+              "width": 600,
+              "height": 250
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1575070516787945472/aJU_z8PC?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfake tem ganhado cada vez mais espaço entre os produtores de desinformação. No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir dessa prática, que usa inteligência artificial para copiar vozes e rostos",
+          "unwound_url": "https://www.agazeta.com.br/brasil/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao-0922?utm_medium=redacao&utm_source=twitter"
+        }
+      ]
+    },
+    "text": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação [https://t.co/uzFluyvE67]",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      }
+    ],
+    "author_id": "14870978"
+  },
+  {
+    "conversation_id": "1575067452022853633",
+    "id": "1575067452022853633",
+    "created_at": "2022-09-28T10:18:38.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "Ryan Reynolds divulgando Deadpool 3 com Hugh Jackman do nada foi a coisa mais aleatória do meu dia kkkkk Achei q era algum tipo de deepfake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "86",
+          "name": "Movie",
+          "description": "A film like Rogue One: A Star Wars Story"
+        },
+        "entity": {
+          "id": "1574882152793055232",
+          "name": "Deadpool 3"
+        }
+      },
+      {
+        "domain": {
+          "id": "130",
+          "name": "Multimedia Franchise",
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+        },
+        "entity": {
+          "id": "1002576732971384832",
+          "name": "Marvel Universe",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      },
+      {
+        "domain": {
+          "id": "130",
+          "name": "Multimedia Franchise",
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+        },
+        "entity": {
+          "id": "1002618806215176195",
+          "name": "Deadpool",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1002576732971384832",
+          "name": "Marvel Universe",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1002618806215176195",
+          "name": "Deadpool",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809112469134143488",
+          "name": "Hugh Jackman",
+          "description": "Hugh Jackman"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "809114689208655872",
+          "name": "Ryan Reynolds",
+          "description": "Ryan Reynolds"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "809112469134143488",
+          "name": "Hugh Jackman",
+          "description": "Hugh Jackman"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "809114689208655872",
+          "name": "Ryan Reynolds",
+          "description": "Ryan Reynolds"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "809112469134143488",
+          "name": "Hugh Jackman",
+          "description": "Hugh Jackman"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "809114689208655872",
+          "name": "Ryan Reynolds",
+          "description": "Ryan Reynolds"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1303713470638993414",
+          "name": "Australian actors"
+        }
+      }
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 12,
+          "probability": 0.9923,
+          "type": "Person",
+          "normalized_text": "Ryan Reynolds"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "probability": 0.4102,
+          "type": "Person",
+          "normalized_text": "Deadpool"
+        },
+        {
+          "start": 40,
+          "end": 51,
+          "probability": 0.9809,
+          "type": "Person",
+          "normalized_text": "Hugh Jackman"
+        }
+      ]
+    },
+    "author_id": "2342505673"
+  },
+  {
+    "conversation_id": "1575048407055491072",
+    "id": "1575048407055491072",
+    "created_at": "2022-09-28T09:02:57.000Z",
+    "source": "WordPress.com",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 88,
+          "end": 111,
+          "url": "https://t.co/6knNfE3tTY",
+          "expanded_url": "https://acessepolitica.com.br/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar-nesta-eleicao/",
+          "display_url": "acessepolitica.com.br/saiba-o-que-e-…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1575048410960461824/jmwaj5HG?format=jpg&name=orig",
+              "width": 770,
+              "height": 474
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1575048410960461824/jmwaj5HG?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar #Acesse Política | O site de política mais acessado da Bahia!",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfake tem ganhado cada vez mais espaço entre os produtores de desinformação. No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir dessa prática, que usa inteligência artificial para copiar vozes e rostos.…",
+          "unwound_url": "https://acessepolitica.com.br/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar-nesta-eleicao/"
+        }
+      ]
+    },
+    "text": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar nesta eleição https://t.co/6knNfE3tTY",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1445132186676498435"
+  },
+  {
+    "conversation_id": "1575048400722067456",
+    "id": "1575048400722067456",
+    "created_at": "2022-09-28T09:02:56.000Z",
+    "source": "WordPress.com",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 88,
+          "end": 111,
+          "url": "https://t.co/2zCJQyh4dc",
+          "expanded_url": "https://acessepolitica.com.br/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar-nesta-eleicao/",
+          "display_url": "acessepolitica.com.br/saiba-o-que-e-…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1575048410960461824/jmwaj5HG?format=jpg&name=orig",
+              "width": 770,
+              "height": 474
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1575048410960461824/jmwaj5HG?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar #Acesse Política | O site de política mais acessado da Bahia!",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfake tem ganhado cada vez mais espaço entre os produtores de desinformação. No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir dessa prática, que usa inteligência artificial para copiar vozes e rostos.…",
+          "unwound_url": "https://acessepolitica.com.br/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar-nesta-eleicao/"
+        }
+      ]
+    },
+    "text": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar nesta eleição https://t.co/2zCJQyh4dc",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1018091528647045120"
+  },
+  {
+    "conversation_id": "1574997299557564421",
+    "id": "1574997299557564421",
+    "created_at": "2022-09-28T05:39:52.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "84668595"
+  },
+  {
+    "conversation_id": "1574991045250940929",
+    "id": "1574991045250940929",
+    "created_at": "2022-09-28T05:15:01.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1572814714627063808/XAPnrFKF?format=png&name=orig",
+              "width": 400,
+              "height": 400
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1572814714627063808/XAPnrFKF?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "@FakeHubPorn | Linktree",
+          "description": "Linktree. Make your link do more.",
+          "unwound_url": "https://linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "public_metrics": {
+      "retweet_count": 347,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696940178935808",
+          "name": "Gaming Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "author_id": "1480238929685188609"
+  },
+  {
+    "conversation_id": "1574964615611650050",
+    "id": "1574988569936277504",
+    "created_at": "2022-09-28T05:05:11.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@Metropoles deepfake é o que serviu prá descobrir o Brasil???",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Metropoles",
+          "id": "3331429624"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 52,
+          "end": 57,
+          "probability": 0.9702,
+          "type": "Place",
+          "normalized_text": "Brasil"
+        }
+      ]
+    },
+    "author_id": "1568793524765696001"
+  },
+  {
+    "conversation_id": "1574974010663714816",
+    "id": "1574977849756295168",
+    "created_at": "2022-09-28T04:22:35.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "@dimitrisanders_ o cara usou deepfake do @greninjalol",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "dimitrisanders_",
+          "id": "888077436025524224"
+        },
+        {
+          "start": 41,
+          "end": 53,
+          "username": "greninjalol",
+          "id": "3308493532"
+        }
+      ]
+    },
+    "author_id": "153472905"
+  },
+  {
+    "conversation_id": "1574972939182678021",
+    "id": "1574972939182678021",
+    "created_at": "2022-09-28T04:03:04.000Z",
+    "source": "ethicsBot",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 128,
+          "end": 151,
+          "url": "https://t.co/a13rgRCF0g",
+          "expanded_url": "https://www.amazon.com/dp/1484271548?tag=corpusnews-20&linkCode=osi&th=1&psc=1",
+          "display_url": "amazon.com/dp/1484271548?…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574675478425788417/OG0svvUq?format=png&name=orig",
+              "width": 600,
+              "height": 315
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574675478425788417/OG0svvUq?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More",
+          "description": "How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More",
+          "unwound_url": "https://www.amazon.com/dp/1484271548?tag=corpusnews-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "start": 250,
+          "end": 273,
+          "url": "https://t.co/sQ6v02qJgR",
+          "expanded_url": "https://twitter.com/corpus_news/status/1574972912007892993",
+          "display_url": "twitter.com/corpus_news/st…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 154,
+          "end": 167,
+          "tag": "inteligência"
+        },
+        {
+          "start": 168,
+          "end": 179,
+          "tag": "datamining"
+        },
+        {
+          "start": 180,
+          "end": 203,
+          "tag": "inteligênciaartificial"
+        },
+        {
+          "start": 204,
+          "end": 215,
+          "tag": "moralidade"
+        },
+        {
+          "start": 216,
+          "end": 227,
+          "tag": "algoritmos"
+        },
+        {
+          "start": 228,
+          "end": 234,
+          "tag": "ética"
+        },
+        {
+          "start": 235,
+          "end": 249,
+          "tag": "probabilidade"
+        }
+      ]
+    },
+    "text": "Como os algoritmos criam e previnem notícias falsas: explorando os impactos das mídias sociais, deepfakes, GPT-3 e muito mais\n \nhttps://t.co/a13rgRCF0g\n \n#inteligência #datamining #inteligênciaartificial #moralidade #algoritmos #ética #probabilidade https://t.co/sQ6v02qJgR",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "930484568305541120",
+          "name": "Data science",
+          "description": "Data Science"
+        }
+      },
+      {
+        "domain": {
+          "id": "69",
+          "name": "News Vertical",
+          "description": "News Categories like Entertainment or Technology"
+        },
+        "entity": {
+          "id": "840160819388141570",
+          "name": "Tech news",
+          "description": "Tech News"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "840160819388141570",
+          "name": "Tech news",
+          "description": "Tech News"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1046545033657081857",
+          "name": "News",
+          "description": "News"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "id": "165",
+          "name": "Technology",
+          "description": "for individual and types of technology, e.g., food technology, 3D printing"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "author_id": "1437867934710386697"
+  },
+  {
+    "conversation_id": "1574933671890800640",
+    "id": "1574968910386167809",
+    "created_at": "2022-09-28T03:47:04.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@arielfhitz O roteiro é um cópia do série the capture, sobre deepfake ( o tema da novela será esse)",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "arielfhitz",
+          "id": "2834459925"
+        }
+      ]
+    },
+    "author_id": "1528818490253234176"
+  },
+  {
+    "conversation_id": "1574965318988210179",
+    "id": "1574965318988210179",
+    "created_at": "2022-09-28T03:32:48.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Metropoles: Saiba o que é deepfake, técnica utilizada para gerar desinformação\n\nUsada inicialmente para a produção de vídeos humorístic…",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Metropoles",
+          "id": "3331429624"
+        }
+      ]
+    },
+    "author_id": "464204620"
+  },
+  {
+    "conversation_id": "1574965218689486851",
+    "id": "1574965218689486851",
+    "created_at": "2022-09-28T03:32:24.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "RT @Metropoles: Saiba o que é deepfake, técnica utilizada para gerar desinformação\n\nUsada inicialmente para a produção de vídeos humorístic…",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Metropoles",
+          "id": "3331429624"
+        }
+      ]
+    },
+    "author_id": "344836364"
+  },
+  {
+    "conversation_id": "1574965014502723584",
+    "id": "1574965014502723584",
+    "created_at": "2022-09-28T03:31:35.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Metropoles: Saiba o que é deepfake, técnica utilizada para gerar desinformação\n\nUsada inicialmente para a produção de vídeos humorístic…",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Metropoles",
+          "id": "3331429624"
+        }
+      ]
+    },
+    "author_id": "1573894440858619904"
+  },
+  {
+    "conversation_id": "1574964615611650050",
+    "id": "1574964615611650050",
+    "created_at": "2022-09-28T03:30:00.000Z",
+    "source": "TweetDeck",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 214,
+          "end": 237,
+          "url": "https://t.co/FMmWmVEPoB",
+          "expanded_url": "https://cutt.ly/hVFDYq3",
+          "display_url": "cutt.ly/hVFDYq3",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574932385413857280/booI4v6j?format=jpg&name=orig",
+              "width": 1200,
+              "height": 813
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574932385413857280/booI4v6j?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica utilizada para gerar desinformação | Metrópoles",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, deepfakes tem ganhado cada vez mais espaço entre os produtores de desinformação",
+          "unwound_url": "https://www.metropoles.com/projeto-comprova/saiba-o-que-e-deepfake-tecnica-utilizada-para-gerar-desinformacao"
+        },
+        {
+          "start": 238,
+          "end": 261,
+          "url": "https://t.co/w6wSrYu3Ep",
+          "expanded_url": "https://twitter.com/Metropoles/status/1574964615611650050/photo/1",
+          "display_url": "pic.twitter.com/w6wSrYu3Ep",
+          "media_key": "3_1574915355297939457"
+        }
+      ]
+    },
+    "text": "Saiba o que é deepfake, técnica utilizada para gerar desinformação\n\nUsada inicialmente para a produção de vídeos humorísticos, deepfakes tem ganhado cada vez mais espaço entre os produtores de desinformação\n\nLeia: https://t.co/FMmWmVEPoB https://t.co/w6wSrYu3Ep",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 4,
+      "like_count": 16,
+      "quote_count": 0
+    },
+    "attachments": {
+      "media_keys": [
+        "3_1574915355297939457"
+      ]
+    },
+    "author_id": "3331429624"
+  },
+  {
+    "conversation_id": "1574959460430524417",
+    "id": "1574959460430524417",
+    "created_at": "2022-09-28T03:09:31.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "Realize AGORA seu sonho de ver ela sem roupa 😈\n\n• Faço deepfake em fotos, remoção de biquini, faceswap e edições do tipo 🔥\n\nAmostra e valores na DM, chama rs\n\n#pintoawards #pintosawards #troconuds #xotaawards #rabaawards",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 159,
+          "end": 171,
+          "tag": "pintoawards"
+        },
+        {
+          "start": 172,
+          "end": 185,
+          "tag": "pintosawards"
+        },
+        {
+          "start": 186,
+          "end": 196,
+          "tag": "troconuds"
+        },
+        {
+          "start": 197,
+          "end": 208,
+          "tag": "xotaawards"
+        },
+        {
+          "start": 209,
+          "end": 220,
+          "tag": "rabaawards"
+        }
+      ]
+    },
+    "author_id": "1574475543415848960"
+  },
+  {
+    "conversation_id": "1574950213738905600",
+    "id": "1574954441350221824",
+    "created_at": "2022-09-28T02:49:34.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@fabiomoraes Cara faz deepfake e fala em veracidade?",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "fabiomoraes",
+          "id": "14692201"
+        }
+      ]
+    },
+    "author_id": "1565103713387220993"
+  },
+  {
+    "conversation_id": "1574826696091602956",
+    "id": "1574953926717509633",
+    "created_at": "2022-09-28T02:47:32.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@brunnosarttori Amigo, vc cria deepfake e vem falar em veracidade??? Tu nao vai conseguir colar esse caô não.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "author_id": "1565103713387220993"
+  },
+  {
+    "conversation_id": "1574947530626179072",
+    "id": "1574948956051742722",
+    "created_at": "2022-09-28T02:27:46.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "@Cortez50005 Da pra fazer um deepfake nele kkk",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "Cortez50005",
+          "id": "1219445803854548994"
+        }
+      ]
+    },
+    "author_id": "3077964767"
+  },
+  {
+    "conversation_id": "1574826696091602956",
+    "id": "1574948244542455809",
+    "created_at": "2022-09-28T02:24:57.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@brunnosarttori @Luiz88S Hoje te vi na globonews falando sobre a deepfake e eles dizendo que vc era o maior especialista na área. Mesmo sem te conhecer, senti um orgulho imenso, pois vi a sua caminhada. Parabéns 👏🏽",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "username": "Luiz88S",
+          "id": "1564396265160466434"
+        }
+      ]
+    },
+    "author_id": "1392444076956557314"
+  },
+  {
+    "conversation_id": "1574946474261352448",
+    "id": "1574946474261352448",
+    "created_at": "2022-09-28T02:17:55.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/y198vwWpED",
+          "expanded_url": "https://twitter.com/neongeneshit/status/1574875597817495552",
+          "display_url": "twitter.com/neongeneshit/s…"
+        }
+      ]
+    },
+    "text": "Isso aq N existe \nÉ deepfake e montagem\nTem q ser... https://t.co/y198vwWpED",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1128754270231199744"
+  },
+  {
+    "conversation_id": "1574905825746878466",
+    "id": "1574940094808879105",
+    "created_at": "2022-09-28T01:52:34.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@FreakMartinez_ Pode ser que tenha usado um deepfake do bolsonaro. Fight Fire with fire",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "FreakMartinez_",
+          "id": "1652808518"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 56,
+          "end": 64,
+          "probability": 0.9938,
+          "type": "Person",
+          "normalized_text": "bolsonaro"
+        }
+      ]
+    },
+    "author_id": "65998072"
+  },
+  {
+    "conversation_id": "1574936603142680576",
+    "id": "1574936603142680576",
+    "created_at": "2022-09-28T01:38:41.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "79574193"
+  },
+  {
+    "conversation_id": "1574932381488017408",
+    "id": "1574932381488017408",
+    "created_at": "2022-09-28T01:21:55.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 140,
+          "end": 163,
+          "url": "https://t.co/JrBKrVRqCP",
+          "expanded_url": "https://www.metropoles.com/projeto-comprova/saiba-o-que-e-deepfake-tecnica-utilizada-para-gerar-desinformacao",
+          "display_url": "metropoles.com/projeto-compro…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574932385413857280/booI4v6j?format=jpg&name=orig",
+              "width": 1200,
+              "height": 813
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574932385413857280/booI4v6j?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica utilizada para gerar desinformação | Metrópoles",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, deepfakes tem ganhado cada vez mais espaço entre os produtores de desinformação",
+          "unwound_url": "https://www.metropoles.com/projeto-comprova/saiba-o-que-e-deepfake-tecnica-utilizada-para-gerar-desinformacao"
+        }
+      ]
+    },
+    "text": "Usada inicialmente para a produção de vídeos humorísticos, deepfakes tem ganhado cada vez mais espaço entre os produtores de desinformação\n\nhttps://t.co/JrBKrVRqCP",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "73526005"
+  },
+  {
+    "conversation_id": "1574925325510709248",
+    "id": "1574925325510709248",
+    "created_at": "2022-09-28T00:53:52.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Estadao: Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação (via @estadaoverific…",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "Estadao",
+          "id": "9317502"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1112793446207520768",
+          "name": "O Estado de S. Paulo"
+        }
+      }
+    ],
+    "author_id": "1569505835193368577"
+  },
+  {
+    "conversation_id": "1574923412274921472",
+    "id": "1574923412274921472",
+    "created_at": "2022-09-28T00:46:16.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "211157652"
+  },
+  {
+    "conversation_id": "1574907907245850633",
+    "id": "1574923072330764289",
+    "created_at": "2022-09-28T00:44:55.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "@_Estragao Isso só pode ser deepfake, ele não chegaria a esse ponto...",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "_Estragao",
+          "id": "1552450752173449221"
+        }
+      ]
+    },
+    "author_id": "1424085329980575746"
+  },
+  {
+    "conversation_id": "1574922993947377664",
+    "id": "1574922993947377664",
+    "created_at": "2022-09-28T00:44:37.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "1521996352867401728"
+  },
+  {
+    "conversation_id": "1574922662396145664",
+    "id": "1574922662396145664",
+    "created_at": "2022-09-28T00:43:18.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "1488107527250321411"
+  },
+  {
+    "conversation_id": "1574922231259488256",
+    "id": "1574922231259488256",
+    "created_at": "2022-09-28T00:41:35.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "69",
+          "name": "News Vertical",
+          "description": "News Categories like Entertainment or Technology"
+        },
+        "entity": {
+          "id": "1192882051944333313",
+          "name": "Brazil national news"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1192882051944333313",
+          "name": "Brazil national news"
+        }
+      },
+      {
+        "domain": {
+          "id": "69",
+          "name": "News Vertical",
+          "description": "News Categories like Entertainment or Technology"
+        },
+        "entity": {
+          "id": "1192882051944333313",
+          "name": "Brazil national news"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1192882051944333313",
+          "name": "Brazil national news"
+        }
+      }
+    ],
+    "author_id": "14594698"
+  },
+  {
+    "conversation_id": "1574896634957369344",
+    "id": "1574920742931775488",
+    "created_at": "2022-09-28T00:35:40.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "@jairmearrependi Assisti até o final esperando deepfake, isso não se faz Jairme 😫",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "jairmearrependi",
+          "id": "1053378751189397504"
+        }
+      ]
+    },
+    "author_id": "1474152377762648072"
+  },
+  {
+    "conversation_id": "1574568784278568961",
+    "id": "1574919564030353408",
+    "created_at": "2022-09-28T00:30:59.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "@sancha_monica @nanda_kysa @thaiscpmacedo A menina quis meter um deepfake usando filtro 🤣🤣🤣🤣🤣🤣🗣🗣🗣🗣🗣",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "sancha_monica",
+          "id": "298264273"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "username": "nanda_kysa",
+          "id": "323418276"
+        },
+        {
+          "start": 27,
+          "end": 41,
+          "username": "thaiscpmacedo",
+          "id": "63233473"
+        }
+      ]
+    },
+    "author_id": "1571115272471191552"
+  },
+  {
+    "conversation_id": "1574918465600774144",
+    "id": "1574918465600774144",
+    "created_at": "2022-09-28T00:26:37.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "RT @Estadao: Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação (via @estadaoverific…",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "Estadao",
+          "id": "9317502"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1112793446207520768",
+          "name": "O Estado de S. Paulo"
+        }
+      }
+    ],
+    "author_id": "234503399"
+  },
+  {
+    "conversation_id": "1574909249972420611",
+    "id": "1574917305699635201",
+    "created_at": "2022-09-28T00:22:00.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 96,
+          "end": 119,
+          "url": "https://t.co/RnyG2fHVoL",
+          "expanded_url": "https://twitter.com/CinicoEduardo/status/1574917305699635201/video/1",
+          "display_url": "pic.twitter.com/RnyG2fHVoL",
+          "media_key": "7_1574916971086372864"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "Estadao",
+          "id": "9317502"
+        },
+        {
+          "start": 9,
+          "end": 25,
+          "username": "estadaoverifica",
+          "id": "1000126860104216576"
+        }
+      ]
+    },
+    "text": "@Estadao @estadaoverifica Esse deepfake do ex presidiário completamente bêbado ficou muito bom! https://t.co/RnyG2fHVoL",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1112793446207520768",
+          "name": "O Estado de S. Paulo"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "7_1574916971086372864"
+      ]
+    },
+    "author_id": "1135524075898580994"
+  },
+  {
+    "conversation_id": "1574914272026664961",
+    "id": "1574914272026664961",
+    "created_at": "2022-09-28T00:09:57.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "3355141480"
+  },
+  {
+    "conversation_id": "1574911490771001344",
+    "id": "1574911490771001344",
+    "created_at": "2022-09-27T23:58:54.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "1537873922"
+  },
+  {
+    "conversation_id": "1574911191612366848",
+    "id": "1574911191612366848",
+    "created_at": "2022-09-27T23:57:43.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "RT @Estadao: Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação (via @estadaoverific…",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "Estadao",
+          "id": "9317502"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1112793446207520768",
+          "name": "O Estado de S. Paulo"
+        }
+      }
+    ],
+    "author_id": "211157652"
+  },
+  {
+    "conversation_id": "1574910509651984384",
+    "id": "1574910509651984384",
+    "created_at": "2022-09-27T23:55:00.000Z",
+    "source": "Buffer",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "1009046609424941056"
+  },
+  {
+    "conversation_id": "1574909895043866624",
+    "id": "1574909895043866624",
+    "created_at": "2022-09-27T23:52:34.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "RT @Estadao: Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação (via @estadaoverific…",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "Estadao",
+          "id": "9317502"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1112793446207520768",
+          "name": "O Estado de S. Paulo"
+        }
+      }
+    ],
+    "author_id": "1488107527250321411"
+  },
+  {
+    "conversation_id": "1574909249972420611",
+    "id": "1574909249972420611",
+    "created_at": "2022-09-27T23:50:00.000Z",
+    "source": "TweetDeck",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/aQAAV6DUtF",
+          "expanded_url": "https://bit.ly/3Riw53M",
+          "display_url": "bit.ly/3Riw53M",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574870753308188696/98kpaelo?format=jpg&name=orig",
+              "width": 710,
+              "height": 355
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574870753308188696/98kpaelo?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação",
+          "description": "No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir de prática que usa",
+          "unwound_url": "https://politica.estadao.com.br/blogs/estadao-verifica/saiba-o-que-e-deepfake-tecnica-desinformacao/?utm_source=twitter:newsfeed&utm_medium=social-organic&utm_campaign=redes-sociais:092022:e&utm_content=:::&utm_term="
+        }
+      ],
+      "mentions": [
+        {
+          "start": 111,
+          "end": 127,
+          "username": "estadaoverifica",
+          "id": "1000126860104216576"
+        }
+      ]
+    },
+    "text": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação (via @estadaoverifica) https://t.co/aQAAV6DUtF",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 8,
+      "like_count": 9,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1112793446207520768",
+          "name": "O Estado de S. Paulo"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "165",
+          "name": "Technology",
+          "description": "for individual and types of technology, e.g., food technology, 3D printing"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      }
+    ],
+    "author_id": "9317502"
+  },
+  {
+    "conversation_id": "1574906870736748545",
+    "id": "1574906870736748545",
+    "created_at": "2022-09-27T23:40:32.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Comprova: 👩🏼‍🏫 COMPROVA EXPLICA: Entenda o que são deepfakes e confira dicas para não cair em uma.\n\n🔎 Usada inicialmente para a produçã…",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "author_id": "1471625154648330241"
+  },
+  {
+    "conversation_id": "1574866885417508869",
+    "id": "1574904790454345740",
+    "created_at": "2022-09-27T23:32:17.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@maribalatxx @UniMarvelBrasil @nacaomarveI Usa um .deepfake com a voz dele",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "maribalatxx",
+          "id": "337931352"
+        },
+        {
+          "start": 13,
+          "end": 29,
+          "username": "UniMarvelBrasil",
+          "id": "1472965969983193095"
+        },
+        {
+          "start": 30,
+          "end": 42,
+          "username": "nacaomarveI",
+          "id": "1058197229779980290"
+        }
+      ]
+    },
+    "author_id": "1488966459111968782"
+  },
+  {
+    "conversation_id": "1574903324004216832",
+    "id": "1574903324004216832",
+    "created_at": "2022-09-27T23:26:27.000Z",
+    "source": "Social Web Suite app",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 121,
+          "end": 144,
+          "url": "https://t.co/8coVpMDbWR",
+          "expanded_url": "https://sws.sh/FFYzS",
+          "display_url": "sws.sh/FFYzS",
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação | Rádio Cidadã FM",
+          "description": "Comprova Explica: Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfake tem ganhado cada vez mais espaço entre os produtores de desinformação. No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir dessa prática, que usa inteligência artificial para copiar vozes e rostos. Por meio da tecnologia é possível produzir vídeos realistas em que pess oas aparecem fazendo e falando coisas que nunca fizeram ou disseram. Segundo",
+          "unwound_url": "https://cidadafm.com.br/noticia/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/?utm_campaign=socialwebsuite&utm_source=socialwebsuite.com&utm_medium=social"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 106,
+          "end": 120,
+          "tag": "AVozdoButanta"
+        }
+      ]
+    },
+    "text": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação #AVozdoButanta https://t.co/8coVpMDbWR",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      }
+    ],
+    "author_id": "1960376533"
+  },
+  {
+    "conversation_id": "1574891994261987330",
+    "id": "1574891994261987330",
+    "created_at": "2022-09-27T22:41:26.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 234,
+          "end": 257,
+          "url": "https://t.co/qUgw2zEBSF",
+          "expanded_url": "https://twitter.com/champjisoo/status/1574891994261987330/photo/1",
+          "display_url": "pic.twitter.com/qUgw2zEBSF",
+          "media_key": "3_1574891991485349888"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 9,
+          "end": 14,
+          "probability": 0.5313,
+          "type": "Person",
+          "normalized_text": "lilies"
+        },
+        {
+          "start": 92,
+          "end": 95,
+          "probability": 0.5173,
+          "type": "Person",
+          "normalized_text": "Lisa"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 217,
+          "end": 227,
+          "tag": "BLACKPINK"
+        },
+        {
+          "start": 228,
+          "end": 233,
+          "tag": "LISA"
+        }
+      ]
+    },
+    "text": "Blinks e lilies, ainda há pouco essa pessoa começou a divulgar deepfakes +18 com o rosto da Lisa. (Deepfakes são edições nas quais geralmente colocam o rosto de idols e famosos em vídeos ou fotos de outras pessoas.)\n\n#BLACKPINK #LISA https://t.co/qUgw2zEBSF",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 1
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "894606843783270401",
+          "name": "BLACKPINK",
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "894606843783270401",
+          "name": "BLACKPINK",
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "888105153038958593",
+          "name": "K-pop",
+          "description": "K-Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "888105153038958593",
+          "name": "K-pop",
+          "description": "K-Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "894606843783270401",
+          "name": "BLACKPINK",
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1086368374668484608",
+          "name": "BLINK",
+          "description": "BLACKPINK fan community BLINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "139",
+          "name": "Fan Community",
+          "description": "A viral fan community like 'Lovatics' (fans of Demi Lovato)"
+        },
+        "entity": {
+          "id": "1086368374668484608",
+          "name": "BLINK",
+          "description": "BLACKPINK fan community BLINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "913136867872145408",
+          "name": "LISA",
+          "description": "Lisa (리사) - member of BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "913136867872145408",
+          "name": "LISA",
+          "description": "Lisa (리사) - member of BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "888105153038958593",
+          "name": "K-pop",
+          "description": "K-Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "847524658970636288",
+          "name": "Music",
+          "description": "Music and radio"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "888105153038958593",
+          "name": "K-pop",
+          "description": "K-Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "913136867872145408",
+          "name": "LISA",
+          "description": "Lisa (리사) - member of BLACKPINK"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1574891991485349888"
+      ]
+    },
+    "author_id": "1415448758859542534"
+  },
+  {
+    "conversation_id": "1574554470695960589",
+    "id": "1574891323953381377",
+    "created_at": "2022-09-27T22:38:46.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 107,
+          "end": 130,
+          "url": "https://t.co/8BVGOnUWP3",
+          "expanded_url": "https://twitter.com/CentenarioBi/status/1574891323953381377/photo/1",
+          "display_url": "pic.twitter.com/8BVGOnUWP3",
+          "media_key": "3_1574891318995783680"
+        },
+        {
+          "start": 107,
+          "end": 130,
+          "url": "https://t.co/8BVGOnUWP3",
+          "expanded_url": "https://twitter.com/CentenarioBi/status/1574891323953381377/photo/1",
+          "display_url": "pic.twitter.com/8BVGOnUWP3",
+          "media_key": "3_1574891318983139328"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "hilde_angel",
+          "id": "174396298"
+        }
+      ]
+    },
+    "text": "@hilde_angel Você parece um ferreiro caolho. Um dia acerta o prego noutra a mão.\n\nPara de fazer deepfakes… https://t.co/8BVGOnUWP3",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696940178935808",
+          "name": "Gaming Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+        }
+      }
+    ],
+    "attachments": {
+      "media_keys": [
+        "3_1574891318995783680",
+        "3_1574891318983139328"
+      ]
+    },
+    "author_id": "1566527770506698757"
+  },
+  {
+    "conversation_id": "1574888987528921090",
+    "id": "1574888987528921090",
+    "created_at": "2022-09-27T22:29:29.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 87,
+          "end": 110,
+          "url": "https://t.co/1T8528ABNO",
+          "expanded_url": "https://twitter.com/jenodesalto/status/1574207738862833664",
+          "display_url": "twitter.com/jenodesalto/st…"
+        }
+      ]
+    },
+    "text": "ela já me ameaçou de e$trup0, já fez deepfake meu com o h!tl3r e outras coisas tbmkkkk https://t.co/1T8528ABNO",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1557801704229412869"
+  },
+  {
+    "conversation_id": "1574887565295067136",
+    "id": "1574888043676422145",
+    "created_at": "2022-09-27T22:25:44.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "Xuxa diz que é mentira, diz que é deepfake, mano que nojo",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 3,
+          "probability": 0.7997,
+          "type": "Person",
+          "normalized_text": "Xuxa"
+        }
+      ]
+    },
+    "author_id": "1326313216193028096"
+  },
+  {
+    "conversation_id": "1574885640709218306",
+    "id": "1574885640709218306",
+    "created_at": "2022-09-27T22:16:11.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/mafREq7j6U",
+          "expanded_url": "https://twitter.com/marvelbrnews/status/1574874939542437889",
+          "display_url": "twitter.com/marvelbrnews/s…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 51,
+          "end": 60,
+          "username": "MarvelBR",
+          "id": "3048363993"
+        }
+      ]
+    },
+    "text": "Criem uma voz deepfake desse dublador urgentemente @MarvelBR q eu n passei 20 anos ouvindo a msm voz p mudar agr https://t.co/mafREq7j6U",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "130",
+          "name": "Multimedia Franchise",
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+        },
+        "entity": {
+          "id": "1002576732971384832",
+          "name": "Marvel Universe",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1002576732971384832",
+          "name": "Marvel Universe",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy view into the Semantic Core knowledge graph"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "author_id": "1012904496576520192"
+  },
+  {
+    "conversation_id": "1574884580796014593",
+    "id": "1574884580796014593",
+    "created_at": "2022-09-27T22:11:58.000Z",
+    "source": "mLabs - Gestão de Redes Sociais",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 242,
+          "end": 265,
+          "url": "https://t.co/LPbLd4xeHU",
+          "expanded_url": "https://bit.ly/3SzoIXj",
+          "display_url": "bit.ly/3SzoIXj",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574884588068999168/gaUfbZez?format=jpg&name=orig",
+              "width": 1590,
+              "height": 798
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574884588068999168/gaUfbZez?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Como combater a pandemia cibernética de DeepFake? - MIT Technology Review",
+          "description": "Conheça o MIT Technology Review Brasil. A maior publicação de tecnologia do mundo agora no Brasil.",
+          "unwound_url": "https://mittechreview.com.br/como-combater-a-pandemia-cibernetica-de-deepfake/"
+        },
+        {
+          "start": 266,
+          "end": 289,
+          "url": "https://t.co/5F8ofCu4IM",
+          "expanded_url": "https://twitter.com/InfobaseIT/status/1574884580796014593/photo/1",
+          "display_url": "pic.twitter.com/5F8ofCu4IM",
+          "media_key": "3_1574884578178867200"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 28,
+          "end": 35,
+          "probability": 0.2823,
+          "type": "Place",
+          "normalized_text": "DeepFake"
+        },
+        {
+          "start": 185,
+          "end": 196,
+          "probability": 0.9718,
+          "type": "Person",
+          "normalized_text": "Marcos Nehme"
+        }
+      ]
+    },
+    "text": "Muitos criminosos já usam a DeepFake em ataques virtuais, inclusive alguns que resultaram em roubos monetários milionários. Diante desse cenário, o desafio é: como combater a DeepFake? Marcos Nehme aponta alguns insights em relação ao tema.\n\nhttps://t.co/LPbLd4xeHU https://t.co/5F8ofCu4IM",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "attachments": {
+      "media_keys": [
+        "3_1574884578178867200"
+      ]
+    },
+    "author_id": "52582058"
+  },
+  {
+    "conversation_id": "1574883332613181445",
+    "id": "1574883332613181445",
+    "created_at": "2022-09-27T22:07:01.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Comprova: 👩🏼‍🏫 COMPROVA EXPLICA: Entenda o que são deepfakes e confira dicas para não cair em uma.\n\n🔎 Usada inicialmente para a produçã…",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "author_id": "406766589"
+  },
+  {
+    "conversation_id": "1574883299197067289",
+    "id": "1574883299197067289",
+    "created_at": "2022-09-27T22:06:53.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Comprova: 🎞 Enquanto o processo de criação de deepfakes utiliza uma base de dados para servir de modelo à inteligência artificial, ediç…",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      }
+    ],
+    "author_id": "406766589"
+  },
+  {
+    "conversation_id": "1574883270998761519",
+    "id": "1574883270998761519",
+    "created_at": "2022-09-27T22:06:46.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @Comprova: 🕵️ O caminho para driblar deepfakes passa muito mais pelo olhar atento ao conteúdo do que por uma análise técnica do material…",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "author_id": "406766589"
+  },
+  {
+    "conversation_id": "1574883235942875136",
+    "id": "1574883235942875136",
+    "created_at": "2022-09-27T22:06:38.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "RT @Comprova: 👩🏼‍🏫 COMPROVA EXPLICA: Entenda o que são deepfakes e confira dicas para não cair em uma.\n\n🔎 Usada inicialmente para a produçã…",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "author_id": "19351269"
+  },
+  {
+    "conversation_id": "1574883226694328346",
+    "id": "1574883226694328346",
+    "created_at": "2022-09-27T22:06:35.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 68,
+          "end": 91,
+          "url": "https://t.co/GQkuB4pw00",
+          "expanded_url": "https://projetocomprova.com.br/publicações/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/",
+          "display_url": "projetocomprova.com.br/publicações/sa…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574883080153735195/-Yo_zVBQ?format=jpg&name=orig",
+              "width": 1024,
+              "height": 512
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574883080153735195/-Yo_zVBQ?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação : Projeto Comprova",
+          "description": "COMPROVA EXPLICA: No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir da prática da deepfake, que usa inteligência artificial para copiar vozes e rostos.",
+          "unwound_url": "https://projetocomprova.com.br/publicações/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "username": "portalnsctotal",
+          "id": "314555948"
+        },
+        {
+          "start": 119,
+          "end": 125,
+          "username": "opovo",
+          "id": "19351269"
+        },
+        {
+          "start": 128,
+          "end": 137,
+          "username": "jornalnh",
+          "id": "17077026"
+        }
+      ]
+    },
+    "text": "RT @Comprova: 🔎 Confira links, exemplos e outros detalhes no site ↓\nhttps://t.co/GQkuB4pw00\n\n👩🏽‍💻 Com @portalnsctotal, @opovo e @jornalnh",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "406766589"
+  },
+  {
+    "conversation_id": "1574883079302291472",
+    "id": "1574883090270396427",
+    "created_at": "2022-09-27T22:06:03.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 54,
+          "end": 77,
+          "url": "https://t.co/GQkuB4pw00",
+          "expanded_url": "https://projetocomprova.com.br/publicações/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/",
+          "display_url": "projetocomprova.com.br/publicações/sa…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574883080153735195/-Yo_zVBQ?format=jpg&name=orig",
+              "width": 1024,
+              "height": 512
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574883080153735195/-Yo_zVBQ?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação : Projeto Comprova",
+          "description": "COMPROVA EXPLICA: No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir da prática da deepfake, que usa inteligência artificial para copiar vozes e rostos.",
+          "unwound_url": "https://projetocomprova.com.br/publicações/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 88,
+          "end": 103,
+          "username": "portalnsctotal",
+          "id": "314555948"
+        },
+        {
+          "start": 105,
+          "end": 111,
+          "username": "opovo",
+          "id": "19351269"
+        },
+        {
+          "start": 114,
+          "end": 123,
+          "username": "jornalnh",
+          "id": "17077026"
+        }
+      ]
+    },
+    "text": "🔎 Confira links, exemplos e outros detalhes no site ↓\nhttps://t.co/GQkuB4pw00\n\n👩🏽‍💻 Com @portalnsctotal, @opovo e @jornalnh",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "author_id": "1009046609424941056"
+  },
+  {
+    "conversation_id": "1574883079302291472",
+    "id": "1574883085572775964",
+    "created_at": "2022-09-27T22:06:02.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "🕵️ O caminho para driblar deepfakes passa muito mais pelo olhar atento ao conteúdo do que por uma análise técnica do material suspeito. Os rastros que eventualmente denunciam a manipulação dos vídeos estão cada vez mais sutis e podem passar despercebidos, ainda mais para leigos.",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1009046609424941056"
+  },
+  {
+    "conversation_id": "1574883079302291472",
+    "id": "1574883082926170137",
+    "created_at": "2022-09-27T22:06:01.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "text": "🎞 Enquanto o processo de criação de deepfakes utiliza uma base de dados para servir de modelo à inteligência artificial, edições comuns de peças audiovisuais são feitas a partir de ferramentas que não exigem esses dados. A prática nesse caso é conhecida como shallowfake.",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      }
+    ],
+    "author_id": "1009046609424941056"
+  },
+  {
+    "conversation_id": "1574883079302291472",
+    "id": "1574883079302291472",
+    "created_at": "2022-09-27T22:06:00.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 248,
+          "end": 271,
+          "url": "https://t.co/GQkuB4pw00",
+          "expanded_url": "https://projetocomprova.com.br/publicações/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/",
+          "display_url": "projetocomprova.com.br/publicações/sa…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574883080153735195/-Yo_zVBQ?format=jpg&name=orig",
+              "width": 1024,
+              "height": 512
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574883080153735195/-Yo_zVBQ?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação : Projeto Comprova",
+          "description": "COMPROVA EXPLICA: No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir da prática da deepfake, que usa inteligência artificial para copiar vozes e rostos.",
+          "unwound_url": "https://projetocomprova.com.br/publicações/saiba-o-que-e-deepfake-tecnica-de-inteligencia-artificial-que-foi-apropriada-para-produzir-desinformacao/"
+        }
+      ]
+    },
+    "text": "👩🏼‍🏫 COMPROVA EXPLICA: Entenda o que são deepfakes e confira dicas para não cair em uma.\n\n🔎 Usada inicialmente para a produção de vídeos humorísticos, a técnica tem ganhado cada vez mais espaço entre os produtores de desinformação.\n\n🔎 Saiba mais ↓\nhttps://t.co/GQkuB4pw00",
+    "public_metrics": {
+      "retweet_count": 5,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 1
+    },
+    "author_id": "1009046609424941056"
+  },
+  {
+    "conversation_id": "1574882033419042816",
+    "id": "1574882033419042816",
+    "created_at": "2022-09-27T22:01:51.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "RT @uolconfere: 🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'c…",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "uolconfere",
+          "id": "1233026312190808064"
+        }
+      ]
+    },
+    "author_id": "1471625154648330241"
+  },
+  {
+    "conversation_id": "1574872816532463616",
+    "id": "1574878620677447689",
+    "created_at": "2022-09-27T21:48:17.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@nextlevel_br Eu acho que precisa rolar um deepfake com a voz do Isaac Bardavid e o cachê que ele teria direito ir pra familia.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "nextlevel_br",
+          "id": "1077985484192792577"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 65,
+          "end": 78,
+          "probability": 0.9572,
+          "type": "Person",
+          "normalized_text": "Isaac Bardavid"
+        }
+      ]
+    },
+    "author_id": "71829404"
+  },
+  {
+    "conversation_id": "1574856576942358530",
+    "id": "1574877190159736866",
+    "created_at": "2022-09-27T21:42:36.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "@UOLNoticias Deepfake é querer apagar a CORRUPÇÃO e a ROUBALHEIRA do descondenado e seus asseclas? Transformando o pinguço no ser mais honesto do planeta? Obrigado 🙄",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 13,
+          "end": 20,
+          "probability": 0.55,
+          "type": "Person",
+          "normalized_text": "Deepfake"
+        }
+      ]
+    },
+    "author_id": "205321615"
+  },
+  {
+    "conversation_id": "1574870751760490496",
+    "id": "1574870751760490496",
+    "created_at": "2022-09-27T21:17:01.000Z",
+    "source": "TweetDeck",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/uCPKRNltsj",
+          "expanded_url": "https://politica.estadao.com.br/blogs/estadao-verifica/saiba-o-que-e-deepfake-tecnica-desinformacao/",
+          "display_url": "politica.estadao.com.br/blogs/estadao-…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574870753308188696/98kpaelo?format=jpg&name=orig",
+              "width": 710,
+              "height": 355
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574870753308188696/98kpaelo?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação",
+          "description": "No período eleitoral de 2022, vídeos vêm sendo manipulados e seus conteúdos distorcidos a partir de prática que usa",
+          "unwound_url": "https://politica.estadao.com.br/blogs/estadao-verifica/saiba-o-que-e-deepfake-tecnica-desinformacao/"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 123,
+          "end": 132,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "text": "🕵 Saiba o que é deepfake, técnica de inteligência artificial que foi apropriada para produzir desinformação\n\n🔎 Feito com o @Comprova \n\nSaiba mais ⬇\nhttps://t.co/uCPKRNltsj",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      }
+    ],
+    "author_id": "1000126860104216576"
+  },
+  {
+    "conversation_id": "1574868598476214272",
+    "id": "1574869203311534092",
+    "created_at": "2022-09-27T21:10:52.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "Imagina quando ela descobrir que existe deepfake",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1457486675450400779"
+  },
+  {
+    "conversation_id": "1574791307481997322",
+    "id": "1574868168283246593",
+    "created_at": "2022-09-27T21:06:45.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "@wonycuos @so___ohn ‘ e pq vc dps de tanto tempo qr se meter em assunto morto? ainda mais com a pessoa errada pq eu nunca fiz deepfake seu mal mencionei seu nome… ‘ oq vc qr mais? eu mal lembrava de vc, se qr tira satisfação com qm fez isso tudo com vc n eh cmg q vai faze isso",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "wonycuos",
+          "id": "1574525203547316232"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "username": "so___ohn",
+          "id": "1407888168377016323"
+        }
+      ]
+    },
+    "author_id": "1494030877038452736"
+  },
+  {
+    "conversation_id": "1574866995538960390",
+    "id": "1574866995538960390",
+    "created_at": "2022-09-27T21:02:06.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 202,
+          "end": 225,
+          "url": "https://t.co/jROFhGZqNX",
+          "expanded_url": "https://uol.page.link/vZ8MG",
+          "display_url": "uol.page.link/vZ8MG",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_campaign=noticias&utm_content=geral"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 182,
+          "end": 191,
+          "username": "Comprova",
+          "id": "1009046609424941056"
+        }
+      ]
+    },
+    "text": "🧐 Você sabe o que é e como identificar um deepfake?\n\n👀 Eleitores devem ficar atentos a vídeos realistas, mas falsos, que 'copiam' vozes e rostos usando inteligência artificial.\n\n👉 O @Comprova explica: \nhttps://t.co/jROFhGZqNX",
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 3,
+      "like_count": 20,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      }
+    ],
+    "author_id": "1233026312190808064"
+  },
+  {
+    "conversation_id": "1574866366326251541",
+    "id": "1574866366326251541",
+    "created_at": "2022-09-27T20:59:35.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "48992982"
+  },
+  {
+    "conversation_id": "1574791307481997322",
+    "id": "1574866186935869455",
+    "created_at": "2022-09-27T20:58:53.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "@wonycuos @so___ohn e pq vc dps de tanto tempo qr se meter em assunto morto? ainda mais com a pessoa errada pq eu nunca fiz deepfake seu, mal mencionei seu nome, so usei ft sua UMA vez e por ENGANO",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "wonycuos",
+          "id": "1574525203547316232"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "username": "so___ohn",
+          "id": "1407888168377016323"
+        }
+      ]
+    },
+    "author_id": "1494030877038452736"
+  },
+  {
+    "conversation_id": "1574817181023571984",
+    "id": "1574865125282123777",
+    "created_at": "2022-09-27T20:54:40.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "text": "@brunnosarttori O Brasil não seria o mesmo sem você. Ontem apresentei um trabalho sobre deepfake na música, e usei 2 dos teus vídeos. 😉",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 18,
+          "end": 23,
+          "probability": 0.9812,
+          "type": "Place",
+          "normalized_text": "Brasil"
+        }
+      ]
+    },
+    "author_id": "1426368408669540356"
+  },
+  {
+    "conversation_id": "1574864514901839874",
+    "id": "1574864514901839874",
+    "created_at": "2022-09-27T20:52:14.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/Uc42xrmvyq",
+          "expanded_url": "https://zpr.io/M3X8paeeEpWg",
+          "display_url": "zpr.io/M3X8paeeEpWg",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=uol"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 7,
+          "username": "UOL",
+          "id": "70799317"
+        }
+      ]
+    },
+    "text": "RT @UOL: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/Uc42xrmvyq",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1155928725164195841",
+          "name": "UOL"
+        }
+      }
+    ],
+    "author_id": "873267541937971200"
+  },
+  {
+    "conversation_id": "1574861878425255937",
+    "id": "1574861878425255937",
+    "created_at": "2022-09-27T20:41:45.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1410735201270079492"
+  },
+  {
+    "conversation_id": "1574861572085784579",
+    "id": "1574861572085784579",
+    "created_at": "2022-09-27T20:40:32.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1506406428373831687"
+  },
+  {
+    "conversation_id": "1574861385439256580",
+    "id": "1574861385439256580",
+    "created_at": "2022-09-27T20:39:48.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1243684783085047810"
+  },
+  {
+    "conversation_id": "1574860984358936590",
+    "id": "1574860984358936590",
+    "created_at": "2022-09-27T20:38:12.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1551079007516516354"
+  },
+  {
+    "conversation_id": "1574860693374902319",
+    "id": "1574860693374902319",
+    "created_at": "2022-09-27T20:37:03.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1435232766992568323"
+  },
+  {
+    "conversation_id": "1574860417955991560",
+    "id": "1574860417955991560",
+    "created_at": "2022-09-27T20:35:57.000Z",
+    "source": "TW Blue",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "203973686"
+  },
+  {
+    "conversation_id": "1574860115592749056",
+    "id": "1574860115592749056",
+    "created_at": "2022-09-27T20:34:45.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1443556172259332096"
+  },
+  {
+    "conversation_id": "1574858898380623885",
+    "id": "1574858898380623885",
+    "created_at": "2022-09-27T20:29:55.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "57154780"
+  },
+  {
+    "conversation_id": "1574858461283815438",
+    "id": "1574858461283815438",
+    "created_at": "2022-09-27T20:28:11.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1527707517840945152"
+  },
+  {
+    "conversation_id": "1574858328152412173",
+    "id": "1574858328152412173",
+    "created_at": "2022-09-27T20:27:39.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/Uc42xrmvyq",
+          "expanded_url": "https://zpr.io/M3X8paeeEpWg",
+          "display_url": "zpr.io/M3X8paeeEpWg",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=uol"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 7,
+          "username": "UOL",
+          "id": "70799317"
+        }
+      ]
+    },
+    "text": "RT @UOL: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/Uc42xrmvyq",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1155928725164195841",
+          "name": "UOL"
+        }
+      }
+    ],
+    "author_id": "66399789"
+  },
+  {
+    "conversation_id": "1574858071121268780",
+    "id": "1574858071121268780",
+    "created_at": "2022-09-27T20:26:38.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "867229682655211521"
+  },
+  {
+    "conversation_id": "1574791307481997322",
+    "id": "1574857470694006784",
+    "created_at": "2022-09-27T20:24:15.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "text": "@wonycuos @rinikies ue mas eu to falando a verdade kkkkk me mostra print de eu flnd q vo faze deepfake seu ou de eu mostrando o deepfake q eu fiz de vc",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "wonycuos",
+          "id": "1574525203547316232"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "username": "rinikies",
+          "id": "1528562955587043330"
+        }
+      ]
+    },
+    "author_id": "1494030877038452736"
+  },
+  {
+    "conversation_id": "1574857392231223313",
+    "id": "1574857392231223313",
+    "created_at": "2022-09-27T20:23:56.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "49866913"
+  },
+  {
+    "conversation_id": "1574857225755103234",
+    "id": "1574857225755103234",
+    "created_at": "2022-09-27T20:23:16.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "109630213"
+  },
+  {
+    "conversation_id": "1574857111527428099",
+    "id": "1574857111527428099",
+    "created_at": "2022-09-27T20:22:49.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1530466675933552640"
+  },
+  {
+    "conversation_id": "1574857089910018048",
+    "id": "1574857089910018048",
+    "created_at": "2022-09-27T20:22:44.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/Uc42xrmvyq",
+          "expanded_url": "https://zpr.io/M3X8paeeEpWg",
+          "display_url": "zpr.io/M3X8paeeEpWg",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=uol"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 7,
+          "username": "UOL",
+          "id": "70799317"
+        }
+      ]
+    },
+    "text": "RT @UOL: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/Uc42xrmvyq",
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1155928725164195841",
+          "name": "UOL"
+        }
+      }
+    ],
+    "author_id": "1530466675933552640"
+  },
+  {
+    "conversation_id": "1574857085124284428",
+    "id": "1574857085124284428",
+    "created_at": "2022-09-27T20:22:43.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/lIvt9Qb3vW",
+          "expanded_url": "https://zpr.io/3zUi3tVeuqbk",
+          "display_url": "zpr.io/3zUi3tVeuqbk",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=orig",
+              "width": 615,
+              "height": 300
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1574856623113310213/vJ6cHXg2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar",
+          "description": "Usada inicialmente para a produção de vídeos humorísticos, a técnica conhecida como deepfa...",
+          "unwound_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/09/27/saiba-o-que-e-deepfake-tecnica-de-ia-que-foi-apropriada-para-desinformar.htm?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "UOLNoticias",
+          "id": "14594698"
+        }
+      ]
+    },
+    "text": "RT @UOLNoticias: Saiba o que é deepfake, técnica de IA que foi apropriada para desinformar https://t.co/lIvt9Qb3vW",
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "42271371"
+  }
+]

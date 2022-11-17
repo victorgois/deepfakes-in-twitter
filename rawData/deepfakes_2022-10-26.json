@@ -1,0 +1,3338 @@
+[
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "2999560239",
+    "conversation_id": "1585279849446494210",
+    "edit_history_tweet_ids": [
+      "1585279849446494210"
+    ],
+    "created_at": "2022-10-26T14:39:03.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585279849446494210",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 30,
+          "end": 40,
+          "tag": "Travessia"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 31,
+          "end": 39,
+          "probability": 0.6729,
+          "type": "Other",
+          "normalized_text": "Travessia"
+        },
+        {
+          "start": 103,
+          "end": 110,
+          "probability": 0.4942,
+          "type": "Organization",
+          "normalized_text": "deepfake"
+        },
+        {
+          "start": 113,
+          "end": 121,
+          "probability": 0.337,
+          "type": "Other",
+          "normalized_text": "metaverso"
+        },
+        {
+          "start": 124,
+          "end": 130,
+          "probability": 0.3381,
+          "type": "Other",
+          "normalized_text": "hackers"
+        }
+      ]
+    },
+    "author_id": "1373518155696517120",
+    "conversation_id": "1585279741459931137",
+    "edit_history_tweet_ids": [
+      "1585279741459931137"
+    ],
+    "created_at": "2022-10-26T14:38:38.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "1577588852805361664",
+          "name": "Travessia",
+          "description": "Ari é um arquiteto maranhense que se dedica à defesa de patrimônios históricos. Ele e Brisa, seu amor de infância, têm seus destinos desencontrados quando ele vai investigar uma construtora, e ela é confundida com uma sequestradora de crianças."
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "900740740468191232",
+          "name": "Political issues",
+          "description": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide",
+          "description": "Information Privacy"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1098601487213576192",
+          "name": "Soap operas",
+          "description": "Soap Operas"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1427745203700469767",
+          "name": "Metaverse"
+        }
+      },
+      {
+        "domain": {
+          "id": "165",
+          "name": "Technology",
+          "description": "for individual and types of technology, e.g., food technology, 3D printing"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      }
+    ],
+    "id": "1585279741459931137",
+    "text": "Acho que o problema maior com #Travessia é que uma novela que se propõe a falar de algo tão atual como deepfake, metaverso, hackers e essas coisas se perde em detalhes tão simples de resolver hoje em dia +"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1490688847520403459",
+    "conversation_id": "1585279675412189195",
+    "edit_history_tweet_ids": [
+      "1585279675412189195"
+    ],
+    "created_at": "2022-10-26T14:38:22.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585279675412189195",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1241829406789767168",
+    "conversation_id": "1585277198591737856",
+    "edit_history_tweet_ids": [
+      "1585277198591737856"
+    ],
+    "created_at": "2022-10-26T14:28:31.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585277198591737856",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1076181931",
+    "conversation_id": "1585277196536520707",
+    "edit_history_tweet_ids": [
+      "1585277196536520707"
+    ],
+    "created_at": "2022-10-26T14:28:31.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585277196536520707",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "842005867285356544",
+    "conversation_id": "1585277183894888448",
+    "edit_history_tweet_ids": [
+      "1585277183894888448"
+    ],
+    "created_at": "2022-10-26T14:28:28.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585277183894888448",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1491899198811385860",
+    "conversation_id": "1585277044811776001",
+    "edit_history_tweet_ids": [
+      "1585277044811776001"
+    ],
+    "created_at": "2022-10-26T14:27:55.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "entities": {
+      "annotations": [
+        {
+          "start": 135,
+          "end": 138,
+          "probability": 0.4419,
+          "type": "Other",
+          "normalized_text": "jorn"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InfosRomuloE",
+          "id": "963191048716587009"
+        }
+      ]
+    },
+    "id": "1585277044811776001",
+    "text": "RT @InfosRomuloE: Obs: Não tem como Oto já saber sobre a deepfake da Brisa se ele não viu a montagem ainda. Ele só viu o noticiário do jorn…"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "4867663163",
+    "conversation_id": "1585276995461595139",
+    "edit_history_tweet_ids": [
+      "1585276995461595139"
+    ],
+    "created_at": "2022-10-26T14:27:43.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585276995461595139",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1559215015005143042",
+    "conversation_id": "1585276229833428995",
+    "edit_history_tweet_ids": [
+      "1585276229833428995"
+    ],
+    "created_at": "2022-10-26T14:24:40.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585276229833428995",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1121154839881367552",
+    "conversation_id": "1585276044075999232",
+    "edit_history_tweet_ids": [
+      "1585276044075999232"
+    ],
+    "created_at": "2022-10-26T14:23:56.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "entities": {
+      "annotations": [
+        {
+          "start": 135,
+          "end": 138,
+          "probability": 0.4419,
+          "type": "Other",
+          "normalized_text": "jorn"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InfosRomuloE",
+          "id": "963191048716587009"
+        }
+      ]
+    },
+    "id": "1585276044075999232",
+    "text": "RT @InfosRomuloE: Obs: Não tem como Oto já saber sobre a deepfake da Brisa se ele não viu a montagem ainda. Ele só viu o noticiário do jorn…"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "31207952",
+    "conversation_id": "1585275991391354880",
+    "edit_history_tweet_ids": [
+      "1585275991391354880"
+    ],
+    "created_at": "2022-10-26T14:23:44.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585275991391354880",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "928745936",
+    "conversation_id": "1585274975321292801",
+    "edit_history_tweet_ids": [
+      "1585274975321292801"
+    ],
+    "created_at": "2022-10-26T14:19:41.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585274975321292801",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "473854278",
+    "conversation_id": "1585274949673033728",
+    "edit_history_tweet_ids": [
+      "1585274949673033728"
+    ],
+    "created_at": "2022-10-26T14:19:35.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585274949673033728",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1582921251265576962",
+    "conversation_id": "1585274715744116739",
+    "edit_history_tweet_ids": [
+      "1585274715744116739"
+    ],
+    "created_at": "2022-10-26T14:18:39.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585274715744116739",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1244413803934158848",
+    "conversation_id": "1585274356170620929",
+    "edit_history_tweet_ids": [
+      "1585274356170620929"
+    ],
+    "created_at": "2022-10-26T14:17:14.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585274356170620929",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1416219394544386049",
+    "conversation_id": "1585274115530842113",
+    "edit_history_tweet_ids": [
+      "1585274115530842113"
+    ],
+    "created_at": "2022-10-26T14:16:16.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585274115530842113",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1574558064816136194",
+    "conversation_id": "1585272723013517318",
+    "edit_history_tweet_ids": [
+      "1585272723013517318"
+    ],
+    "created_at": "2022-10-26T14:10:44.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585272723013517318",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1275719870",
+    "conversation_id": "1585271768050171904",
+    "edit_history_tweet_ids": [
+      "1585271768050171904"
+    ],
+    "created_at": "2022-10-26T14:06:57.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585271768050171904",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1015356282121916416",
+    "conversation_id": "1585270799501508610",
+    "edit_history_tweet_ids": [
+      "1585270799501508610"
+    ],
+    "created_at": "2022-10-26T14:03:06.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "entities": {
+      "annotations": [
+        {
+          "start": 135,
+          "end": 138,
+          "probability": 0.4419,
+          "type": "Other",
+          "normalized_text": "jorn"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InfosRomuloE",
+          "id": "963191048716587009"
+        }
+      ]
+    },
+    "id": "1585270799501508610",
+    "text": "RT @InfosRomuloE: Obs: Não tem como Oto já saber sobre a deepfake da Brisa se ele não viu a montagem ainda. Ele só viu o noticiário do jorn…"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "72149174",
+    "conversation_id": "1585270236244332545",
+    "edit_history_tweet_ids": [
+      "1585270236244332545"
+    ],
+    "created_at": "2022-10-26T14:00:51.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585270236244332545",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1579300623039844352",
+    "conversation_id": "1585269034693660672",
+    "edit_history_tweet_ids": [
+      "1585269034693660672"
+    ],
+    "created_at": "2022-10-26T13:56:05.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585269034693660672",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1584709871991242752",
+    "conversation_id": "1585268378796785665",
+    "edit_history_tweet_ids": [
+      "1585268378796785665"
+    ],
+    "created_at": "2022-10-26T13:53:29.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585268378796785665",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "59967271",
+    "conversation_id": "1585268256163729410",
+    "edit_history_tweet_ids": [
+      "1585268256163729410"
+    ],
+    "created_at": "2022-10-26T13:52:59.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585268256163729410",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1442607235",
+    "conversation_id": "1585268086185271298",
+    "edit_history_tweet_ids": [
+      "1585268086185271298"
+    ],
+    "created_at": "2022-10-26T13:52:19.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585268086185271298",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1354197213476433922",
+    "conversation_id": "1585267924511735809",
+    "edit_history_tweet_ids": [
+      "1585267924511735809"
+    ],
+    "created_at": "2022-10-26T13:51:40.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585267924511735809",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1473371386223775753",
+    "conversation_id": "1585267288168595457",
+    "edit_history_tweet_ids": [
+      "1585267288168595457"
+    ],
+    "created_at": "2022-10-26T13:49:08.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585267288168595457",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1470563606370598916",
+    "conversation_id": "1585266404919595010",
+    "edit_history_tweet_ids": [
+      "1585266404919595010"
+    ],
+    "created_at": "2022-10-26T13:45:38.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585266404919595010",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1403148953202331652",
+    "conversation_id": "1585264897541152774",
+    "edit_history_tweet_ids": [
+      "1585264897541152774"
+    ],
+    "created_at": "2022-10-26T13:39:39.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585264897541152774",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "826436082",
+    "conversation_id": "1585264002061443072",
+    "edit_history_tweet_ids": [
+      "1585264002061443072"
+    ],
+    "created_at": "2022-10-26T13:36:05.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585264002061443072",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "755466925241663489",
+    "conversation_id": "1585263444256751618",
+    "edit_history_tweet_ids": [
+      "1585263444256751618"
+    ],
+    "created_at": "2022-10-26T13:33:52.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585263444256751618",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1263490153240301571",
+    "conversation_id": "1585263191067607041",
+    "edit_history_tweet_ids": [
+      "1585263191067607041"
+    ],
+    "created_at": "2022-10-26T13:32:52.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585263191067607041",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1511719071557033990",
+    "conversation_id": "1585262037093040128",
+    "edit_history_tweet_ids": [
+      "1585262037093040128"
+    ],
+    "created_at": "2022-10-26T13:28:17.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585262037093040128",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1178518164830932992",
+    "conversation_id": "1585261940049428480",
+    "edit_history_tweet_ids": [
+      "1585261940049428480"
+    ],
+    "created_at": "2022-10-26T13:27:53.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585261940049428480",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 51,
+          "end": 60,
+          "tag": "DEEPFAKE"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 52,
+          "end": 59,
+          "probability": 0.7353,
+          "type": "Other",
+          "normalized_text": "DEEPFAKE"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "hipatiared",
+          "id": "1439539111266865156"
+        },
+        {
+          "start": 12,
+          "end": 28,
+          "username": "AndreJanonesAdv",
+          "id": "1198004545"
+        },
+        {
+          "start": 29,
+          "end": 45,
+          "username": "CarlosBolsonaro",
+          "id": "68712576"
+        }
+      ]
+    },
+    "author_id": "62970040",
+    "conversation_id": "1584618470204768256",
+    "edit_history_tweet_ids": [
+      "1585261461185732609"
+    ],
+    "created_at": "2022-10-26T13:25:59.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "958819372784541696",
+          "name": "Carlos Bolsonaro",
+          "description": "Carlos Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "958819372784541696",
+          "name": "Carlos Bolsonaro",
+          "description": "Carlos Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "958819372784541696",
+          "name": "Carlos Bolsonaro",
+          "description": "Carlos Bolsonaro"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1352353205691183104",
+          "name": "Andre Janones"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "id": "1585261461185732609",
+    "text": "@hipatiared @AndreJanonesAdv @CarlosBolsonaro Essa #DEEPFAKE tá malfeita gente, a fala não sincronizada com a boca. Melhora aí!!"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "366638875",
+    "conversation_id": "1585261041012940800",
+    "edit_history_tweet_ids": [
+      "1585261041012940800"
+    ],
+    "created_at": "2022-10-26T13:24:19.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585261041012940800",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "4799044547",
+    "conversation_id": "1585260739904040960",
+    "edit_history_tweet_ids": [
+      "1585260739904040960"
+    ],
+    "created_at": "2022-10-26T13:23:07.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585260739904040960",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "56452419",
+    "conversation_id": "1585260322645909504",
+    "edit_history_tweet_ids": [
+      "1585260322645909504"
+    ],
+    "created_at": "2022-10-26T13:21:28.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585260322645909504",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1058510955053809664",
+    "conversation_id": "1585260012548501505",
+    "edit_history_tweet_ids": [
+      "1585260012548501505"
+    ],
+    "created_at": "2022-10-26T13:20:14.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585260012548501505",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1298017383324344321",
+    "conversation_id": "1585258954254610432",
+    "edit_history_tweet_ids": [
+      "1585258954254610432"
+    ],
+    "created_at": "2022-10-26T13:16:02.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585258954254610432",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "14372459",
+    "conversation_id": "1585258386077396992",
+    "edit_history_tweet_ids": [
+      "1585258386077396992"
+    ],
+    "created_at": "2022-10-26T13:13:46.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585258386077396992",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1317232219174338565",
+    "conversation_id": "1585257981041836033",
+    "edit_history_tweet_ids": [
+      "1585257981041836033"
+    ],
+    "created_at": "2022-10-26T13:12:10.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585257981041836033",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1221097075561111555",
+    "conversation_id": "1585257913731280896",
+    "edit_history_tweet_ids": [
+      "1585257913731280896"
+    ],
+    "created_at": "2022-10-26T13:11:53.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585257913731280896",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "188032937",
+    "conversation_id": "1585257788980092933",
+    "edit_history_tweet_ids": [
+      "1585257788980092933"
+    ],
+    "created_at": "2022-10-26T13:11:24.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585257788980092933",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 59,
+          "end": 69,
+          "tag": "travessia"
+        }
+      ]
+    },
+    "author_id": "565040351",
+    "conversation_id": "1585257477981241344",
+    "edit_history_tweet_ids": [
+      "1585257477981241344"
+    ],
+    "created_at": "2022-10-26T13:10:10.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "1577588852805361664",
+          "name": "Travessia",
+          "description": "Ari é um arquiteto maranhense que se dedica à defesa de patrimônios históricos. Ele e Brisa, seu amor de infância, têm seus destinos desencontrados quando ele vai investigar uma construtora, e ela é confundida com uma sequestradora de crianças."
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1072937043393560576",
+          "name": "Television",
+          "description": "Television"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1098601487213576192",
+          "name": "Soap operas",
+          "description": "Soap Operas"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "id": "1585257477981241344",
+    "text": "morrendo que deepfake do rudá viralizou em menos de um dia #travessia"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1276551870572617728",
+    "conversation_id": "1585256642492653568",
+    "edit_history_tweet_ids": [
+      "1585256642492653568"
+    ],
+    "created_at": "2022-10-26T13:06:50.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585256642492653568",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "768029286",
+    "conversation_id": "1585256052525699072",
+    "edit_history_tweet_ids": [
+      "1585256052525699072"
+    ],
+    "created_at": "2022-10-26T13:04:30.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585256052525699072",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1260678847508480000",
+    "conversation_id": "1585254511010254848",
+    "edit_history_tweet_ids": [
+      "1585254511010254848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 40,
+          "end": 63,
+          "url": "https://t.co/u4aKkf5X3N",
+          "expanded_url": "https://twitter.com/TNTSportsBR/status/1584192068666068997",
+          "display_url": "twitter.com/TNTSportsBR/st…"
+        }
+      ]
+    },
+    "created_at": "2022-10-26T12:58:22.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585254511010254848",
+    "text": "Eu pensei que era filtro do deepfake 🤡💀 https://t.co/u4aKkf5X3N"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "45945618",
+    "conversation_id": "1585254291542970369",
+    "edit_history_tweet_ids": [
+      "1585254291542970369"
+    ],
+    "created_at": "2022-10-26T12:57:30.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585254291542970369",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1557084012723814403",
+    "conversation_id": "1585254272928985088",
+    "edit_history_tweet_ids": [
+      "1585254272928985088"
+    ],
+    "created_at": "2022-10-26T12:57:25.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585254272928985088",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1282296873311768578",
+    "conversation_id": "1585252619588894722",
+    "edit_history_tweet_ids": [
+      "1585252619588894722"
+    ],
+    "created_at": "2022-10-26T12:50:51.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585252619588894722",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1492223080441253889",
+    "conversation_id": "1585252306349498368",
+    "edit_history_tweet_ids": [
+      "1585252306349498368"
+    ],
+    "created_at": "2022-10-26T12:49:37.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585252306349498368",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "301226997",
+    "conversation_id": "1585042102831833088",
+    "edit_history_tweet_ids": [
+      "1585251984336392192"
+    ],
+    "created_at": "2022-10-26T12:48:20.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585251984336392192",
+    "text": "@FrancaRosalva @lazarorosa25 Cara.. não é possível.. deve ser uma deepfake. É muita vergonha alheia.",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "FrancaRosalva",
+          "id": "1491084685304377344"
+        },
+        {
+          "start": 15,
+          "end": 28,
+          "username": "lazarorosa25",
+          "id": "545643493"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1567118060514852865",
+    "conversation_id": "1585251841688096768",
+    "edit_history_tweet_ids": [
+      "1585251841688096768"
+    ],
+    "created_at": "2022-10-26T12:47:46.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585251841688096768",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1580613454305628163",
+    "conversation_id": "1585251347699728384",
+    "edit_history_tweet_ids": [
+      "1585251347699728384"
+    ],
+    "created_at": "2022-10-26T12:45:48.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585251347699728384",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 10,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1274809772706013190",
+    "conversation_id": "1585250288734466048",
+    "edit_history_tweet_ids": [
+      "1585250288734466048"
+    ],
+    "created_at": "2022-10-26T12:41:36.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585250288734466048",
+    "text": "RT @InfosRomuloE: Obs: Não tem como Oto já saber sobre a deepfake da Brisa se ele não viu a montagem ainda. Ele só viu o noticiário do jorn…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InfosRomuloE",
+          "id": "963191048716587009"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1274809772706013190",
+    "conversation_id": "1585250278713892867",
+    "edit_history_tweet_ids": [
+      "1585250278713892867"
+    ],
+    "created_at": "2022-10-26T12:41:33.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585250278713892867",
+    "text": "RT @InfosRomuloE: E vamos combinar, há várias formas pelas quais uma pessoa pode ser confundida com outra, não só por uma deepfake. Não tem…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InfosRomuloE",
+          "id": "963191048716587009"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "74971993",
+    "conversation_id": "1585250170740305921",
+    "edit_history_tweet_ids": [
+      "1585250170740305921"
+    ],
+    "created_at": "2022-10-26T12:41:07.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585250170740305921",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1566866892601659393",
+    "conversation_id": "1585249868091518976",
+    "edit_history_tweet_ids": [
+      "1585249868091518976"
+    ],
+    "created_at": "2022-10-26T12:39:55.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585249868091518976",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1215722183001022464",
+    "conversation_id": "1585249625908580353",
+    "edit_history_tweet_ids": [
+      "1585249625908580353"
+    ],
+    "created_at": "2022-10-26T12:38:57.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585249625908580353",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "2836377093",
+    "conversation_id": "1585249238115811335",
+    "edit_history_tweet_ids": [
+      "1585249238115811335"
+    ],
+    "created_at": "2022-10-26T12:37:25.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585249238115811335",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1351321259934674945",
+    "conversation_id": "1585248965507059713",
+    "edit_history_tweet_ids": [
+      "1585248965507059713"
+    ],
+    "created_at": "2022-10-26T12:36:20.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585248965507059713",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1577657153187418114",
+    "conversation_id": "1585248743028273152",
+    "edit_history_tweet_ids": [
+      "1585248743028273152"
+    ],
+    "created_at": "2022-10-26T12:35:27.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585248743028273152",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1338663557962018823",
+    "conversation_id": "1585248741128212481",
+    "edit_history_tweet_ids": [
+      "1585248741128212481"
+    ],
+    "created_at": "2022-10-26T12:35:27.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585248741128212481",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1558269868423659520",
+    "conversation_id": "1585248512668622848",
+    "edit_history_tweet_ids": [
+      "1585248512668622848"
+    ],
+    "created_at": "2022-10-26T12:34:32.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585248512668622848",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1557377063639711747",
+    "conversation_id": "1585248484071981056",
+    "edit_history_tweet_ids": [
+      "1585248484071981056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/U6xLZUjsrd",
+          "expanded_url": "https://ift.tt/SuyhGEa",
+          "display_url": "ift.tt/SuyhGEa",
+          "status": 500,
+          "unwound_url": "https://todasasnoticias.com.br/deepfake-5-dicas-para-identificar-videos-falsos-na-internet/"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 7,
+          "probability": 0.6873,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        },
+        {
+          "start": 182,
+          "end": 189,
+          "probability": 0.5472,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        },
+        {
+          "start": 244,
+          "end": 253,
+          "probability": 0.5308,
+          "type": "Other",
+          "normalized_text": "Shuttersto"
+        }
+      ]
+    },
+    "created_at": "2022-10-26T12:34:25.000Z",
+    "source": "IFTTT",
+    "lang": "pt",
+    "id": "1585248484071981056",
+    "text": "Deepfake: 5 dicas para identificar vídeos falsos na internet\n\nPerito em crimes digitais explica como reforçar o senso crítico pode ajudar a identificar conteúdos descontextualizados Deepfake dissemina conteúdos falsos nas redes sociais Imagem: Shuttersto… https://t.co/U6xLZUjsrd"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1580889412505944066",
+    "conversation_id": "1585248279478276096",
+    "edit_history_tweet_ids": [
+      "1585248279478276096"
+    ],
+    "created_at": "2022-10-26T12:33:36.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585248279478276096",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1560045101900091393",
+    "conversation_id": "1585247764589355008",
+    "edit_history_tweet_ids": [
+      "1585247764589355008"
+    ],
+    "created_at": "2022-10-26T12:31:34.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585247764589355008",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1285258852267630594",
+    "conversation_id": "1585247686793768961",
+    "edit_history_tweet_ids": [
+      "1585247686793768961"
+    ],
+    "created_at": "2022-10-26T12:31:15.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585247686793768961",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "728407505345368068",
+    "conversation_id": "1585247582921818113",
+    "edit_history_tweet_ids": [
+      "1585247582921818113"
+    ],
+    "created_at": "2022-10-26T12:30:50.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585247582921818113",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "3608298435",
+    "conversation_id": "1585247314037571587",
+    "edit_history_tweet_ids": [
+      "1585247314037571587"
+    ],
+    "created_at": "2022-10-26T12:29:46.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585247314037571587",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "963552703229120512",
+    "conversation_id": "1585246957424979968",
+    "edit_history_tweet_ids": [
+      "1585246957424979968"
+    ],
+    "created_at": "2022-10-26T12:28:21.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585246957424979968",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "2203767212",
+    "conversation_id": "1585246440309129216",
+    "edit_history_tweet_ids": [
+      "1585246440309129216"
+    ],
+    "created_at": "2022-10-26T12:26:18.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585246440309129216",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "269010316",
+    "conversation_id": "1585245584717332480",
+    "edit_history_tweet_ids": [
+      "1585245584717332480"
+    ],
+    "created_at": "2022-10-26T12:22:54.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585245584717332480",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "467524883",
+    "conversation_id": "1585244902342152193",
+    "edit_history_tweet_ids": [
+      "1585244902342152193"
+    ],
+    "created_at": "2022-10-26T12:20:11.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585244902342152193",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "747733974",
+    "conversation_id": "1585244902283128832",
+    "edit_history_tweet_ids": [
+      "1585244902283128832"
+    ],
+    "created_at": "2022-10-26T12:20:11.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585244902283128832",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1127321088847941632",
+    "conversation_id": "1585244518924029954",
+    "edit_history_tweet_ids": [
+      "1585244518924029954"
+    ],
+    "created_at": "2022-10-26T12:18:40.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585244518924029954",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1524202198904750080",
+    "conversation_id": "1585243837425156098",
+    "edit_history_tweet_ids": [
+      "1585243837425156098"
+    ],
+    "created_at": "2022-10-26T12:15:57.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585243837425156098",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1256926472280985600",
+    "conversation_id": "1585243515893620736",
+    "edit_history_tweet_ids": [
+      "1585243515893620736"
+    ],
+    "created_at": "2022-10-26T12:14:41.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585243515893620736",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "379143776",
+    "conversation_id": "1585243330513772549",
+    "edit_history_tweet_ids": [
+      "1585243330513772549"
+    ],
+    "created_at": "2022-10-26T12:13:57.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585243330513772549",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "36461415",
+    "conversation_id": "1585241532273082368",
+    "edit_history_tweet_ids": [
+      "1585241532273082368"
+    ],
+    "created_at": "2022-10-26T12:06:48.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "pt",
+    "id": "1585241532273082368",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "107246996",
+    "conversation_id": "1585241403348631552",
+    "edit_history_tweet_ids": [
+      "1585241403348631552"
+    ],
+    "created_at": "2022-10-26T12:06:17.000Z",
+    "source": "TweetDeck",
+    "lang": "pt",
+    "id": "1585241403348631552",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "88168043",
+    "conversation_id": "1585241235240808448",
+    "edit_history_tweet_ids": [
+      "1585241235240808448"
+    ],
+    "created_at": "2022-10-26T12:05:37.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585241235240808448",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1432681690619580422",
+    "conversation_id": "1585240533085327361",
+    "edit_history_tweet_ids": [
+      "1585240533085327361"
+    ],
+    "created_at": "2022-10-26T12:02:50.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585240533085327361",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1552061271922589698",
+    "conversation_id": "1585240504140062720",
+    "edit_history_tweet_ids": [
+      "1585240504140062720"
+    ],
+    "created_at": "2022-10-26T12:02:43.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585240504140062720",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1116792765520785414",
+    "conversation_id": "1585240336393465858",
+    "edit_history_tweet_ids": [
+      "1585240336393465858"
+    ],
+    "created_at": "2022-10-26T12:02:03.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585240336393465858",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1128068846101856256",
+    "conversation_id": "1585240306823270401",
+    "edit_history_tweet_ids": [
+      "1585240306823270401"
+    ],
+    "created_at": "2022-10-26T12:01:56.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585240306823270401",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1562511851451449346",
+    "conversation_id": "1585239662800834563",
+    "edit_history_tweet_ids": [
+      "1585239662800834563"
+    ],
+    "created_at": "2022-10-26T11:59:22.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585239662800834563",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "41292330",
+    "conversation_id": "1585239634149519360",
+    "edit_history_tweet_ids": [
+      "1585239634149519360"
+    ],
+    "created_at": "2022-10-26T11:59:15.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585239634149519360",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1117243426611843072",
+    "conversation_id": "1585239586514808833",
+    "edit_history_tweet_ids": [
+      "1585239586514808833"
+    ],
+    "created_at": "2022-10-26T11:59:04.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585239586514808833",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1583450744547581953",
+    "conversation_id": "1585239492130385921",
+    "edit_history_tweet_ids": [
+      "1585239492130385921"
+    ],
+    "created_at": "2022-10-26T11:58:41.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585239492130385921",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1507051236654305291",
+    "conversation_id": "1585238789236326401",
+    "edit_history_tweet_ids": [
+      "1585238789236326401"
+    ],
+    "created_at": "2022-10-26T11:55:54.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585238789236326401",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "891353440139579392",
+    "conversation_id": "1585238764083089408",
+    "edit_history_tweet_ids": [
+      "1585238764083089408"
+    ],
+    "created_at": "2022-10-26T11:55:48.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585238764083089408",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "3307721807",
+    "conversation_id": "1585238730780348416",
+    "edit_history_tweet_ids": [
+      "1585238730780348416"
+    ],
+    "created_at": "2022-10-26T11:55:40.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585238730780348416",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1507387588247756845",
+    "conversation_id": "1585238704221999104",
+    "edit_history_tweet_ids": [
+      "1585238704221999104"
+    ],
+    "created_at": "2022-10-26T11:55:34.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585238704221999104",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "1071408436531904512",
+    "conversation_id": "1585238652128759808",
+    "edit_history_tweet_ids": [
+      "1585238652128759808"
+    ],
+    "created_at": "2022-10-26T11:55:21.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585238652128759808",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "79000579",
+    "conversation_id": "1585237062986649600",
+    "edit_history_tweet_ids": [
+      "1585237062986649600"
+    ],
+    "created_at": "2022-10-26T11:49:02.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585237062986649600",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "author_id": "14586536",
+    "conversation_id": "1585236453381922816",
+    "edit_history_tweet_ids": [
+      "1585236453381922816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 75,
+          "end": 98,
+          "url": "https://t.co/GZYtdRIlIU",
+          "expanded_url": "https://twitter.com/andremarianors/status/1584977338693222400",
+          "display_url": "twitter.com/andremarianors…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 54,
+          "end": 61,
+          "probability": 0.6166,
+          "type": "Other",
+          "normalized_text": "Deepfake"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 36,
+          "end": 51,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "created_at": "2022-10-26T11:46:37.000Z",
+    "source": "Twitter Web App",
+    "lang": "pt",
+    "id": "1585236453381922816",
+    "text": "Eu tenho certeza que isso é obra do @brunnosarttori \n\nDeepfake na certa. 😱 https://t.co/GZYtdRIlIU"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "2345523809",
+    "conversation_id": "1585235841752104964",
+    "edit_history_tweet_ids": [
+      "1585235841752104964"
+    ],
+    "created_at": "2022-10-26T11:44:11.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585235841752104964",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "3814565535",
+    "conversation_id": "1585235229828337665",
+    "edit_history_tweet_ids": [
+      "1585235229828337665"
+    ],
+    "created_at": "2022-10-26T11:41:45.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585235229828337665",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 149,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "author_id": "176618654",
+    "conversation_id": "1585234023202566144",
+    "edit_history_tweet_ids": [
+      "1585234023202566144"
+    ],
+    "created_at": "2022-10-26T11:36:58.000Z",
+    "source": "Twitter for Android",
+    "lang": "pt",
+    "id": "1585234023202566144",
+    "text": "RT @AndradeRNegro2: Os disparos com as fake news se intensificam agora. No 1º turno, foi o tal satanista. O que virá desta vez deve ser alg…",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "AndradeRNegro2",
+          "id": "1176618139494342656"
+        }
+      ]
+    }
+  }
+]

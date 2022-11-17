@@ -1,0 +1,5983 @@
+[
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T17:10:18.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 10,
+          "probability": 0.9715,
+          "type": "Person",
+          "normalized_text": "Ben Shapiro"
+        }
+      ]
+    },
+    "conversation_id": "1550528675665399811",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1059665393688559617",
+          "name": "Ben Shapiro",
+          "description": "Ben Shapiro"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1550528675665399811",
+    "author_id": "1184172565251739649",
+    "text": "Ben Shapiro é todo duro, parece que ele tá permanentemente em um vídeo de deepfake",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T16:51:16.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ]
+    },
+    "conversation_id": "1550523886642647043",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550523886642647043",
+    "author_id": "1306274916300394496",
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T16:37:24.000Z",
+    "conversation_id": "1550520395584921600",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550520395584921600",
+    "author_id": "157738827",
+    "text": "RT @brunnosarttori: Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T15:58:17.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ]
+    },
+    "conversation_id": "1550510551092105216",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550510551092105216",
+    "author_id": "1219466769603158017",
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T15:31:32.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/zlWKfkKj7V",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1505182312048168962/video/1",
+          "display_url": "pic.twitter.com/zlWKfkKj7V",
+          "media_key": "7_1504920374626197511"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 17,
+          "end": 30,
+          "probability": 0.9712,
+          "type": "Person",
+          "normalized_text": "Olivia Rodrigo"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 35,
+          "end": 44,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1550503819083411456",
+    "attachments": {
+      "media_keys": [
+        "7_1504920374626197511"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 359,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550503819083411456",
+    "author_id": "1515199580581036032",
+    "text": "RT @FakeHubPorn: Olivia Rodrigo 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/zlWKfkKj7V",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T14:54:56.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ]
+    },
+    "conversation_id": "1550494608798261250",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550494608798261250",
+    "author_id": "1348143817841471492",
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T14:48:48.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ]
+    },
+    "conversation_id": "1550493068285059077",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550493068285059077",
+    "author_id": "1498700737509003268",
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T14:41:12.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ]
+    },
+    "conversation_id": "1550491154772160512",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550491154772160512",
+    "author_id": "1376336768014839808",
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T14:36:51.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.9945,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "noonegifaker",
+          "id": "1498718100702871556"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 49,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "tag": "exposed"
+        },
+        {
+          "start": 70,
+          "end": 80,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "tag": "fake"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "pornedit"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "porn"
+        }
+      ]
+    },
+    "conversation_id": "1550490059971133440",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550490059971133440",
+    "author_id": "1429814473729118210",
+    "text": "RT @noonegifaker: Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T14:30:48.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550488537744678913",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550488537744678913",
+    "author_id": "1306822688900513794",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T13:37:09.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550475034443104256",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550475034443104256",
+    "author_id": "1387586843818999818",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T13:20:00.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/YgSCf7d2Bw",
+          "expanded_url": "http://ow.ly/cESi50K26RH",
+          "display_url": "ow.ly/cESi50K26RH"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 11,
+          "probability": 0.9261,
+          "type": "Person",
+          "normalized_text": "Willem Dafoe"
+        },
+        {
+          "start": 30,
+          "end": 44,
+          "probability": 0.7628,
+          "type": "Person",
+          "normalized_text": "Hannibal Lecter"
+        },
+        {
+          "start": 64,
+          "end": 71,
+          "probability": 0.4507,
+          "type": "Person",
+          "normalized_text": "DeepFake"
+        }
+      ]
+    },
+    "conversation_id": "1550470719724732416",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10027337234",
+          "name": "Hannibal"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "946512444297379841",
+          "name": "Willem Dafoe",
+          "description": "Willem Dafoe"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "946512444297379841",
+          "name": "Willem Dafoe",
+          "description": "Willem Dafoe"
+        }
+      },
+      {
+        "domain": {
+          "id": "86",
+          "name": "Movie",
+          "description": "A film like Rogue One: A Star Wars Story"
+        },
+        "entity": {
+          "id": "1290721008836423680",
+          "name": "The Silence of the Lambs"
+        }
+      },
+      {
+        "domain": {
+          "id": "87",
+          "name": "Movie Genre",
+          "description": "A movie genre like Action"
+        },
+        "entity": {
+          "id": "856976955819794432",
+          "name": "Horror films",
+          "description": "Horror"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550470719724732416",
+    "author_id": "204912208",
+    "text": "Willem Dafoe se transforma em Hannibal Lecter em incrível vídeo DeepFake https://t.co/YgSCf7d2Bw",
+    "source": "Hootsuite Inc."
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T12:25:15.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 178,
+          "end": 193,
+          "probability": 0.9624,
+          "type": "Person",
+          "normalized_text": "Orlando Drummond"
+        },
+        {
+          "start": 196,
+          "end": 210,
+          "probability": 0.9839,
+          "type": "Person",
+          "normalized_text": "Mario Monjardim"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550284773477830659",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550456940718788608",
+    "author_id": "262264085",
+    "text": "@brunnosarttori Já estão usando deepfake para dublagem de filmes/séries? Além de aproximar a voz do dublador da voz original, poderíamos reviver vozes icônicas como dos saudosos Orlando Drummond, Mario Monjardim, entre outros. Que baita potencial também nessa área!",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T12:21:07.000Z",
+    "conversation_id": "1550452971871371264",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "glaudemias",
+          "id": "1261043162904178688"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "username": "ady_news",
+          "id": "135620278"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550455901525577730",
+    "author_id": "1308441900614025217",
+    "text": "@glaudemias @ady_news Não é deepfake????!?!?",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T12:20:45.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 116,
+          "end": 139,
+          "url": "https://t.co/8aspQuGd88",
+          "expanded_url": "https://twitter.com/noonegifaker/status/1550455808734928896/photo/1",
+          "display_url": "pic.twitter.com/8aspQuGd88",
+          "media_key": "3_1550455801327779840"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 14,
+          "probability": 0.996,
+          "type": "Person",
+          "normalized_text": "Melissa Benoist"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 16,
+          "end": 31,
+          "tag": "melissabenoist"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "tag": "Supergirl"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "tag": "exposed"
+        },
+        {
+          "start": 52,
+          "end": 62,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "fake"
+        },
+        {
+          "start": 69,
+          "end": 83,
+          "tag": "celebrityfake"
+        },
+        {
+          "start": 84,
+          "end": 99,
+          "tag": "celebrityleaks"
+        },
+        {
+          "start": 100,
+          "end": 109,
+          "tag": "pornedit"
+        },
+        {
+          "start": 110,
+          "end": 115,
+          "tag": "porn"
+        }
+      ]
+    },
+    "conversation_id": "1550455808734928896",
+    "attachments": {
+      "media_keys": [
+        "3_1550455801327779840"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 36,
+      "quote_count": 0
+    },
+    "id": "1550455808734928896",
+    "author_id": "1498718100702871556",
+    "text": "Melissa Benoist #melissabenoist #Supergirl #exposed #deepfakes #fake #celebrityfake #celebrityleaks #pornedit #porn https://t.co/8aspQuGd88",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T11:26:29.000Z",
+    "conversation_id": "1550442149916860423",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550442149916860423",
+    "author_id": "42444388",
+    "text": "O deepfake da minha cabeça tá mto bem calibrado. Sonhei com um amjgo/conhecido essa noite e a gente fez tanta coisa e tudo tão realista que ainda tô impactado que não foi real T.T haha",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T10:15:22.000Z",
+    "conversation_id": "1550424255015403521",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550424255015403521",
+    "author_id": "478612545",
+    "text": "RT @brunnosarttori: Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T08:54:13.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/zlWKfkKj7V",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1505182312048168962/video/1",
+          "display_url": "pic.twitter.com/zlWKfkKj7V",
+          "media_key": "7_1504920374626197511"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 17,
+          "end": 30,
+          "probability": 0.9712,
+          "type": "Person",
+          "normalized_text": "Olivia Rodrigo"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 35,
+          "end": 44,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1550403831535734784",
+    "attachments": {
+      "media_keys": [
+        "7_1504920374626197511"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1348607324269596673",
+          "name": "Olivia Rodrigo"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 359,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550403831535734784",
+    "author_id": "1395453294345084932",
+    "text": "RT @FakeHubPorn: Olivia Rodrigo 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/zlWKfkKj7V",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T08:44:46.000Z",
+    "conversation_id": "1549889276954935296",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "DJ_PRMF",
+          "id": "18101982"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550401452719460353",
+    "author_id": "14336613",
+    "text": "@DJ_PRMF Por acaso pensei que ias dizer que era um sósia porque achei-o estranho.\nAgora até podes dizer que o deepfake era só para enganar mas acho-o estranho à mesma (a um pouco jovem).",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T07:54:04.000Z",
+    "conversation_id": "1550275010744442880",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "labraguegabiol9",
+          "id": "765555533197611008"
+        },
+        {
+          "start": 36,
+          "end": 48,
+          "username": "Aldoburahim",
+          "id": "1473995716091531269"
+        },
+        {
+          "start": 49,
+          "end": 60,
+          "username": "vrockzzz12",
+          "id": "1482995128768012288"
+        },
+        {
+          "start": 61,
+          "end": 73,
+          "username": "AhmadNadhiv",
+          "id": "1298043613817876480"
+        },
+        {
+          "start": 74,
+          "end": 89,
+          "username": "ibrahim_cukdar",
+          "id": "1482988039643320321"
+        },
+        {
+          "start": 90,
+          "end": 104,
+          "username": "Mr_Delectable",
+          "id": "1487091320"
+        },
+        {
+          "start": 105,
+          "end": 119,
+          "username": "Luke_Bi_Twink",
+          "id": "1482992928758898690"
+        },
+        {
+          "start": 120,
+          "end": 136,
+          "username": "He4vyMaXTrading",
+          "id": "1458006590813052935"
+        },
+        {
+          "start": 137,
+          "end": 147,
+          "username": "TiemeLaar",
+          "id": "1482992755970387968"
+        },
+        {
+          "start": 148,
+          "end": 162,
+          "username": "Deepfake_Simp",
+          "id": "1482992047346880513"
+        },
+        {
+          "start": 163,
+          "end": 176,
+          "username": "Jerryshi2030",
+          "id": "1475674085027823617"
+        },
+        {
+          "start": 177,
+          "end": 188,
+          "username": "HK_The_God",
+          "id": "4843043720"
+        },
+        {
+          "start": 189,
+          "end": 205,
+          "username": "CJTaylo37841690",
+          "id": "1410369983515926536"
+        },
+        {
+          "start": 206,
+          "end": 216,
+          "username": "riztrends",
+          "id": "1062731733198626816"
+        },
+        {
+          "start": 217,
+          "end": 227,
+          "username": "Jstew4255",
+          "id": "1467419769137549314"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "45",
+          "name": "Brand Vertical",
+          "description": "Top level entities that describe a Brands industry"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Brand Category",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "781974597428125696",
+          "name": "Sports/Outdoor"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10026773952",
+          "name": "Adidas"
+        }
+      },
+      {
+        "domain": {
+          "id": "48",
+          "name": "Product",
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+        },
+        "entity": {
+          "id": "10045036246",
+          "name": "Adidas US"
+        }
+      },
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "id": "67",
+          "name": "Interests and Hobbies",
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550388695756410883",
+    "author_id": "1357159344232538112",
+    "text": "@labraguegabiol9 Adidas Free Avatar @Aldoburahim @vrockzzz12 @AhmadNadhiv @ibrahim_cukdar @Mr_Delectable @Luke_Bi_Twink @He4vyMaXTrading @TiemeLaar @Deepfake_Simp @Jerryshi2030 @HK_The_God @CJTaylo37841690 @riztrends @Jstew4255",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T04:46:21.000Z",
+    "conversation_id": "1549900566440157187",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "delivaldog",
+          "id": "363842785"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "username": "HSTHudson",
+          "id": "1185030199479590918"
+        },
+        {
+          "start": 23,
+          "end": 35,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550341454949646337",
+    "author_id": "1241508530198364161",
+    "text": "@delivaldog @HSTHudson @LulaOficial O deepfake também não",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T04:44:37.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/qgXc1e6WpA",
+          "expanded_url": "https://www.uol.com.br/eleicoes/2022/07/01/geddel-diz-adversarios-vao-ter-de-engoli-lo.htm",
+          "display_url": "uol.com.br/eleicoes/2022/…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "username": "LaMaestrini",
+          "id": "1101505850"
+        }
+      ]
+    },
+    "conversation_id": "1550145427445620741",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1550341018935074817",
+    "author_id": "2608879574",
+    "text": "@brunnosarttori @LaMaestrini certamente não é o geddel que ela está engolindo, se não seria um deepfake\nhttps://t.co/qgXc1e6WpA",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T03:06:18.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550316275028692993",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550316275028692993",
+    "author_id": "1265651569434992642",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T02:24:09.000Z",
+    "conversation_id": "1550305568086179848",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "gorouning",
+          "id": "1259654281017413632"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1550305667268984832",
+    "author_id": "1346224624183476226",
+    "text": "@gorouning é deepfake é montagem",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T02:05:16.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1550300918519738368",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 210,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550300918519738368",
+    "author_id": "1402631480631652352",
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T02:04:28.000Z",
+    "conversation_id": "1549951465179029506",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "nenhumtabu",
+          "id": "1028710682"
+        },
+        {
+          "start": 12,
+          "end": 23,
+          "username": "GilDoVigor",
+          "id": "1058748734820044800"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1354157314786246656",
+          "name": "Gilberto Nogueira"
+        }
+      },
+      {
+        "domain": {
+          "id": "58",
+          "name": "Entertainment Personality",
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+        },
+        "entity": {
+          "id": "1354157314786246656",
+          "name": "Gilberto Nogueira"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550300715008069633",
+    "author_id": "1383493201533685769",
+    "text": "@nenhumtabu @GilDoVigor como assim? É um deepfake?",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T02:02:06.000Z",
+    "conversation_id": "1550300118582165504",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550300118582165504",
+    "author_id": "129260758",
+    "text": "RT @brunnosarttori: Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T01:24:36.000Z",
+    "conversation_id": "1550290684757909505",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550290684757909505",
+    "author_id": "291732413",
+    "text": "RT @brunnosarttori: Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T01:20:51.000Z",
+    "conversation_id": "1550289739542044672",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550289739542044672",
+    "author_id": "519968607",
+    "text": "RT @brunnosarttori: Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T01:17:05.000Z",
+    "conversation_id": "1550288791646216195",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550288791646216195",
+    "author_id": "2214330824",
+    "text": "RT @brunnosarttori: Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T01:05:04.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 50,
+          "end": 73,
+          "url": "https://t.co/9Ebo7klP4f",
+          "expanded_url": "http://dlvr.it/SVJBw1",
+          "display_url": "dlvr.it/SVJBw1"
+        }
+      ]
+    },
+    "conversation_id": "1550285765623496704",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550285765623496704",
+    "author_id": "1456641668904534017",
+    "text": "Deepfakes: uma ameaça também para as organizações https://t.co/9Ebo7klP4f",
+    "source": "dlvr.it"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T01:03:51.000Z",
+    "conversation_id": "1550285460366311431",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550285460366311431",
+    "author_id": "95677984",
+    "text": "RT @brunnosarttori: Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T01:01:07.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 67,
+          "end": 90,
+          "url": "https://t.co/y7vkTJU9zp",
+          "expanded_url": "https://twitter.com/jornaldarecord/status/1550269660314173441",
+          "display_url": "twitter.com/jornaldarecord…"
+        }
+      ]
+    },
+    "conversation_id": "1550284773477830659",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 16,
+      "like_count": 142,
+      "quote_count": 0
+    },
+    "id": "1550284773477830659",
+    "author_id": "64773188",
+    "text": "Pra quem perdeu, tem minha cara feia aqui falando sobre deepfakes. https://t.co/y7vkTJU9zp",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T00:33:40.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1550277867333816320",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 210,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550277867333816320",
+    "author_id": "1150133044780531712",
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-22T00:00:37.000Z",
+    "conversation_id": "1550269546501644291",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550269546501644291",
+    "author_id": "1850193420",
+    "text": "* reportagem sobre deepfake na record *\n\n* pausa para cena de ping para localhost * \n\n* volta a falar *",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T23:28:44.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550261525977391104",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      },
+      {
+        "domain": {
+          "id": "4",
+          "name": "TV Episodes",
+          "description": "Television show episodes"
+        },
+        "entity": {
+          "id": "1545343190554660864",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1545343190554660864",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550261525977391104",
+    "author_id": "253982124",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T23:28:31.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 253,
+          "end": 276,
+          "url": "https://t.co/tdRpzj6ViE",
+          "expanded_url": "https://twitter.com/jornaldarecord/status/1550261468662304769/photo/1",
+          "display_url": "pic.twitter.com/tdRpzj6ViE",
+          "media_key": "3_1550259526875627523"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 234,
+          "end": 249,
+          "tag": "JornalDaRecord"
+        }
+      ]
+    },
+    "conversation_id": "1550261468662304769",
+    "attachments": {
+      "media_keys": [
+        "3_1550259526875627523"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 8,
+      "quote_count": 0
+    },
+    "id": "1550261468662304769",
+    "author_id": "291926260",
+    "text": "Você já ouviu falar em deepfake? É uma tecnologia capaz de mudar rostos e vozes das pessoas, que preocupa pelo uso criminoso. E você, sabe técnicas para identificar alterações no som e nas imagens digitais? Siga o fio e entenda com o #JornalDaRecord 👇🧶 https://t.co/tdRpzj6ViE",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:31:28.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550247112771764224",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      },
+      {
+        "domain": {
+          "id": "4",
+          "name": "TV Episodes",
+          "description": "Television show episodes"
+        },
+        "entity": {
+          "id": "1545343190554660864",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Entity Service related Events domain"
+        },
+        "entity": {
+          "id": "1545343190554660864",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550247112771764224",
+    "author_id": "98236519",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:23:57.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550245220767391744",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550245220767391744",
+    "author_id": "10246482",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:13:19.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550242543585136642",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550242543585136642",
+    "author_id": "60162453",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:12:44.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550242399926030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550242399926030338",
+    "author_id": "59150875",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:10:58.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550241954851594241",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550241954851594241",
+    "author_id": "1454825469463957508",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:10:38.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550241871741550599",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550241871741550599",
+    "author_id": "1436006286517211140",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:10:31.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550241839143424003",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550241839143424003",
+    "author_id": "1086784912517148682",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:10:24.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550241812421324800",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550241812421324800",
+    "author_id": "1078272446468419585",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:09:18.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550241532107694080",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550241532107694080",
+    "author_id": "443887894",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:07:56.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 40,
+          "end": 72,
+          "probability": 0.2332,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 18,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        }
+      ]
+    },
+    "conversation_id": "1550241192025145344",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550241192025145344",
+    "author_id": "4867339191",
+    "text": "RT @brunnosarttori: Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:07:44.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 20,
+          "end": 52,
+          "probability": 0.1148,
+          "type": "Other",
+          "normalized_text": "Jornal da Record sobre Deepfakes"
+        }
+      ]
+    },
+    "conversation_id": "1550241137935384579",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028786221",
+          "name": "Jornal da Record",
+          "description": "Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 17,
+      "reply_count": 10,
+      "like_count": 234,
+      "quote_count": 1
+    },
+    "id": "1550241137935384579",
+    "author_id": "64773188",
+    "text": "Hoje tem matéria no Jornal da Record  sobre Deepfakes. Produzi algumas para a exibição e falei sobre o assunto. Começa as 19h55, mas deve ser uma das últimas reportagens. Fica o convite. ❤️",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:00:57.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 219,
+          "end": 242,
+          "url": "https://t.co/qifnZCp07X",
+          "expanded_url": "https://open.spotify.com/episode/0iMl4pYX0iiqEsjcVFZycW?si=VUMAy5ylSPm_Ybb4I8bZgw",
+          "display_url": "open.spotify.com/episode/0iMl4p…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "jabuticabasc",
+          "id": "1509511371628634113"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 165,
+          "end": 184,
+          "tag": "mulherespodcasters"
+        },
+        {
+          "start": 185,
+          "end": 194,
+          "tag": "deepfake"
+        },
+        {
+          "start": 195,
+          "end": 218,
+          "tag": "inteligenciaartificial"
+        }
+      ]
+    },
+    "conversation_id": "1550239434037231617",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550239434037231617",
+    "author_id": "1108720934163304449",
+    "text": "RT @jabuticabasc: No episódio de ontem, entendemos melhor como funciona a prática de deepfake e os pontos positivos e negativos da inteligência artificial. Confira!\n#mulherespodcasters #deepfake #inteligenciaartificial\nhttps://t.co/qifnZCp07X",
+    "source": "IFTTT"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T22:00:00.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 201,
+          "end": 224,
+          "url": "https://t.co/GAty66OFfc",
+          "expanded_url": "https://open.spotify.com/episode/0iMl4pYX0iiqEsjcVFZycW?si=VUMAy5ylSPm_Ybb4I8bZgw",
+          "display_url": "open.spotify.com/episode/0iMl4p…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 147,
+          "end": 166,
+          "tag": "mulherespodcasters"
+        },
+        {
+          "start": 167,
+          "end": 176,
+          "tag": "deepfake"
+        },
+        {
+          "start": 177,
+          "end": 200,
+          "tag": "inteligenciaartificial"
+        }
+      ]
+    },
+    "conversation_id": "1550239192742895616",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0
+    },
+    "id": "1550239192742895616",
+    "author_id": "1509511371628634113",
+    "text": "No episódio de ontem, entendemos melhor como funciona a prática de deepfake e os pontos positivos e negativos da inteligência artificial. Confira!\n#mulherespodcasters #deepfake #inteligenciaartificial\nhttps://t.co/GAty66OFfc",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T21:50:45.000Z",
+    "conversation_id": "1550228335036440578",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "LoboConsciente",
+          "id": "1248292773146628099"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 26,
+      "quote_count": 0
+    },
+    "id": "1550236865034420224",
+    "author_id": "1390824120972099587",
+    "text": "@LoboConsciente Eu sei que ela não é uma cortesã, mas ela está usando o uniforme de uma nessa imagem, se isso ai não for deepfake ou algo do tipo.",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T21:45:25.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 116,
+          "end": 139,
+          "url": "https://t.co/iBBiuhEtl6",
+          "expanded_url": "https://www.kaspersky.com.br/blog/brasileiros-desconhecem-deepfake/18834/",
+          "display_url": "kaspersky.com.br/blog/brasileir…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 108,
+          "end": 113,
+          "probability": 0.9883,
+          "type": "Place",
+          "normalized_text": "Brasil"
+        }
+      ]
+    },
+    "conversation_id": "1550235522446008320",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550235522446008320",
+    "author_id": "1538241558516011008",
+    "text": "65% dos brasileiros não sabem o que é deep fake, fico preocupado em ter um almento de casos futuralmente no Brasil.\nhttps://t.co/iBBiuhEtl6",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T21:34:10.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 88,
+          "end": 111,
+          "url": "https://t.co/g7FLnkgeP4",
+          "expanded_url": "https://twitter.com/therealsupes/status/1549874031448297473",
+          "display_url": "twitter.com/therealsupes/s…"
+        }
+      ]
+    },
+    "conversation_id": "1550232693916536832",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "1385692051539255296",
+          "name": "No Limite",
+          "description": "Fique por dentro das conversas sobre No Limite aqui!"
+        }
+      },
+      {
+        "domain": {
+          "id": "172",
+          "name": "Global TV Show",
+          "description": "For global/conceptual TV shows without localization."
+        },
+        "entity": {
+          "id": "1391796182226137089",
+          "name": "No Limite"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550232693916536832",
+    "author_id": "4573492757",
+    "text": "deepfake sempre me deixa mó no limite do vale da estranheza, mas isso aqui ficou mó bom https://t.co/g7FLnkgeP4",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T20:27:41.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/OfVlw1kbOg",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 77,
+          "end": 100,
+          "url": "https://t.co/vnYYorGaz0",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537125284000018435/video/1",
+          "display_url": "pic.twitter.com/vnYYorGaz0",
+          "media_key": "7_1537096029669052418"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 42,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1550215962443620352",
+    "attachments": {
+      "media_keys": [
+        "7_1537096029669052418"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 126,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550215962443620352",
+    "author_id": "1546885241348005890",
+    "text": "RT @FakeHubPorn: Marisa Tomei 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw1kbOg https://t.co/vnYYorGaz0",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T19:31:24.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/rHbh6rmzaV",
+          "expanded_url": "https://canaltech.com.br/seguranca/65-dos-brasileiros-ainda-nao-sabem-o-que-e-deep-fake-221244/",
+          "display_url": "canaltech.com.br/seguranca/65-d…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 96,
+          "end": 106,
+          "tag": "Kaspersky"
+        },
+        {
+          "start": 107,
+          "end": 116,
+          "tag": "DeepFake"
+        }
+      ]
+    },
+    "conversation_id": "1550201799121960960",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Brand Category",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10040203468",
+          "name": "Kaspersky"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1550201799121960960",
+    "author_id": "1131927330",
+    "text": "Cerca de três em cada cinco brasileiros nem mesmo conhecem esse conceito de manipulação visual. #Kaspersky #DeepFake\nhttps://t.co/rHbh6rmzaV",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T18:36:17.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/RIaeDj3MbH",
+          "expanded_url": "https://twitter.com/D4hz4hn/status/1549873512004853760",
+          "display_url": "twitter.com/D4hz4hn/status…"
+        }
+      ]
+    },
+    "conversation_id": "1550187925438177280",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550187925438177280",
+    "author_id": "709046193725296640",
+    "text": "Pior que não sou mto fã desses deepfake que tão usando... blz que fica \"bem feito\" e talvez num futuro o bagulho fique insanamente bom e realmente nem dê pra perceber.. mas atualmente, pra mim, fica estranho.\nMto melhor pegar uma pessoa mais nova que dê conta do papel... https://t.co/RIaeDj3MbH",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T16:23:18.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 96,
+          "end": 119,
+          "url": "https://t.co/UrBkOXSzh9",
+          "expanded_url": "https://twitter.com/D4hz4hn/status/1549918359961075714",
+          "display_url": "twitter.com/D4hz4hn/status…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 32,
+          "end": 35,
+          "probability": 0.9583,
+          "type": "Person",
+          "normalized_text": "Mark"
+        }
+      ]
+    },
+    "conversation_id": "1550154460353204225",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "1455198878223851528",
+          "name": "The Book of Boba Fett"
+        }
+      },
+      {
+        "domain": {
+          "id": "172",
+          "name": "Global TV Show",
+          "description": "For global/conceptual TV shows without localization."
+        },
+        "entity": {
+          "id": "1455200593933258754",
+          "name": "The Book of Boba Fett"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550154460353204225",
+    "author_id": "2183173838",
+    "text": "Pelo amor de deus o deepfake do Mark é maravilhoso, o CGI de TBOBF é maravilhoso também zzzzzzz https://t.co/UrBkOXSzh9",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T13:11:53.000Z",
+    "conversation_id": "1550079298949844994",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "rafaelbboa",
+          "id": "2159646294"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1550106289438687237",
+    "author_id": "886343928634585088",
+    "text": "@rafaelbboa é serio que não é deepfake... o.O",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T10:51:16.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/OfVlw1kbOg",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 77,
+          "end": 100,
+          "url": "https://t.co/vnYYorGaz0",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537125284000018435/video/1",
+          "display_url": "pic.twitter.com/vnYYorGaz0",
+          "media_key": "7_1537096029669052418"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 42,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1550070901789495296",
+    "attachments": {
+      "media_keys": [
+        "7_1537096029669052418"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 126,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1550070901789495296",
+    "author_id": "1271205545874087936",
+    "text": "RT @FakeHubPorn: Marisa Tomei 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw1kbOg https://t.co/vnYYorGaz0",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T09:05:45.000Z",
+    "conversation_id": "1549889276954935296",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "JPraga",
+          "id": "27294818"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1550044348288585730",
+    "author_id": "18101982",
+    "text": "@JPraga Se estiveres atento, consegues reparar em algumas falhas nestes vídeos.\nMas a tecnologia evoluiu consideravelmente desde então, e se antes era bem fácil de veres um deepfake, hoje nem tanto...",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T05:42:21.000Z",
+    "conversation_id": "1549993159664467968",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "LulaDilma13",
+          "id": "1249267382440398848"
+        },
+        {
+          "start": 17,
+          "end": 29,
+          "username": "uiraescobar",
+          "id": "33625845"
+        },
+        {
+          "start": 30,
+          "end": 46,
+          "username": "kalliloliveira_",
+          "id": "47984479"
+        },
+        {
+          "start": 47,
+          "end": 59,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 60,
+          "end": 67,
+          "username": "gleisi",
+          "id": "31139434"
+        },
+        {
+          "start": 68,
+          "end": 80,
+          "username": "STF_oficial",
+          "id": "68313718"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "937638599612174336",
+          "name": "Brazil Supreme Federal Court  ",
+          "description": "Brazil Supreme Federal Court  "
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "981224436849295360",
+          "name": "STF",
+          "description": "STF"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549993159664467968",
+    "author_id": "1645736942",
+    "text": "RT @LulaDilma13: @uiraescobar @kalliloliveira_ @LulaOficial @gleisi @STF_oficial Se for deepfake alguém investiu muito pra dar conta de faz…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T05:09:00.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 74,
+          "end": 97,
+          "url": "https://t.co/yFtnChI2PX",
+          "expanded_url": "https://youtu.be/KdfegonWz5g",
+          "display_url": "youtu.be/KdfegonWz5g"
+        }
+      ]
+    },
+    "conversation_id": "1549984765536772096",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549984765536772096",
+    "author_id": "40897607",
+    "text": "unrealengine 5 vom deepfake, em dois anos teremos jogos com rostos reais.\nhttps://t.co/yFtnChI2PX",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T04:33:07.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 11,
+          "end": 25,
+          "probability": 0.9931,
+          "type": "Other",
+          "normalized_text": "game of thrones"
+        },
+        {
+          "start": 88,
+          "end": 93,
+          "probability": 0.9504,
+          "type": "Person",
+          "normalized_text": "Cersei"
+        }
+      ]
+    },
+    "conversation_id": "1549975737809211397",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10002926166",
+          "name": "Game of Thrones",
+          "description": "The final season is here.\n\nPhoto via @GameofThrones"
+        }
+      },
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028298913",
+          "name": "Game of Thrones",
+          "description": "George R.R. Martin's best-selling book series `A Song of Ice and Fire' is brought to the screen as HBO sinks its considerable storytelling teeth into the medieval fantasy epic. It's the depiction of two powerful families - kings and queens, knights and renegades, liars and honest men - playing a deadly game for control of the Seven Kingdoms of Westeros, and to sit atop the Iron Throne. Martin is credited as a co-executive producer and one of the writers for the series, which was filmed in Northern Ireland and Malta."
+        }
+      },
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10028727706",
+          "name": "Game of Thrones"
+        }
+      },
+      {
+        "domain": {
+          "id": "172",
+          "name": "Global TV Show",
+          "description": "For global/conceptual TV shows without localization."
+        },
+        "entity": {
+          "id": "1223187925224980482",
+          "name": "Game of Thrones"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549975737809211397",
+    "author_id": "1054250882022416384",
+    "text": "Tô revendo game of thrones e namoral vei, que deepfake horrível fizeram na caminhada da Cersei bixo, era melhor ter filmado só por trás, a cara da mulher fica torta na cabeça",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T04:24:41.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 56,
+          "end": 79,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/NC99PonikF",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537850058871189504/video/1",
+          "display_url": "pic.twitter.com/NC99PonikF",
+          "media_key": "7_1537423158306820102"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 45,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1549973613918334976",
+    "attachments": {
+      "media_keys": [
+        "7_1537423158306820102"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10057735741",
+          "name": "Supergirl"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070719616001835008",
+          "name": "Melissa Benoist",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 210,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549973613918334976",
+    "author_id": "1440522800955936776",
+    "text": "RT @FakeHubPorn: Melissa Benoist 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/NC99PonikF",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T02:15:58.000Z",
+    "conversation_id": "1549823088090660866",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "edumeirabr",
+          "id": "4678191122"
+        },
+        {
+          "start": 12,
+          "end": 23,
+          "username": "filgmartin",
+          "id": "896736181198741505"
+        },
+        {
+          "start": 24,
+          "end": 36,
+          "username": "RodrigoMaia",
+          "id": "35260027"
+        },
+        {
+          "start": 58,
+          "end": 70,
+          "username": "RodrigoMaia",
+          "id": "35260027"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "868121501089767424",
+          "name": "Rodrigo Maia",
+          "description": "Rodrigo Maia"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "868121501089767424",
+          "name": "Rodrigo Maia",
+          "description": "Rodrigo Maia"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549941222646730752",
+    "author_id": "166026432",
+    "text": "@edumeirabr @filgmartin @RodrigoMaia Fala que é deepfake, @RodrigoMaia ! 🤡",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T01:03:43.000Z",
+    "conversation_id": "1549847597103316993",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "carlafortunato",
+          "id": "79300339"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "username": "Metropoles",
+          "id": "3331429624"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1549923041257394176",
+    "author_id": "64458973",
+    "text": "@carlafortunato @Metropoles Parece até um deepfake",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T00:55:53.000Z",
+    "conversation_id": "1549772973128794117",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "chnetto",
+          "id": "94808731"
+        },
+        {
+          "start": 9,
+          "end": 24,
+          "username": "PauloCappelli_",
+          "id": "1092426810292342788"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549921068714016768",
+    "author_id": "64263945",
+    "text": "@chnetto @PauloCappelli_ Tá com cara de deepfake...além de conter informações equivocadas.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-21T00:17:51.000Z",
+    "conversation_id": "1549422009444171778",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "uiraescobar",
+          "id": "33625845"
+        },
+        {
+          "start": 13,
+          "end": 29,
+          "username": "kalliloliveira_",
+          "id": "47984479"
+        },
+        {
+          "start": 30,
+          "end": 42,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "username": "gleisi",
+          "id": "31139434"
+        },
+        {
+          "start": 51,
+          "end": 63,
+          "username": "STF_oficial",
+          "id": "68313718"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "937638599612174336",
+          "name": "Brazil Supreme Federal Court  ",
+          "description": "Brazil Supreme Federal Court  "
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "981224436849295360",
+          "name": "STF",
+          "description": "STF"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1549911497287024640",
+    "author_id": "733863092",
+    "text": "@uiraescobar @kalliloliveira_ @LulaOficial @gleisi @STF_oficial O que é deepfake?",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T23:39:18.000Z",
+    "conversation_id": "1549901797556355073",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "DJ_PRMF",
+          "id": "18101982"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549901797556355073",
+    "author_id": "475958935",
+    "text": "RT @DJ_PRMF: São deepfakes.\nNão são reais, não é o ator, não é a voz...\nSão imagens geradas por computador.\nAgora volta a ver o vídeo, e pe…",
+    "source": "Twitter for iPad"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T22:49:34.000Z",
+    "conversation_id": "1549889276954935296",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 4,
+      "like_count": 7,
+      "quote_count": 0
+    },
+    "id": "1549889280255922178",
+    "author_id": "18101982",
+    "text": "São deepfakes.\nNão são reais, não é o ator, não é a voz...\nSão imagens geradas por computador.\nAgora volta a ver o vídeo, e pensa nisso.",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T21:38:08.000Z",
+    "conversation_id": "1549798627022962688",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "Benett_",
+          "id": "65108893"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549871302919479297",
+    "author_id": "56808881",
+    "text": "@Benett_ Que vontade de ver ele morto e um deepfake daqueles, usando a voz dele com o mesmo tipo de narração.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T19:02:02.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 47,
+          "end": 52,
+          "probability": 0.9972,
+          "type": "Place",
+          "normalized_text": "Brasil"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "InforChannel",
+          "id": "819252392990539776"
+        }
+      ]
+    },
+    "conversation_id": "1549832017600200704",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549832017600200704",
+    "author_id": "35822984",
+    "text": "RT @InforChannel: Grande parte das empresas no Brasil não têm dimensão dos graves problemas que a prática do deepfake por cibercriminosos p…",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T18:53:46.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 78,
+          "end": 101,
+          "url": "https://t.co/2bPRO7XO0Q",
+          "expanded_url": "https://twitter.com/FrutoProib1do/status/1537994784114999297/photo/1",
+          "display_url": "pic.twitter.com/2bPRO7XO0Q",
+          "media_key": "3_1537994779815858177"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 41,
+          "end": 55,
+          "probability": 0.9706,
+          "type": "Person",
+          "normalized_text": "Elizabeth Olsen"
+        },
+        {
+          "start": 57,
+          "end": 76,
+          "probability": 0.5224,
+          "type": "Person",
+          "normalized_text": "Feiticeira Escarlate"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "FrutoProib1do",
+          "id": "1535074913698070540"
+        }
+      ]
+    },
+    "conversation_id": "1549829940832571394",
+    "attachments": {
+      "media_keys": [
+        "3_1537994779815858177"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549829940832571394",
+    "author_id": "1540723990326415364",
+    "text": "RT @FrutoProib1do: Fake Nude // DeepFake\nElizabeth Olsen\nFeiticeira Escarlate https://t.co/2bPRO7XO0Q",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T17:44:53.000Z",
+    "conversation_id": "1549165382342156288",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "plinyoalmeida",
+          "id": "1407533902034518017"
+        },
+        {
+          "start": 15,
+          "end": 27,
+          "username": "madruga2022",
+          "id": "1536459660743610369"
+        },
+        {
+          "start": 28,
+          "end": 43,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 44,
+          "end": 53,
+          "username": "TSEjusbr",
+          "id": "75270377"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "1495810518526808074",
+          "name": "Brazilian Superior Electoral Court (TSE)"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549812603626704900",
+    "author_id": "1249267382440398848",
+    "text": "@plinyoalmeida @madruga2022 @brunnosarttori @TSEjusbr Deepfake fica melhor do que essa porcaria. Isso aí é no máximo dublado. E bem mal feito.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T17:36:52.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 35,
+          "end": 58,
+          "url": "https://t.co/WbvJyu1QZC",
+          "expanded_url": "https://twitter.com/portalblackpink/status/1549719448751378432",
+          "display_url": "twitter.com/portalblackpin…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 5,
+          "end": 9,
+          "probability": 0.9602,
+          "type": "Person",
+          "normalized_text": "jisoo"
+        }
+      ]
+    },
+    "conversation_id": "1549810584274739201",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "847527946864607232",
+          "name": "Mobile gaming",
+          "description": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "id": "71",
+          "name": "Video Game",
+          "description": "A video game like Overwatch"
+        },
+        "entity": {
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549810584274739201",
+    "author_id": "1306356867451564032",
+    "text": "o da jisoo parece aqueles deepfake https://t.co/WbvJyu1QZC",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T17:14:54.000Z",
+    "conversation_id": "1549708216011038721",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "Rconstantino",
+          "id": "33520195"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1549805056794697728",
+    "author_id": "1122268619755458563",
+    "text": "@Rconstantino Deepfake mais amadora ...\nMelhora que tá ruim o sincronismo",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T16:24:47.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 105,
+          "end": 128,
+          "url": "https://t.co/AXLEJxLqmY",
+          "expanded_url": "https://coletiva.net/noticias/cientistas-descobrem-que-inconsciente-humano-sabe-identificar-deepfakes,416838.jhtml",
+          "display_url": "coletiva.net/noticias/cient…"
+        }
+      ]
+    },
+    "conversation_id": "1549792444790837250",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549792444790837250",
+    "author_id": "27003609",
+    "text": "Para chegarem a isso, foram realizados dois tipos de teste: um comportamental e outro com neuroimagens.\n\nhttps://t.co/AXLEJxLqmY",
+    "source": "mLabs - Gestão de Redes Sociais"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T16:00:57.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/zOLSPlMKbt",
+          "expanded_url": "https://open.spotify.com/episode/0iMl4pYX0iiqEsjcVFZycW?si=AwOeLrNXQWiO5ppiLCgDyA",
+          "display_url": "open.spotify.com/episode/0iMl4p…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 185,
+          "end": 198,
+          "probability": 0.9916,
+          "type": "Person",
+          "normalized_text": "Daniel Barbosa"
+        },
+        {
+          "start": 203,
+          "end": 218,
+          "probability": 0.9871,
+          "type": "Person",
+          "normalized_text": "Alexandre Pierro"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 16,
+          "username": "jabuticabasc",
+          "id": "1509511371628634113"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 241,
+          "end": 254,
+          "tag": "mulherespodc"
+        }
+      ]
+    },
+    "conversation_id": "1549786450044092416",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "1047123725525479425",
+          "name": "Information security",
+          "description": "Information Security"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1549786450044092416",
+    "author_id": "1108720934163304449",
+    "text": "RT @jabuticabasc: Para saber como se proteger da prática de deepfake e entender os prós e contras da inteligência artificial, conversamos com o especialista em segurança da informação, Daniel Barbosa, e Alexandre Pierro. Saiba mais no link!\n#mulherespodc… https://t.co/zOLSPlMKbt",
+    "source": "IFTTT"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T15:51:25.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/tZj7dABLnD",
+          "expanded_url": "https://twitter.com/portalblackpink/status/1549719448751378432",
+          "display_url": "twitter.com/portalblackpin…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 12,
+          "end": 15,
+          "probability": 0.9417,
+          "type": "Person",
+          "normalized_text": "lisa"
+        },
+        {
+          "start": 48,
+          "end": 52,
+          "probability": 0.9778,
+          "type": "Person",
+          "normalized_text": "jisoo"
+        }
+      ]
+    },
+    "conversation_id": "1549784050218459137",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "847527946864607232",
+          "name": "Mobile gaming",
+          "description": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "id": "71",
+          "name": "Video Game",
+          "description": "A video game like Overwatch"
+        },
+        "entity": {
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds",
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "913136718013804544",
+          "name": "JISOO",
+          "description": "Jisoo (지수) - member of BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "913136867872145408",
+          "name": "LISA",
+          "description": "Lisa (리사) - member of BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "913136718013804544",
+          "name": "JISOO",
+          "description": "Jisoo (지수) - member of BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "913136867872145408",
+          "name": "LISA",
+          "description": "Lisa (리사) - member of BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "888105153038958593",
+          "name": "K-pop",
+          "description": "K-Pop"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1549784050218459137",
+    "author_id": "1282410554519429121",
+    "text": "o avatar da lisa parecendo um louva deus e o da jisoo parecendo um deepfake https://t.co/tZj7dABLnD",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T15:40:54.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/Jzg5fnG5yE",
+          "expanded_url": "https://www.youtube.com/c/TVPapoRetoOficial",
+          "display_url": "youtube.com/c/TVPapoRetoOf…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1549779830341832705/fJkBgu4q?format=jpg&name=orig",
+              "width": 900,
+              "height": 900
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1549779830341832705/fJkBgu4q?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TV Papo Reto",
+          "description": "TV Papo Reto - Problemas com drogas? Eu posso te ajudar! Canal destinado a falar sobre dependência química, álcool e drogas de forma objetiva e descomplicada. Este espaço visa informar sobre o problema e apresentar soluções e tratamentos para aqueles que tem ou pensam que tem problemas com drogas. Com a gente o papo é reto! Facebook: @terapeutapaporeto",
+          "unwound_url": "https://www.youtube.com/c/TVPapoRetoOficial"
+        },
+        {
+          "start": 142,
+          "end": 165,
+          "url": "https://t.co/dDvOjH7UfN",
+          "expanded_url": "https://www.youtube.com/watch?v=NloUALB2p3w",
+          "display_url": "youtube.com/watch?v=NloUAL…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "uiraescobar",
+          "id": "33625845"
+        },
+        {
+          "start": 13,
+          "end": 29,
+          "username": "kalliloliveira_",
+          "id": "47984479"
+        },
+        {
+          "start": 30,
+          "end": 42,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "username": "gleisi",
+          "id": "31139434"
+        },
+        {
+          "start": 51,
+          "end": 63,
+          "username": "STF_oficial",
+          "id": "68313718"
+        }
+      ]
+    },
+    "conversation_id": "1549422009444171778",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "937638599612174336",
+          "name": "Brazil Supreme Federal Court  ",
+          "description": "Brazil Supreme Federal Court  "
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "981224436849295360",
+          "name": "STF",
+          "description": "STF"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1549781400886431752",
+    "author_id": "1082038438608715778",
+    "text": "@uiraescobar @kalliloliveira_ @LulaOficial @gleisi @STF_oficial Deepfake NADA!!!! É mais um enrustido de direita...\n\nhttps://t.co/Jzg5fnG5yE\n\nhttps://t.co/dDvOjH7UfN",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T15:19:29.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 253,
+          "end": 276,
+          "url": "https://t.co/QQSQe7m7qw",
+          "expanded_url": "https://open.spotify.com/episode/0iMl4pYX0iiqEsjcVFZycW?si=AwOeLrNXQWiO5ppiLCgDyA",
+          "display_url": "open.spotify.com/episode/0iMl4p…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 167,
+          "end": 180,
+          "probability": 0.992,
+          "type": "Person",
+          "normalized_text": "Daniel Barbosa"
+        },
+        {
+          "start": 185,
+          "end": 200,
+          "probability": 0.9873,
+          "type": "Person",
+          "normalized_text": "Alexandre Pierro"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 223,
+          "end": 242,
+          "tag": "mulherespodcasters"
+        },
+        {
+          "start": 243,
+          "end": 252,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1549776010949828608",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "1047123725525479425",
+          "name": "Information security",
+          "description": "Information Security"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0
+    },
+    "id": "1549776010949828608",
+    "author_id": "1509511371628634113",
+    "text": "Para saber como se proteger da prática de deepfake e entender os prós e contras da inteligência artificial, conversamos com o especialista em segurança da informação, Daniel Barbosa, e Alexandre Pierro. Saiba mais no link!\n#mulherespodcasters #deepfake\nhttps://t.co/QQSQe7m7qw",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T15:15:08.000Z",
+    "conversation_id": "1549774917893242888",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "Molusco_Loola",
+          "id": "1537539023861841921"
+        },
+        {
+          "start": 19,
+          "end": 34,
+          "username": "neymardasinuca",
+          "id": "995782748521590785"
+        },
+        {
+          "start": 35,
+          "end": 48,
+          "username": "CiraoCarioca",
+          "id": "910181970134564865"
+        },
+        {
+          "start": 49,
+          "end": 64,
+          "username": "AnaLucia_Aloha",
+          "id": "1241469461602893825"
+        },
+        {
+          "start": 65,
+          "end": 80,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 81,
+          "end": 93,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549774917893242888",
+    "author_id": "995782748521590785",
+    "text": "RT @Molusco_Loola: @neymardasinuca @CiraoCarioca @AnaLucia_Aloha @brunnosarttori @LulaOficial Companheiro Sartori só manja de deepfake do m…",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T15:08:14.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/V8vP7yvqFZ",
+          "expanded_url": "https://twitter.com/cat_dot_exe/status/1549771118956929026",
+          "display_url": "twitter.com/cat_dot_exe/st…"
+        }
+      ]
+    },
+    "conversation_id": "1549773180885209088",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "id": "1549773180885209088",
+    "author_id": "1068484169477627905",
+    "text": "na época que só tinhas os deepfake de Dame da ne na internet a vida era boa https://t.co/V8vP7yvqFZ",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T15:05:09.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 101,
+          "end": 124,
+          "url": "https://t.co/fX0iaZoj89",
+          "expanded_url": "https://fnbr.es/b2h",
+          "display_url": "fnbr.es/b2h"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 127,
+          "end": 135,
+          "tag": "FUNIBER"
+        },
+        {
+          "start": 136,
+          "end": 147,
+          "tag": "tecnologia"
+        },
+        {
+          "start": 148,
+          "end": 158,
+          "tag": "deepfakes"
+        },
+        {
+          "start": 159,
+          "end": 167,
+          "tag": "twitter"
+        },
+        {
+          "start": 168,
+          "end": 177,
+          "tag": "software"
+        },
+        {
+          "start": 178,
+          "end": 191,
+          "tag": "deeplearning"
+        },
+        {
+          "start": 192,
+          "end": 202,
+          "tag": "instagram"
+        },
+        {
+          "start": 203,
+          "end": 210,
+          "tag": "google"
+        }
+      ]
+    },
+    "conversation_id": "1549772405794820096",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Brand Category",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      },
+      {
+        "domain": {
+          "id": "48",
+          "name": "Product",
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+        },
+        "entity": {
+          "id": "10050907858",
+          "name": "Google - AI",
+          "description": "Google - AI"
+        }
+      },
+      {
+        "domain": {
+          "id": "48",
+          "name": "Product",
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Brand Category",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "857879456773357569",
+          "name": "Technology",
+          "description": "Technology"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549772405794820096",
+    "author_id": "43875980",
+    "text": "Os deepfakes e como as empresas de tecnologia estão começando a aplicar medidas para detê-los na UE. https://t.co/fX0iaZoj89 | #FUNIBER #tecnologia #deepfakes #twitter #software #deeplearning #instagram #google",
+    "source": "Hootsuite Inc."
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T14:10:16.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 54,
+          "end": 62,
+          "probability": 0.9994,
+          "type": "Person",
+          "normalized_text": "bolsonaro"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "jamivieira_",
+          "id": "369132498"
+        },
+        {
+          "start": 13,
+          "end": 29,
+          "username": "PaulinhoJunioor",
+          "id": "1010131342275895296"
+        }
+      ]
+    },
+    "conversation_id": "1549598280794914816",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 0
+    },
+    "id": "1549758594249379841",
+    "author_id": "788535681152843776",
+    "text": "@jamivieira_ @PaulinhoJunioor Ele fazia montagens com bolsonaro usando inteligência artificial com deepfake, essa é a contribuição",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T11:31:04.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/OfVlw1kbOg",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/Us9bjRRiFr",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1502705988419346433/video/1",
+          "display_url": "pic.twitter.com/Us9bjRRiFr",
+          "media_key": "7_1502286506232274949"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 35,
+          "end": 44,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1549718528298815488",
+    "attachments": {
+      "media_keys": [
+        "7_1502286506232274949"
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 86,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549718528298815488",
+    "author_id": "1141781931543146496",
+    "text": "RT @FakeHubPorn: Natalie Dormer 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw1kbOg https://t.co/Us9bjRRiFr",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T10:52:03.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/yantHzcda9",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1514257118496366598/video/1",
+          "display_url": "pic.twitter.com/yantHzcda9",
+          "media_key": "7_1513523851950538758"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 39,
+          "end": 48,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1549708711958319104",
+    "attachments": {
+      "media_keys": [
+        "7_1513523851950538758"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "897535670746402816",
+          "name": "Alexandra Daddario",
+          "description": "Alexandra Daddario"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "897535670746402816",
+          "name": "Alexandra Daddario",
+          "description": "Alexandra Daddario"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 205,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549708711958319104",
+    "author_id": "1548547003826991104",
+    "text": "RT @FakeHubPorn: Alexandra Daddario 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/yantHzcda9",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T10:33:07.000Z",
+    "entities": {
+      "annotations": [
+        {
+          "start": 37,
+          "end": 47,
+          "probability": 0.4673,
+          "type": "Person",
+          "normalized_text": "luiza sonza"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "waveshine64",
+          "id": "1503773969882783745"
+        }
+      ]
+    },
+    "conversation_id": "1549703947291607041",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "999697474502639617",
+          "name": "Luisa Sonza",
+          "description": "Luisa Sonza"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "999697474502639617",
+          "name": "Luisa Sonza",
+          "description": "Luisa Sonza"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549703947291607041",
+    "author_id": "1435305362618454020",
+    "text": "RT @WaveShine64: Que coisa é essa, a luiza sonza ta feia demais car, parece que fizeram deepfake da geetchen nessa coisa, que criatura abom…",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T09:39:07.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 34,
+          "end": 57,
+          "url": "https://t.co/Egv5RTCNHS",
+          "expanded_url": "https://twitter.com/SimaoCostaVNF/status/1549474243083108360",
+          "display_url": "twitter.com/SimaoCostaVNF/…"
+        }
+      ]
+    },
+    "conversation_id": "1549690356098383872",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549690356098383872",
+    "author_id": "628769035",
+    "text": "Ao início achava que era deepfake https://t.co/Egv5RTCNHS",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T06:33:30.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 51,
+          "end": 74,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 75,
+          "end": 98,
+          "url": "https://t.co/1klfACJHU0",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1492559126915780609/video/1",
+          "display_url": "pic.twitter.com/1klfACJHU0",
+          "media_key": "7_1492147792458006534"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 31,
+          "end": 40,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1549643645011124224",
+    "attachments": {
+      "media_keys": [
+        "7_1492147792458006534"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1070715935688843266",
+          "name": "Eva Mendes",
+          "description": "American actress"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "1070715935688843266",
+          "name": "Eva Mendes",
+          "description": "American actress"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 207,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549643645011124224",
+    "author_id": "1519771854348595200",
+    "text": "RT @FakeHubPorn: Eva Mendes 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/1klfACJHU0",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T04:36:38.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 224,
+          "end": 247,
+          "url": "https://t.co/VLgIXWXSeq",
+          "expanded_url": "https://twitter.com/Belle_belinha__/status/1549188746012246016",
+          "display_url": "twitter.com/Belle_belinha_…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 20,
+          "end": 30,
+          "probability": 0.4796,
+          "type": "Person",
+          "normalized_text": "luiza sonza"
+        }
+      ]
+    },
+    "conversation_id": "1549614233922445312",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "999697474502639617",
+          "name": "Luisa Sonza",
+          "description": "Luisa Sonza"
+        }
+      },
+      {
+        "domain": {
+          "id": "54",
+          "name": "Musician",
+          "description": "A musician in the world, like Adele or Bob Dylan"
+        },
+        "entity": {
+          "id": "999697474502639617",
+          "name": "Luisa Sonza",
+          "description": "Luisa Sonza"
+        }
+      },
+      {
+        "domain": {
+          "id": "55",
+          "name": "Music Genre",
+          "description": "A category for a musical style, like Pop, Rock, or Rap"
+        },
+        "entity": {
+          "id": "810938279801470977",
+          "name": "Pop",
+          "description": "Pop"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 5,
+      "like_count": 9,
+      "quote_count": 0
+    },
+    "id": "1549614233922445312",
+    "author_id": "1503773969882783745",
+    "text": "Que coisa é essa, a luiza sonza ta feia demais car, parece que fizeram deepfake da geetchen nessa coisa, que criatura abominável se eu fosse o vitao e acordasse do lado desse ser eu ia achar que tava tendo paralisia do sono https://t.co/VLgIXWXSeq",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T03:49:06.000Z",
+    "conversation_id": "1549602272354631680",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "id": "1549602272354631680",
+    "author_id": "41175313",
+    "text": "Achei mórbido esse institucional do canal VIVA usando deepfake.",
+    "source": "TweetDeck"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T03:38:21.000Z",
+    "conversation_id": "1549402645915394048",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "neymardasinuca",
+          "id": "995782748521590785"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "username": "CiraoCarioca",
+          "id": "910181970134564865"
+        },
+        {
+          "start": 30,
+          "end": 45,
+          "username": "AnaLucia_Aloha",
+          "id": "1241469461602893825"
+        },
+        {
+          "start": 46,
+          "end": 61,
+          "username": "brunnosarttori",
+          "id": "64773188"
+        },
+        {
+          "start": 62,
+          "end": 74,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "id": "1549599565338263553",
+    "author_id": "1537539023861841921",
+    "text": "@neymardasinuca @CiraoCarioca @AnaLucia_Aloha @brunnosarttori @LulaOficial Companheiro Sartori só manja de deepfake do mal. Essa do bem, ele não manja.",
+    "source": "Twitter for Android"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T03:05:28.000Z",
+    "conversation_id": "1549591290635067396",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "LulaDilma13",
+          "id": "1249267382440398848"
+        },
+        {
+          "start": 17,
+          "end": 29,
+          "username": "uiraescobar",
+          "id": "33625845"
+        },
+        {
+          "start": 30,
+          "end": 46,
+          "username": "kalliloliveira_",
+          "id": "47984479"
+        },
+        {
+          "start": 47,
+          "end": 59,
+          "username": "LulaOficial",
+          "id": "2670726740"
+        },
+        {
+          "start": 60,
+          "end": 67,
+          "username": "gleisi",
+          "id": "31139434"
+        },
+        {
+          "start": 68,
+          "end": 80,
+          "username": "STF_oficial",
+          "id": "68313718"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "937638599612174336",
+          "name": "Brazil Supreme Federal Court  ",
+          "description": "Brazil Supreme Federal Court  "
+        }
+      },
+      {
+        "domain": {
+          "id": "88",
+          "name": "Political Body",
+          "description": "A section of a government, like The Supreme Court"
+        },
+        "entity": {
+          "id": "981224436849295360",
+          "name": "STF",
+          "description": "STF"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva",
+          "description": "Brazilian 35th president."
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "902525333580070913",
+          "name": "Gleisi Hoffmann",
+          "description": "Gleisi Hoffmann"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549591290635067396",
+    "author_id": "22735093",
+    "text": "RT @LulaDilma13: @uiraescobar @kalliloliveira_ @LulaOficial @gleisi @STF_oficial Se for deepfake alguém investiu muito pra dar conta de faz…",
+    "source": "Twitter for iPad"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T02:53:48.000Z",
+    "conversation_id": "1549588356434219009",
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 13,
+          "username": "HandlezGZ",
+          "id": "40402121"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549588356434219009",
+    "author_id": "1238533435188273152",
+    "text": "RT @HandlezGZ: os cara achando q eh deepfake da belle belinha mano\n\neh a coisa mais acreditavel uma adolescente vender nude na internet ja…",
+    "source": "bot mano"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T02:53:46.000Z",
+    "conversation_id": "1549588346711801856",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0
+    },
+    "id": "1549588346711801856",
+    "author_id": "40402121",
+    "text": "os cara achando q eh deepfake da belle belinha mano\n\neh a coisa mais acreditavel uma adolescente vender nude na internet ja q uma caralhada de gente vende e propaga a ideia de q ganha dinheiro facil",
+    "source": "Twitter Web App"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T02:25:33.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/OfVlw12ApG",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/yantHzcda9",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1514257118496366598/video/1",
+          "display_url": "pic.twitter.com/yantHzcda9",
+          "media_key": "7_1513523851950538758"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 39,
+          "end": 48,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1549581244534603778",
+    "attachments": {
+      "media_keys": [
+        "7_1513523851950538758"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "897535670746402816",
+          "name": "Alexandra Daddario",
+          "description": "Alexandra Daddario"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "897535670746402816",
+          "name": "Alexandra Daddario",
+          "description": "Alexandra Daddario"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 205,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549581244534603778",
+    "author_id": "1488426260812513282",
+    "text": "RT @FakeHubPorn: Alexandra Daddario 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw12ApG https://t.co/yantHzcda9",
+    "source": "Twitter for iPhone"
+  },
+  {
+    "lang": "pt",
+    "created_at": "2022-07-20T01:38:29.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 53,
+          "end": 76,
+          "url": "https://t.co/OfVlw1kbOg",
+          "expanded_url": "https://linktr.ee/FakeHubPorn",
+          "display_url": "linktr.ee/FakeHubPorn"
+        },
+        {
+          "start": 77,
+          "end": 100,
+          "url": "https://t.co/vnYYorGaz0",
+          "expanded_url": "https://twitter.com/FakeHubPorn/status/1537125284000018435/video/1",
+          "display_url": "pic.twitter.com/vnYYorGaz0",
+          "media_key": "7_1537096029669052418"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "FakeHubPorn",
+          "id": "1195044714069872640"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 42,
+          "tag": "deepfake"
+        }
+      ]
+    },
+    "conversation_id": "1549569400352739328",
+    "attachments": {
+      "media_keys": [
+        "7_1537096029669052418"
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      },
+      {
+        "domain": {
+          "id": "56",
+          "name": "Actor",
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+        },
+        "entity": {
+          "id": "974353790206799872",
+          "name": "Marisa Tomei",
+          "description": "Marisa Tomei"
+        }
+      }
+    ],
+    "public_metrics": {
+      "retweet_count": 126,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "id": "1549569400352739328",
+    "author_id": "1156206844756529153",
+    "text": "RT @FakeHubPorn: Marisa Tomei 🔞🔥 #deepfake\nTelegram: https://t.co/OfVlw1kbOg https://t.co/vnYYorGaz0",
+    "source": "Twitter for iPhone"
+  }
+]
